@@ -1,0 +1,787 @@
+,Text,Username,Unnamed: 0,Datetime,polarity
+0,@brian_trollz @lite_hause @HassanAesthetic @wtogami @plobtc @gladstein @torkelrogstad @udiWertheimer @ercwl @EdanYago @giacomozucco The definition of being an open source developer of a project is pretty simple and straightforward. You don’t have to find out someone’s motivations in order to know whether or not they are a developer. I’m not the fool here.,SatoshiLite,123056,2021-11-22 07:59:23+00:00,Neutral
+1,"Something happened in October of 2020 that was totally unexpected. PayPal announced support of Litecoin out of the blue. 
+
+https://t.co/DTSJ2uCeK4
+
+This was actually the first time something big happened to Litecoin without anything to do with me.",SatoshiLite,123108,2021-10-12 19:20:24+00:00,Neutral
+2,"In September 2018, we held our first Litecoin Summit. It was a big success. It was great to have supporters of Litecoin all come together in one place.
+
+https://t.co/g8hH57ptde
+
+It's been tough the past 2 years to do an in person summit, but we plan to do one as soon as we can.",SatoshiLite,123116,2021-10-12 18:52:57+00:00,Neutral
+3,"Pretty much every other altcoin had a huge premine. Even Ethereum had like 70% coins premined. There's nothing wrong with a premine, except I think there are different fiduciary duties when you created a coin with a big premine for yourself.",SatoshiLite,123125,2021-10-12 18:20:32+00:00,Neutral
+4,"I didn't want him to change his mind. Face with tears of joy
+
+I took it as his approval and just got the team together to make it happen. Litecoin launched on Coinbase in May.
+
+And June 9 was my last day, but that was planned 6+ months in advance.
+
+https://t.co/dPrinHZE3O",SatoshiLite,123131,2021-10-12 17:28:39+00:00,Neutral
+5,"This was definitely not a staged tweet and reply. I actually didn't expect Brian to reply at all, but I was extremely glad to see him agree with me.
+
+So right away, I gathered the team together at Coinbase to launch Litecoin. I didn't even talk to Brian after his Twitter reply.",SatoshiLite,123132,2021-10-12 17:22:36+00:00,Neutral
+6,This was the state of crypto trading a month before launch. It wasn't like Litecoin was a small coin. It was the #5 coin with trading volume that almost matched Etheruem's and LTC wasn't even on Coinbase. So I was extremely frustrated and felt a bit slighted. https://t.co/kGPgXDzyyt,SatoshiLite,123137,2021-10-12 17:09:49+00:00,Negative
+7,"We did not follow the Ethereum launch, which I helped design, that was extremely successful. So the LTC launched on GDAX was a huge failure IMO. Fred had refused to let Coinbase hold any LTC and due to conflict of interest, I didn't feel it was right for me to argue with him.",SatoshiLite,123139,2021-10-12 17:05:29+00:00,Neutral
+8,"Coinbase did not put any resources behind this launch and pretty much just quietly launched the LTC/BTC and LTC/USD trading pairs with an empty order book. For reasons unknown to me, Brian &amp; Fred refused to do a full launch on GDAX &amp; Coinbase like we did with ETH.",SatoshiLite,123140,2021-10-12 17:04:10+00:00,Neutral
+9,"After taking the summer off in 2016 to work on Litecoin SegWit, I went part time at Coinbase and worked mostly from home. At that time I asked Brian if we can add LTC support given how successful the Ethereum launch was. Brian reluctantly agreed to launch on GDAX only.",SatoshiLite,123141,2021-10-12 17:02:43+00:00,Positive
+10,"All this was just wrong. Users wanted SegWit. Markets wanted it. Why are miners, basically 1 person, able to block something that is good for Litecoin and Bitcoin.
+
+In the end, miners are being paid to do one thing, which is to collect transactions into blocks and broadcast them.",SatoshiLite,123156,2021-10-08 19:05:15+00:00,Neutral
+11,"In February 2011, SegWit signaling started on Litecoin. Basically miners will signal whether or not they supported SegWit in the blocks they mined. If 75% of blocks signal for SegWit within a 2-week timeframe, it will lock and SegWit will activate after some time.",SatoshiLite,123164,2021-10-08 18:48:03+00:00,Neutral
+12,"The co-founder of Bitamin, Jihan Wu (@JihanWu), is a big supporter of scaling Bitcoin onchain. Basically, he belives Bitcoin can just hard fork to increase the block size and there's no reason why we need to do something complicated like SegWit and LN.",SatoshiLite,123172,2021-10-08 18:31:57+00:00,Neutral
+13,"I realized that here's a chance for Litecoin to do something to help Bitcoin. If we can get SegWit on Litecoin, it can clear out all the FUD and prove that SegWit is safe and a good upgrade for Bitcoin.
+
+Back then the biggest FUD was the anyone-can-spend FUD.",SatoshiLite,123184,2021-10-08 00:33:57+00:00,Neutral
+14,"Although I went along with the plan, it kind of rubbed me the wrong way. Litecoin had a much higher global trade volume at the time and was the #2 coin in marketcap. So although it's fair that Ethereum had more potential, we went out of our way to not launch LTC at the same time.",SatoshiLite,123187,2021-10-08 00:28:34+00:00,Neutral
+15,"There was a lot of unsatisfied demand. People in the US had no easy way to store and trade these coins. And Coinbase would steal a lion share of the demand if we added the 2 coins to start.
+
+Both Brian and Fred like the idea but they crossed out LTC. They just want to do ETH.",SatoshiLite,123188,2021-10-08 00:25:06+00:00,Neutral
+16,This was also when Ethereum was starting to get big. So I put together a proposal to Brian and Fred Ehrsam (@FEhrsam) to add both LTC and ETH to Coinbase. Basically the reasoning was that it was clear that Coinbase could make a lot of money if it let people trade ETH and LTC.,SatoshiLite,123189,2021-10-08 00:22:56+00:00,Neutral
+17,"The rumors were actually true. I was talking to the CEO, Mark Karpelès (@MagicalTux) almost on a daily basis in mid 2015. He was dealing with a lawsuit and upgrading the trade engine to something he called the Midas engine. If you were around then, you would have heard of it.",SatoshiLite,123194,2021-10-08 00:14:23+00:00,Neutral
+18,"I forgot to mention that I chose Litecoin because Litecoin is the lighter version of Bitcoin. It's faster, cheaper, and easier to use.
+
+And we got to see a young &amp; unknown (at the time) @VitalikButerin hating on the name. I prefer Litecoin over Etherium. Wait, is it Ethereum? 😂 https://t.co/kCLUUNbiel",SatoshiLite,123214,2021-10-07 19:27:52+00:00,Neutral
+19,"The best part was that all the domains were available. So on 10/4/11, I bought them all on GoDaddy. What a great move in hindsight. So now, we don't have something like https://t.co/TFymqt9pKY promoting Litecoin Cash instead of Litecoin. $38.85 well spent! 😂 https://t.co/ur0ckkHMsh",SatoshiLite,123227,2021-10-07 17:23:00+00:00,Positive
+20,"I basically took everything that's good from these altcoins (speed, CPU mining) and did a fair launch. And that's why Litecoin succeeded where others failed.
+
+The name Litecoin came to me pretty quickly. I thought of something like an Elitecoin first. Then Litecoin jumped out.",SatoshiLite,123228,2021-10-07 17:19:54+00:00,Neutral
+21,"I just searched my old emails and saw that June 8, 2011 was the day I got into Bitcoin. Today is exactly 10 years since that day. It is the first time I got goosebumps from something happening in this space. History will look back on this day as a major turning point for Bitcoin! https://t.co/iiVHr1SoVV",SatoshiLite,123250,2021-06-09 06:43:29+00:00,Neutral
+22,@ethanimooney @NaveenSpark 👍,SatoshiLite,123277,2021-04-06 05:47:09+00:00,Neutral
+23,₿ΞŁlwether 🤯 https://t.co/MTw9FsQ5i6,SatoshiLite,123287,2021-03-19 18:08:44+00:00,Neutral
+24,"@MetaxasMusic For Vinyl, the collectible is the vinyl itself, not the song. So yes, it has value. It's a bit different for a digital token. It's hard for the token itself to be valuable when it's not something physical and unique.",SatoshiLite,123296,2021-03-04 21:20:25+00:00,Neutral
+25,"5/ It’s definitely worth something. But is the full value of the Mona Lisa transferred to this certificate? I argue definitely not. If everyone can have an exact duplicate of the Mona Lisa hanging on their walls, most wouldn't care much to own the certificate of authenticity.",SatoshiLite,123312,2021-03-04 20:18:22+00:00,Neutral
+26,"@GregoryGHarding Reserve price is enforced by OpenSeas. They set a minimum of 1 ETH for some reason. First time I’ve used it to list an item, so not sure if it’s always 1 ETH minimum. Sorry, but I can’t change it.",SatoshiLite,123339,2021-02-15 07:07:11+00:00,Neutral
+27,"With all that said, I’m willing to be proven wrong. I created a unique NFT with my profile pic. It cost me nothing (well except for the ridiculous ETH gas fee) and no effort at all. Prove me wrong and show me that this has value: https://t.co/ucmu8KB1Us
+
+😂",SatoshiLite,123341,2021-02-15 06:54:33+00:00,Neutral
+28,"Community makes a crypto stronger. Some are so strong &amp; vocal that they even have made a name for themselves. There's the XRP army and Link marines. Bitcoin even has the Bitcoin maximalists.
+
+Nothing beats the Litecoin Family though. Family always stick together. 👊
+
+#LitecoinFam https://t.co/wA4eIhK0tt",SatoshiLite,123376,2020-12-26 19:02:38+00:00,Neutral
+29,"@VentureCoinist $BTC $BCH $ETH are the only ones close to keeping up with Litecoin.
+
+FTFY 😂",SatoshiLite,123414,2020-10-28 04:56:54+00:00,Neutral
+30,"@john_chungus @Lite731 @nftporn 8 part thread?
+
+If you've followed it that closely, you will know that Litecoin has always followed Bitcoin's footsteps. We've never had development outside of merging in Bitcoin code. We are finally doing something different with MWEB. And I've never been more active than now.",SatoshiLite,123470,2020-10-10 04:22:53+00:00,Neutral
+31,"See you guys tomorrow at #MCCVR2020!
+
+Hang out in our awesome magical crypto VR world with bitcoiners, litecoiners, monereans, and maybe even some closet ethereans. 😂
+
+And choose from a wide variety of human avatars and furry friends! To find me, just look for the 🐔 with a 🚀. https://t.co/zIkWL5mrfk",SatoshiLite,123486,2020-09-25 00:02:18+00:00,Neutral
+32,"@udiWertheimer XRP is a digital asset without a blockchain.
+
+Tether is a blockchain without a digital asset. https://t.co/sJo72ev82v",SatoshiLite,123558,2020-08-10 18:10:20+00:00,Neutral
+33,"@DGB_LTC_J Although I like Decred, I think that method has too much centralization. It's not my call to take a public good and give it to a specific dev team. Yes, I know you can do stake voting to make it more decentralized, but that's a very different model than Litecoin's proof of work.",SatoshiLite,123561,2020-08-04 08:55:44+00:00,Neutral
+34,"Assuming 13s blocks, this attack re-org'ed 13hrs worth of blocks. According to https://t.co/yfy2GcBfQE, ETC is over 100% nicehashable and the money needed to pull it off was only $120k.
+
+This is why it's extremely important for a PoW coin to be hash dominant like BTC, ETH, &amp; LTC. https://t.co/RkAZuAynNN https://t.co/d1ILNSW4Rf",SatoshiLite,123586,2020-08-01 14:04:11+00:00,Neutral
+35,"@whywhytellmewh2 @JohnMilanSebik @chainlink Did I say anything about the price? I said Litecoin. Yes, I can do something stupid and affect the price. But that's just a short term thing. And even then, the Litecoin network goes on uninterrupted. Litecoin will outlive me.",SatoshiLite,123612,2020-07-27 05:59:07+00:00,Neutral
+36,"@whywhytellmewh2 @JohnMilanSebik @chainlink Meaning, Litecoin will do fine even if LTC foundation stops existing. If you or others hold stop supporting LTC because of something the foundation does, Litecoin doesn’t care. People bitching on Twitter is a tiny part of the Litecoin.",SatoshiLite,123614,2020-07-27 05:47:52+00:00,Neutral
+37,@aryanb09 @BitsComplicated @effectsToCause @bobbyclee How are tax transcripts going to prove whether or not someone created Bitcoin?,SatoshiLite,123631,2020-07-01 12:10:09+00:00,Neutral
+38,"@RedRhinoBTC @cz_binance Why does that matter what others do? The point is for Binance to not put their economic weight on either fork. If other exchanges help one fork over the other, that's something they have to live with.",SatoshiLite,123671,2020-05-23 13:57:37+00:00,Neutral
+39,"@adam3us @Excellion @magicalcrypto @WhalePanda @fluffypony @halfin @netiquette Indeed. Bitcoin so beautifully simple, but it takes a genius to put it all together. To do that AND implement a v0.1 that works near flawlessly is just unheard of.",SatoshiLite,123683,2020-05-21 09:15:31+00:00,Neutral
+40,@adam3us @Excellion @magicalcrypto @WhalePanda @fluffypony @halfin @NickSzabo4 What do you mean by if there’s a header or something missing?,SatoshiLite,123688,2020-05-21 08:01:37+00:00,Neutral
+41,"Taking a page from Udi's playbook, I'm starting this untrollable thread for the @magicalcrypto friends to chat about Satoshi Nakamoto's mined coins and whether or not @adam3us is Satoshi.
+
+So did Satoshi just move 50 BTC? @Excellion @WhalePanda @fluffypony https://t.co/bsvVcsqTdP",SatoshiLite,123699,2020-05-21 05:03:38+00:00,Neutral
+42,@LVormer @atari Might be worth something on eBay!,SatoshiLite,123723,2020-05-19 16:43:12+00:00,Neutral
+43,"@DeepBlueCrypto @blockchain Yes it would, but I don’t think we would need to. This is something we wouldn’t have to think about for a century.",SatoshiLite,123737,2020-05-11 15:59:56+00:00,Neutral
+44,@kiranvaidya @SHackamoto Who said ETH is a shitcoin?,SatoshiLite,123826,2020-02-28 22:36:16+00:00,Neutral
+45,"The Konami Code is something one never forgets. What a legacy to leave behind! RIP Kzuhisa Hashimoto.
+⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️▶️ https://t.co/87rfgxkPQA",SatoshiLite,123837,2020-02-27 09:45:32+00:00,Neutral
+46,@BoilingPointLLC @AnCapZero @AwakeOrASheep @LocalEthereum 👍,SatoshiLite,123847,2020-02-20 02:17:23+00:00,Neutral
+47,@cryptocardowl @LocalEthereum It has no effect on my commitment to Litecoin. So why does it matter?,SatoshiLite,123848,2020-02-19 03:19:18+00:00,Neutral
+48,@WillMuny1 @LocalEthereum It's great for marketing. Kudos to them. 👏,SatoshiLite,123849,2020-02-19 02:39:11+00:00,Positive
+49,"This is a tight race! Go vote for your favorite crypto. I think liquidity is extremely important and it's good to have more on ramps for crypto. Whoever wins, I hope @LocalEthereum will continue to add more coins.
+
+That said... go vote for Litecoin! 😀 https://t.co/cA2CSlEQYb",SatoshiLite,123850,2020-02-19 01:37:20+00:00,Neutral
+50,"@BinanceResearch @0xstark @MakerDAO @synthetix_io @UniswapExchange @litecoin Silly to try to compare the two. Does comparing Ethereum on chain fees with DeFi fees tell you anything about the success of DeFi? Ethereum on chain fees is only 3 times more than DeFi fees according to OP. You can't draw any conclusion from that.
+
+https://t.co/iIUrofqkuW",SatoshiLite,123852,2020-02-18 08:51:44+00:00,Neutral
+51,@MrAtulNair @LTCFoundation I like it. Wallets can implement something like this.,SatoshiLite,123905,2020-01-25 20:26:03+00:00,Neutral
+52,"Hmm, but the question on everyone's mind is whether or not this is Pro-BTC? 🤔😂 https://t.co/EufJdmP1ig",SatoshiLite,123924,2020-01-17 06:57:51+00:00,Neutral
+53,"Ethereum's difficulty bomb is like the US debt ceiling. It's a self-imposed rule that is supposed to force change, but is easily pushed back with zero penalty whenever it comes around. They should just get rid of this charade completely.
+
+h/t @bitcoinbigbang1 https://t.co/xr1NlQ1b1D",SatoshiLite,124000,2019-11-02 16:30:38+00:00,Neutral
+54,@DanDarkPill Vitalik on the brink of the first bailout of Ethereum.,SatoshiLite,124064,2019-10-16 19:06:25+00:00,Neutral
+55,@ecurrencyhodler The background check must have revealed something bad...,SatoshiLite,124070,2019-10-16 02:02:04+00:00,Negative
+56,@dangershony @nmeofdst8vM660 @ChrisCryptoBear @ToneVays @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation I’m more invested in Litecoin than anyone else. Not all investments are financial. But you wouldn’t understand.,SatoshiLite,124072,2019-10-15 08:39:46+00:00,Neutral
+57,"@junseth @ChrisCryptoBear @nmeofdst8vM660 @ToneVays @j2banker @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation Touche
+
+Slightly different, but ok.",SatoshiLite,124075,2019-10-15 07:15:03+00:00,Neutral
+58,"@joliwa @ToneVays @ChrisCryptoBear @nmeofdst8vM660 @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation I sold before that tweet based on the time of that tweet and the price. Does that make it better in your mind? Price also went up after I sold at $90. Is that because I tweeted hodl on for dear life?! Imagine if I didn't make that 1 tweet, price would never have reached $300. 🤦‍♂️",SatoshiLite,124076,2019-10-15 07:11:41+00:00,Positive
+59,"@nmeofdst8vM660 @ChrisCryptoBear @ToneVays @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation I have not left Litecoin. By not being invested in the coin, I can freely work on Litecoin and tweet stuff without wondering if I'm doing it for personal profit or for the best of Litecoin. Like is working on MimbleWimble just for a quick price pump? I now know for sure it's not.",SatoshiLite,124077,2019-10-15 06:59:02+00:00,Neutral
+60,@CryptoPsyop @OverCloudz @ToneVays @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation I beg to differ. It has already done extremely well as a store of value so far in its 8 years of existance. But time will tell.,SatoshiLite,124078,2019-10-15 06:38:27+00:00,Neutral
+61,@Crittah3 @ToneVays @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation What if I get high from this? 🤔😂,SatoshiLite,124079,2019-10-15 06:36:49+00:00,Neutral
+62,"@ChrisCryptoBear @nmeofdst8vM660 @ToneVays @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation I know, right? What's up with people telling what I should or should not do with my money. SMH",SatoshiLite,124080,2019-10-15 06:35:23+00:00,Neutral
+63,"@OverCloudz @ToneVays @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation That's your opinion. I think Litecoin helps Bitcoin and crypto tremendously. Also, Pepsi doesn't help Coke at all, but just takes market share away. See how skewed your viewpoint is?",SatoshiLite,124081,2019-10-15 06:28:27+00:00,Neutral
+64,"@ToneVays @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation This all assumes Litecoin is not viable as a currency. $500B transacted in the last 8 years beg to differ. I use it all the time as money.
+
+Just because I never drink Pepsi and think it's inferior to Coke, it doesn't mean Pepsi is a scam. And likewise, Litecoin is not a scam.",SatoshiLite,124082,2019-10-15 06:21:26+00:00,Neutral
+65,"@AlexSaundersAU @junseth @adam3us @woonomic @mrilirgashi @merwanedr @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation Waiting 9 minutes to put your transactions in is the same thinking as if I flip 9 heads in a row, the next flip should give a tail.",SatoshiLite,124089,2019-10-15 02:03:05+00:00,Neutral
+66,"@AlexSaundersAU @junseth @adam3us @woonomic @mrilirgashi @merwanedr @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation Nope, it’s 10 minutes. You can’t outsmart a memory-less process. Yeah, you can get lucky, but average is always 10 minutes.",SatoshiLite,124090,2019-10-15 02:02:07+00:00,Neutral
+67,"@junseth @adam3us @AlexSaundersAU @woonomic @mrilirgashi @merwanedr @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation Bitcoin blocks are found with a Poisson processs. This means that there is no memory of previous hashing. At any point in time you join this process, it’s always 10 mins on average to find the next block. It’s just like if the the whole mining network wakes up at that time.",SatoshiLite,124092,2019-10-15 01:59:02+00:00,Neutral
+68,"@woonomic @adam3us @junseth @mrilirgashi @merwanedr @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation The wait time is less than 10 minutes in practice because hashrate has been increasing continuously, so average block times are less than 10 minutes, right?
+
+Or are you thinking of another reason?",SatoshiLite,124097,2019-10-15 01:18:55+00:00,Neutral
+69,@EternalCrypto @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation I didn't print my own money either. You must have me confused with an ICO creator. I bought and mined my coins just like you and everyone else.,SatoshiLite,124099,2019-10-15 00:31:30+00:00,Neutral
+70,"@merwanedr @junseth @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation Not necessarily, because if you get hacked then the hacker can be you and you have little to no recourse.
+
+It's a double edged sword.",SatoshiLite,124100,2019-10-15 00:28:17+00:00,Neutral
+71,@EternalCrypto @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation Instead of using the funds to help Litecoin via Litecoin Foundation? That's dumb. Why don't you burn your coins? What I do with my coins is my business. I owe to no one. And didn't even need to tell anyone.,SatoshiLite,124101,2019-10-15 00:27:21+00:00,Neutral
+72,"@merwanedr @junseth @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation Funny, they got my Instagram account banned for impersonation believe it or not. I appealed 2 weeks ago and no response so far. Pretty stupid",SatoshiLite,124103,2019-10-15 00:25:04+00:00,Neutral
+73,@junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation 👍 The reasoning is that longer blocks make up for the shorter blocks.,SatoshiLite,124106,2019-10-15 00:20:38+00:00,Neutral
+74,"@ringokidcrypto @joliwa @pestycyd @yeahwhatever99 @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @adam3us Litecoin was about 10% of my investments. So no, it wasn't greed that affected my decision.
+
+Whether this is best for Litecoin is for me alone to decide. You can make your own decisions about your own finances and how that affects Litecoin.",SatoshiLite,124107,2019-10-15 00:15:57+00:00,Positive
+75,@merwanedr @junseth @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation That wasn't me. Don't fall for scams!,SatoshiLite,124108,2019-10-15 00:10:27+00:00,Neutral
+76,"@junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation My thinking was that I didn't have market moving amount of LTC like CEOs do of shares. So if I disclosed ahead of time, it will cause a crash because people THINK that I have a lot and will crash the price, so they sell before me. So doing what I did was the responsible thing.",SatoshiLite,124109,2019-10-15 00:07:54+00:00,Neutral
+77,"@junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation Of course they do. At any point you submit a transaction, you need to wait on average 10 minutes for a block. You don't need a paper on it. You just need to understand how poisson distribution works.",SatoshiLite,124111,2019-10-14 23:54:15+00:00,Neutral
+78,@junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation You're wrong. Average wait time for Bitcoin is 10 minutes. It doesn't average to 5. That's not how poisson distribution works. At least know what you are talking about.,SatoshiLite,124112,2019-10-14 23:40:14+00:00,Neutral
+79,@jessecouch @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @adam3us He already planned the halving to be on his sister's birthday. So must be something else. 😂,SatoshiLite,124138,2019-10-14 05:31:32+00:00,Neutral
+80,@fluffypony @ToneVays @magicalcrypto You think boycut means cutting a boy’s hair? I was thinking it meant something else… 😂,SatoshiLite,124139,2019-10-14 05:28:04+00:00,Negative
+81,"@ORGANICASTRONA1 @ethereal_Vegas @NickLTC One of the benefits of having a coin like Litecoin and other cryptocurrencies is that one can’t take down every coin. So even if you manage to take down Bitcoin, another coin will rise up. This makes it not worth it to spend the money to take down Bitcoin.",SatoshiLite,124175,2019-10-06 03:14:30+00:00,Neutral
+82,"@cz_binance @CryptoVagina @cryptorecruitr Sure! Next time, you should pay ME to list Litecoin.
+
+Something funny I remember... sometimes random no-name exchanges would write me email asking for a certain amount of LTC to list Litecoin. I would just reply, sure send me the LTC here and I will allow you to list Litecoin. 😂",SatoshiLite,124185,2019-10-02 03:17:17+00:00,Neutral
+83,"@magnus_turing @cryptorecruitr The decision has no effect on the technology at all.
+
+It just has an effect on me being able to work on what I want to work on and say what I want to say without wondering whether I'm doing it just for my personal finances or if I'm doing for the success of the Litecoin project.",SatoshiLite,124188,2019-10-02 03:09:32+00:00,Neutral
+84,"@Comeback_USA Technically, yes. You can create a list of ""known"" scammer addresses. But who decides who's a scammer? What if the government didn't like you and put you on this list and you can no longer use your money?
+
+This is something cryptocurrency is trying to solve. Censorship is bad.",SatoshiLite,124213,2019-09-26 18:10:24+00:00,Neutral
+85,"@crypto_king_win @TheBTCBatman @cryptobaba_ @mauneel @RyanSAdams At least now, when I tweet about something, people won't accuse me of bag pumping. 🤷‍♂️",SatoshiLite,124216,2019-09-26 08:15:51+00:00,Neutral
+86,"@Lucasvn95 @mekane84 @Nano_Things @gupizzi @bitconfBR @wladi @nano @wanchain_org @Nuls @CardanoStiftung @tangram @Kappture1 @AppiaPay @UTRUST @PundiXLabs @binance Likely a thousand mining farms. Maybe they are in China. Will they come together to attack Bitcoin? Highly doubtful as they are profit driven. It’s not perfect, but it’s good enough I believe. Time will tell.",SatoshiLite,124226,2019-09-26 05:20:06+00:00,Neutral
+87,"@Comeback_USA There's not much I can do. I will make another warning tweet in a bit, but this is something Twitter needs to step up to fix and they haven't done much so far.",SatoshiLite,124239,2019-09-25 20:44:27+00:00,Neutral
+88,"@ORGANICASTRONA1 @LTCFoundation @bobbyclee @BalletCrypto What do you mean by me not reviewing any other fast payment methods? What does that even mean?
+
+Where's the conflict of interest of having Bobby at the summit?",SatoshiLite,124264,2019-09-17 09:05:27+00:00,Neutral
+89,"@yegorpetr0v @WhalePanda Yes, something that she can put in her safe deposit box and not worry aboit it. And not have to update firmware on when she wants to access her coins 5 years later.",SatoshiLite,124282,2019-09-13 22:46:24+00:00,Neutral
+90,@OneMorePeter @adam3us @VitalikButerin @alexsunnarborg The difference is that Litecoin had no ICO. I bought a mined the coins just like everyone else. So I’m not beholden to anyone with respect to Litecoin. That is not true for Vitalik and Ethereum and every single ICO coin.,SatoshiLite,124301,2019-09-10 00:12:51+00:00,Neutral
+91,@Balourdos13 @HeyTaiZen @WhalePanda @Excellion @fluffypony Whether or not I give them shit about it is my business. I'm not going to stand on some more high ground to do this nor do it publicly for virtue signaling. It's their own business what they invest in. And it's not like they are the ones running the company and making decisions.,SatoshiLite,124346,2019-08-21 16:06:23+00:00,Neutral
+92,"Here is a good article by @CryptoSlate explaining why being dominant in the respective mining algorithm is crucial for the security of the coin.
+
+Hashrate dominance:
+· Bitcoin - 96% of SHA256
+· Ethereum - 95% of Ethash
+· Litecoin - 98% of Scrypt
+
+https://t.co/rrU8RaauGZ",SatoshiLite,124362,2019-08-19 19:56:54+00:00,Neutral
+93,"@cryptorecruitr Given that Litecoin Foundation was formed in 2017, that's quite a feat! Litecoin Foundation must be doing something right.",SatoshiLite,124363,2019-08-19 09:28:53+00:00,Neutral
+94,"Litecoin wasn't an ICO. And there were no marching orders about attacking Litecoin and other coins.
+
+The idea of maximalism only started after Ethereum came on the scene. It was a defensive reaction triggered by the Ethereum flippening Bitcoin talks. https://t.co/X4uYiU3wuw",SatoshiLite,124384,2019-08-18 20:17:52+00:00,Neutral
+95,"@jgarzik Litecoin wasn't an ICO. And there were no marching orders about attacking Litecoin and other coins.
+
+The idea of maximalism only started after Ethereum came on the scene. It was a defensive reaction triggered by the Ethereum flippening Bitcoin talks.",SatoshiLite,124385,2019-08-18 20:15:16+00:00,Neutral
+96,@neal_magee @Kyle26707389 @l3l2ucelee @_mattyamamoto They claimed to be from the UN supporting sustainable development growth. Asked me to sign something that pushes for some fairly reasonable goals of helping our planet. I didn't see anything wrong with that and I didn't know what Agenda 21 was at that time.,SatoshiLite,124412,2019-08-17 19:09:42+00:00,Neutral
+97,"@lukechilds You should add another column representing something like a security-adjusted marketcap for the altcoin. Basically divide Bitcoin's marketcap by how much slower the altcoin is. Surprisingly some of the coins are actually pretty close to that marketcap!
+
+LTC: $194B / 36 = $5.4B",SatoshiLite,124431,2019-08-14 00:55:16+00:00,Neutral
+98,@JeremyJ15148024 That's not me. Someone created a fake profile pretending to be me to trick people. Sorry that you fell for it. Be careful when something is too good to be true. No one is going to give you free money.,SatoshiLite,124499,2019-08-06 22:42:06+00:00,Neutral
+99,Just had lunch with this guy. Working on something huge for Litecoin adoption. See if you can figure out who this is! #PayWithLitecoin https://t.co/kQGvq03PpH,SatoshiLite,124574,2019-07-02 06:27:28+00:00,Neutral
+100,@ailex1arellano @ChicoCrypto @infomonger @RoadtoRoota @Tether_to @Omni_Layer @Benaskren @ufc Yeah for sure! 😁,SatoshiLite,124668,2019-02-17 01:56:11+00:00,Positive
+101,"@ChicoCrypto @infomonger @RoadtoRoota @Tether_to @Omni_Layer You're welcome. But please, next time, instead of claiming something to be true and accusing me of something, feel free to just ask me. I try to be as transparent as possible.",SatoshiLite,124669,2019-02-17 01:50:46+00:00,Neutral
+102,@ChicoCrypto @infomonger @RoadtoRoota I don't know the details. My guess is that Bitcoin fees has dropped quite a bit since the highs and supporting LTC was not high priority anymore. I don't know if they will still do this in the future. Best to ask them. @Tether_to @Omni_Layer,SatoshiLite,124670,2019-02-17 01:43:47+00:00,Neutral
+103,"@ChicoCrypto @infomonger @RoadtoRoota Launching tether (or anything) on Litecoin requires no approval or corporation from me. I was informed of their decision and I supported it. But I didn't do any work on it. Ultimately, it didn't pan out. I don't have inside info on tether.
+
+What else do you want to know?",SatoshiLite,124671,2019-02-17 01:35:23+00:00,Neutral
+104,"@ChicoCrypto @infomonger @RoadtoRoota Yeah, I have talked to tether about this. I talk to people and companies that work with Litecoin all the time. Doesn't mean I'm affiliated with tether. Unless your definition of affiliation is very board. If so, then I'm affiliated with almost every single company in this space.",SatoshiLite,124672,2019-02-17 01:20:19+00:00,Neutral
+105,@ChicoCrypto @infomonger @RoadtoRoota Quoting a blog post by the Omni/tether team. What does it look like to you?!?,SatoshiLite,124674,2019-02-17 00:54:33+00:00,Neutral
+106,"@SK_Dan_Utd Sure, complexity opens up the attack surface. We will definitely take this slowly and do it right. But you can't add features without making things more complex. The question is what's the right tradeoffs and that's something we are spending a lot of time thinking through.",SatoshiLite,124679,2019-02-10 22:50:22+00:00,Neutral
+107,"@TTrevethan See how they are crumpled? I've looked over them. I have talked to many people about CT. Know enough to decide to do CT, but now I want to really understand the crypto well, so reading them again.",SatoshiLite,124702,2019-01-30 17:40:28+00:00,Neutral
+108,"@brentdavis @ignition_coin But crypto is new and all digital, so it's a bit different to compare with something like cash or gold where it's physical.",SatoshiLite,124719,2019-01-28 19:07:40+00:00,Neutral
+109,@sankethbanglore You just answered your own question.,SatoshiLite,124723,2019-01-28 18:39:15+00:00,Neutral
+110,@Jaw709 Same. Blocksize is always something we need to keep an eye on. But it's not a concern right now.,SatoshiLite,124730,2019-01-28 17:50:56+00:00,Neutral
+111,"I'm excited to see the community (#LTCEastCoastTeam &amp; #LTCWestCoastTeam) come together to support @Benaskren. Litecoin Foundation takes no credit for this. Good luck in UFC 235, Ben! 🥊 https://t.co/nVVWIu2dUS",SatoshiLite,124742,2019-01-15 02:46:11+00:00,Positive
+112,"This is a thought-provoking observation. 🤔
+
+By definition, a decentralized cryptocurrency must be susceptible to 51% attacks whether by hashrate, stake, and/or other permissionlessly-acquirable resources.
+
+If a crypto can't be 51% attacked, it is permissioned and centralized. https://t.co/LRCVj5F0O1",SatoshiLite,124745,2019-01-08 04:18:24+00:00,Neutral
+113,"Be careful w/ coins that are not dominant in their respective mining algorithm, especially ones that are NiceHash-able. ETC has less than 5% of the total Ethash hashrate and is 98% NiceHash-able. 1-hr attack costs $5k. Almost $500k has been double spent. https://t.co/REwM2lFA9Z https://t.co/bqw54LUjke",SatoshiLite,124747,2019-01-07 20:14:25+00:00,Neutral
+114,"I decided last minute to speak at @SlushHQ Helsinki next week. Will be doing a fireside chat with @philchen913 to talk about the @htcexodus phone. The HTC Exodus will support Bitcoin, Ethereum, &amp; Litecoin out of the box. Mass adoption happens one phone at a time! #PayWithLitecoin https://t.co/eNd4XEQw22",SatoshiLite,124770,2018-11-27 21:01:17+00:00,Neutral
+115,2/ It's trading off some centralization for network stability and reliability. Satoshi also used checkpoints in Bitcoin in the beginning. Though one can say that it is similar to the idea of UASF as users can decide whether or not to run or upgrade to the latest checkpoints.,SatoshiLite,124774,2018-11-22 00:19:35+00:00,Neutral
+116,"Bitcoin, Ethereum, and Litecoin are the BELlweather cryptos. They are the only coins that are traded on every major crypto exchanges and can be stored on every hardware wallet.
+
+Easily buying and securely storing other coins is really a PITA. 😂",SatoshiLite,124786,2018-10-25 21:21:48+00:00,Neutral
+117,"On my way to Money 20/20 today, I spotted something that looked familiar. 😂 https://t.co/KCPMC9qRGO",SatoshiLite,124788,2018-10-23 23:18:26+00:00,Neutral
+118,"3/ Miners have no incentives to attack the network because it will destroy the value of their ASIC hardware.
+
+Litecoin has a ton of liquidity, which is important for people to get in/out of LTC. It is on practically every fiat and crypto exchange (Gemini soon), even more than ETH",SatoshiLite,124824,2018-09-20 05:37:04+00:00,Neutral
+119,@noggfresh1 @KennethBosak It's not. It's a scammer. Report them.,SatoshiLite,124870,2018-08-19 07:03:53+00:00,Neutral
+120,@mileythejack @starkness @eric_winer @billbarhydt @derekcapo @dieguito @CoolBitXCEO @AdamDraper @BigEtheword @TravelbyBit @eiaine @SkyCorridors Yes,SatoshiLite,124871,2018-08-18 21:59:30+00:00,Neutral
+121,"Don't miss out on cheap Litecoin Summit tix!
+
+Looking forward to see @starkness (⚡Labs), @eric_winer (Gemini), @billbarhydt (Abra), @derekcapo (TokenPay), @dieguito (RSK), @CoolBitXCEO, @AdamDraper (BoostVC), @BigEtheword (Aliant), @TravelbyBit, @eiaine, @SkyCorridors &amp; more! 😮 https://t.co/ihwLZERULj",SatoshiLite,124873,2018-08-18 20:06:13+00:00,Neutral
+122,@AllStuffCrypto @johnkim77 I have said and will say good things about Litecoin. Didn't you see my tweet about Litecoin being the easiest onramp to LN? There's some method to my madness. You just have to trust me. 😀,SatoshiLite,124929,2018-07-20 16:56:34+00:00,Positive
+123,@ChloeTanner1 Disagree. The energy consumption is what makes it valuable. You don't get something as awesome as cryptocurrencies for no cost.,SatoshiLite,124954,2018-07-20 04:08:44+00:00,Positive
+124,"@wheatpond @CryptoDeethz Oh yeah, Litecoin always had a ton of trading volume.",SatoshiLite,124990,2018-07-19 10:49:13+00:00,Neutral
+125,@CryptoDeethz Based on what logic? Dogecoin global trading volume is 1/10 of Litecoin's.,SatoshiLite,124991,2018-07-19 10:46:03+00:00,Neutral
+126,@Crypt0Physicist @LTCFoundation @tokenpay @magicalcrypto I think eFin has potential to being a good decentralized exchange. EFin won't be promoting scam coins. And I won't be shilling scam coins. I might say something good about eFin if it's indeed good. I won't be shilling things I don't believe in because of this partnership.,SatoshiLite,125010,2018-07-18 18:52:24+00:00,Positive
+127,"@ruchit_sengupta @neilrc30 The point is, don't think of it as missing out. Owning other coins is much riskier. Owning BTC is more of a sure bet. So before you speculate, invest in something solid first.  
+
+And no, I'm not calling LTC a shitcoin.",SatoshiLite,125069,2018-07-17 09:52:50+00:00,Neutral
+128,@ruchit_sengupta @neilrc30 Something like that.,SatoshiLite,125074,2018-07-17 09:38:28+00:00,Neutral
+129,"@CGoboom @CnutLt @ShakeCrypto @TheRealXinxi No, unless you consider something like LN, a dapp. IMO dapps are mostly silly. Most apps don't need decentralization and the inefficiency it brings.",SatoshiLite,125084,2018-07-17 02:19:04+00:00,Neutral
+130,@Christian3886 @NickLTC @johnkim77 @LTCFoundation @aantonop And I'm doing my best. But people need to step up and ask what they can do for Litecoin. All the volunteers of LF stepped up and actually did something about it.,SatoshiLite,125123,2018-07-15 18:19:01+00:00,Positive
+131,"@NickLTC @Christian3886 @johnkim77 @LTCFoundation @aantonop This is something most people don't understand. LF is a centralized entity set up to help Litecoin adoption to the best of its abilities. LF doesn't owe anything or answer to people who own LTC. If people want to help out, they can do so independent of LF.",SatoshiLite,125125,2018-07-15 18:15:27+00:00,Positive
+132,@albright_duane @jaredctate @robert_salter @WillemUrk @dgb_chilling Work together on what?,SatoshiLite,125143,2018-07-15 03:37:13+00:00,Neutral
+133,"@jaredctate @robert_salter @WillemUrk @dgb_chilling It's not a huge vulnerability right now. Of it ever becomes one, we can always hardfork in something like DigiShield. Thanks for creating that and proving it works in practice, but I would appreciate it if you would stop saying this is needed for Litecoin and Bitcoin today.",SatoshiLite,125147,2018-07-15 03:17:23+00:00,Neutral
+134,"@namjachoi @LTCFoundation People don't realize that I bought and mined LTC just like everyone else. Unlike founders of Ethereum, Ripple, and all ICOs, I didn't print coins out of thin air. 😀 Or maybe ☹️",SatoshiLite,125208,2018-07-13 06:26:27+00:00,Neutral
+135,@ShineThatLite TMI 😮,SatoshiLite,125284,2018-07-11 17:05:00+00:00,Neutral
+136,@KennethVermeul3 @RipplePandaXRP @pollawit2515 @Ripple @bgarlinghouse @JoelKatz I deleted my tweet. Waste of my time reading messages from all the people hating on me because they misunderstand my tweet.,SatoshiLite,125296,2018-07-11 12:01:52+00:00,Neutral
+137,"@JoelKatz @RipplePandaXRP @KennethVermeul3 @pollawit2515 @Ripple @bgarlinghouse Thanks David. Exactly this. Of course XRP is useful. Many people find it useful. I personally don't use it, but that doesn't make it useless. Calling it useless is just as dumb as calling LTC useless. I was being flippant to a flippant tweet. It's just a stupid tweet, people! SMH",SatoshiLite,125301,2018-07-11 08:28:48+00:00,Neutral
+138,@haydentiff @JoelKatz @KennethVermeul3 @Ripple @bgarlinghouse I learned my lesson the hard way.,SatoshiLite,125320,2018-07-10 17:36:57+00:00,Neutral
+139,"@Go_Saintz3 @KennethVermeul3 @Ripple @bgarlinghouse @JoelKatz I don't go out of my way to regularly bash it. When people ask for my opinion, I give it.",SatoshiLite,125324,2018-07-10 10:17:47+00:00,Neutral
+140,"@KennethVermeul3 @Ripple @bgarlinghouse @JoelKatz It's a reply to an insult. Don't take it out of context. Plus if you do take it out of context, I just said ""but XRP is"", so don't get all insulted. 😀",SatoshiLite,125325,2018-07-10 10:09:56+00:00,Neutral
+141,@KennethVermeul3 @Ripple @bgarlinghouse @JoelKatz You can't take a joke? I was asked if Litecoin is useless by an XRP supporter.  What did you expect me to reply?,SatoshiLite,125326,2018-07-10 10:02:26+00:00,Negative
+142,"@CryptoStoner @JasonDBurton To answer your original question, I didn't know to sell at ATH. At the point I sold and announced, LTC was on its way up. It shot up higher than I sold. No one knew whether it would go much higher or drop from there. Hindsight is 20/20.",SatoshiLite,125343,2018-07-09 19:27:11+00:00,Neutral
+143,@crypto_hodler It is a good question. Something I don't remember anyone ever asking me believe it or not.,SatoshiLite,125397,2018-07-09 04:49:33+00:00,Positive
+144,"@BitconnRekt @VitalikButerin I sold because holding LTC made it a situation where I may do something to pump the value short term. but is bad for the long term success of Litecoin. I didn't want that conflict. I've explained this many times. If all you still don't understand, I can't help you. Be gone.",SatoshiLite,125425,2018-07-07 17:13:01+00:00,Neutral
+145,@ShillCollinz @olivierjanss WTF is $U? Is there something that prevents me from not being invested in LTC and still work on it full time because I created it and want it to succeed? I don't think so.,SatoshiLite,125432,2018-07-07 16:38:20+00:00,Neutral
+146,"@F76_F76 @DedeAdil @EtherWorldNews Believe it or not, but I didn't know that the price would go down and not up. At the time I sold, the market was still very bullish. And it also would be irresponsible for me to tell everyone to sell as that would definitely cause a crash. The best thing to do was warn about it.",SatoshiLite,125472,2018-07-01 03:52:21+00:00,Positive
+147,"@DedeAdil @EtherWorldNews Channels are small by design for now because it's still beta software. And in the end, LN is best suited for smaller payments anyways.",SatoshiLite,125473,2018-06-28 13:53:30+00:00,Neutral
+148,"Generally, this has been a precursor of price going up. Tether gets printed when people deposit USD and get USDT back. This USDT will then be used to buy crypto. This is similar to someone depositing $250MM to exchanges. Of course, that doesn't mean they will buy right away. DYOR https://t.co/zg2PEjGohv",SatoshiLite,125504,2018-06-25 14:21:34+00:00,Neutral
+149,@julianhosp I'm not aware of any. Not sure if ETH LN is ready yet.,SatoshiLite,125543,2018-06-23 08:46:29+00:00,Neutral
+150,@xtdisnkfe @Niveth94 @litecoin_moon @CNBCFastMoney Yup,SatoshiLite,125587,2018-06-21 06:11:50+00:00,Neutral
+151,"@joekkievandefc No, but it still annoys me to no end. That's why I like hockey more. Lose a teeth, no problem, still finish the game.",SatoshiLite,125614,2018-06-20 16:46:08+00:00,Neutral
+152,Tether is making bank from the interest on the $2.5MM they are holding for customers. Wow. https://t.co/Pid7renwpc,SatoshiLite,125635,2018-06-20 13:38:24+00:00,Neutral
+153,@Binhlethai2 @coindesk How does price actually get to 0?,SatoshiLite,125660,2018-06-20 11:09:45+00:00,Neutral
+154,"To clarify, AOL buying TimeWarner at the height of the internet bubble was very smart for AOL. They used their bubble valuation to purchase something that had a solid business model. It was also new media buying up old media. That's the parallel I see. So not hating on Tron.",SatoshiLite,125687,2018-06-20 02:56:05+00:00,Neutral
+155,"@CGoboom @jack @ORACLEofETH @CashApp Oh, you bet. Some companies get so sick and tired of me asking them, they figured it's easier to add Litecoin than to keep saying no to me. 😛",SatoshiLite,125748,2018-06-19 18:39:02+00:00,Negative
+156,@CGoboom @jack @ORACLEofETH @CashApp I have asked him. He didn't say no. But that's not a yes either. 🤷‍♂️😀 https://t.co/kFdExA1Coc,SatoshiLite,125749,2018-06-19 18:32:04+00:00,Neutral
+157,"@buduchan @starkness @dieguito @billbarhydt @eiaine @BigEtheword @TravelbyBit @MLPFrank @TheRealXinxi Yes, there should be.",SatoshiLite,125780,2018-06-18 03:32:34+00:00,Neutral
+158,@dmov3422 @starkness @dieguito @billbarhydt @eiaine @BigEtheword @TravelbyBit @MLPFrank @TheRealXinxi Then purchase tickets today with LTC and you get a discount when the conference happens. 😛,SatoshiLite,125792,2018-06-17 05:05:37+00:00,Neutral
+159,"I'm excited for the first ever Litecoin Summit! We have an amazing list of speakers including @starkness, @dieguito, @billbarhydt, @eiaine, @BigEtheword, @TravelbyBit, and many more. Of course @MLPFrank, @TheRealXinxi, and I will also be there. Get your tickets! #PayWithLitecoin https://t.co/ZyR7Flfs5n",SatoshiLite,125802,2018-06-16 18:14:41+00:00,Neutral
+160,@MrHodl Price is so low it's not worth scamming for ETH any more. 😂,SatoshiLite,125828,2018-06-14 01:51:51+00:00,Neutral
+161,"The team at @LTCFoundation pulled together all the resources in one place to help businesses accept Litecoin so people can #PayWithLitecoin everywhere money is accepted! 🚀
+
+Next time someone asks you how they can accept LTC, refer them to https://t.co/0vWy7ixFxJ https://t.co/OeDYkD9M6C",SatoshiLite,125890,2018-06-05 17:41:23+00:00,Neutral
+162,"For LoafWallet, we are trying to hit a goal of 250k users in the next 3 months.  See something that can be improved?  We need more testers! Email: contact@litecoinfoundation.net and put ""Test LoafWallet iOS"" in the subject line.  Your input will help us improve the app. Thanks! https://t.co/b2zK8Li7OW",SatoshiLite,125892,2018-06-04 21:54:45+00:00,Neutral
+163,@DJ_Bax01 @John_Blue9 @VRPorn @LTCFoundation There's no commercial partnership. They believe Litecoin is the best payment method for them to accept and they implemented it. End of story.,SatoshiLite,125898,2018-06-02 00:07:09+00:00,Positive
+164,"On the heels of @TapJets accepting Litecoin, I just got confirmation that @SurfAir is also accepting LTC now in addition to BTC and ETH. More info on this next week! 🚀 More places to #PayWithLitecoin.",SatoshiLite,125933,2018-05-31 18:31:11+00:00,Neutral
+165,"@donareign @DigiByteCoin Embrace the major algorithms and implement merged mining. So SHA/Scrypt/Ethash/CryptoNight/X11. If enough Bitcoin/Litecoin/Ethereum/Monero/Dash pools start merged mining DGB, then it becomes extremely hard to attack.",SatoshiLite,125955,2018-05-31 05:54:58+00:00,Neutral
+166,"@Sicarious_ Sorry, I guess I fell for the headline. Do they not hold the ETH anymore?",SatoshiLite,126023,2018-05-30 02:25:40+00:00,Negative
+167,"@bitnick94 @KevinKelbie @CryptoHustle For people that care whether or not the creator of the coin owns the coin, Litecoin is probably not the right coin for them to own anyways.",SatoshiLite,126069,2018-05-25 18:33:53+00:00,Neutral
+168,@bramcohen Don't change something that you don't understand. There's a reason why Satoshi used largest accumulated difficulty instead of longest chain.,SatoshiLite,126108,2018-05-24 20:47:58+00:00,Neutral
+169,"@FedericoGalavis @vergecurrency @justinvendetta Making fun of something doesn't mean it's FUD. If you follow me, you will realize that I add snarky comments to pretty much every topic. This issue only affects Verge. And they have gotten a lot of help on how to fix it. I'm just giving my followers some info and a joke.",SatoshiLite,126161,2018-05-23 16:10:47+00:00,Neutral
+170,"@FGEN88 I have publicly stated my reasons for that and I have also stated that I do buy back small amounts to spend with but I won't be ""invested"" financially in LTC anymore. Investing now would not be ethically cool as that's manipulation.",SatoshiLite,126217,2018-05-21 23:41:27+00:00,Neutral
+171,@MarcosDarkos @d1rtydoz3n @AbraGlobal Some people don't like the app for whatever reasons. Use it and figure out for yourself whether you like it or not. Or don't. It's up to you.,SatoshiLite,126218,2018-05-21 22:20:02+00:00,Neutral
+172,"@dgn107 @SethEKaye Yeah, probably me",SatoshiLite,126238,2018-05-20 22:00:27+00:00,Neutral
+173,@saifedean Thanks. We are all in this together. 👊,SatoshiLite,126240,2018-05-20 18:54:56+00:00,Neutral
+174,@dryflyjedi @SethEKaye True,SatoshiLite,126258,2018-05-20 07:12:24+00:00,Neutral
+175,"@saifedean When I sold my LTC last December, the LTC/BTC price was around 0.018, barely higher than today. Because it has underperformed BTC in the past 6 months and the past 5 years means that it's a scam? You are really something.",SatoshiLite,126260,2018-05-20 05:50:58+00:00,Neutral
+176,"@peasantwizard @saifedean It's hard for people who's not in my shoes to understand. Given that I created Litecoin, my skin in the game is more about pride, respect, and accomplishment than financial. It's something money can't buy, so it's much more than just having money in the game.",SatoshiLite,126262,2018-05-20 03:45:50+00:00,Neutral
+177,"At Consensus, I got a chance to meet @SethEKaye, the guy who looked like chikun at the Senate hearings. He's a great guy! See? It wasn't me. 😀 https://t.co/pV2GgBEiii",SatoshiLite,126270,2018-05-19 19:53:12+00:00,Positive
+178,"@MrHodl @udiWertheimer @ShortFiat21M @devilscompiler @giacomozucco @james_hilliard Also 2-3 months was way too short amount of time to do UASF. In the future, UASF with BIP8 activation is much safer. And that's something I'm in favor of for Litecoin.",SatoshiLite,126277,2018-05-19 01:31:49+00:00,Neutral
+179,"Coinbase's Toshi app is pretty cool, but I always thought it was missing something... Litecoin! 😀 They plan on adding LTC to @toshi soon. 🚀
+
+https://t.co/UQi96fF0au",SatoshiLite,126312,2018-05-18 03:55:38+00:00,Neutral
+180,"@AdeldMeyer I think of it as fungibility as oppose to anonymity. Fungibility is important for good money, and is one of the missing features from Bitcoin/Litecoin. It's definitely something that I want to add to Litecoin eventually. Something like Confidential Transaction. #BlockchainChat",SatoshiLite,126331,2018-05-17 23:37:12+00:00,Neutral
+181,@KennethBosak @magicalcrypto @Excellion @fluffypony @WhalePanda What kind of signature is that @WhalePanda?,SatoshiLite,126342,2018-05-17 21:21:42+00:00,Positive
+182,@fluffypony @WhalePanda @Excellion I had 3. So we're in this together.,SatoshiLite,126363,2018-05-15 20:07:14+00:00,Neutral
+183,@ecurrencyhodler @bitcoinbella @dickerson_des @KennethBosak Many. It's nice to be staying at the same hotel. See my shirt today?,SatoshiLite,126364,2018-05-15 19:54:01+00:00,Positive
+184,@gladkos @KennethBosak @HeyTaiZen @crypt0snews @Changelly_team Thank you!,SatoshiLite,126369,2018-05-15 14:05:51+00:00,Neutral
+185,@Excellion @_ty13r @elonmusk And flamethrowers,SatoshiLite,126427,2018-05-06 04:44:19+00:00,Neutral
+186,Thanks for voting and commenting in my previous poll. It's really helpful to get honest feedback. Now for something fun. 😂,SatoshiLite,126467,2018-05-02 17:22:49+00:00,Neutral
+187,@JamshidiChuck My reputation and legacy is on the line. That's something money can't buy. I have more skin than everyone else combined. So stop talking to me about skin in the game.,SatoshiLite,126493,2018-05-01 19:42:34+00:00,Neutral
+188,@141percent The lawsuit is something between the parties involved. Not for me to decided what's justice. No?,SatoshiLite,126513,2018-05-01 06:10:03+00:00,Neutral
+189,"@Binhlethai2 If I was Satoshi, I'd come out just to squash Bcash.",SatoshiLite,126515,2018-05-01 06:01:13+00:00,Neutral
+190,"@jbbasics @WolkPhoto For a decentralized currency, it shouldn't matter. But the fact is, some people actually do care whether or not I own. So that's why I made it very public when I sold. Those that care could have easily sold around the same time and even higher price than when I sold.",SatoshiLite,126527,2018-05-01 04:57:10+00:00,Neutral
+191,@Ragnarly For sure I'm sympathetic. I called Roger out on his bullshit and lies many times if you've been paying attention. I just don't think it's something we should ask the court to settle. Educate users and boycott bad actors instead.,SatoshiLite,126529,2018-05-01 04:49:13+00:00,Neutral
+192,"@NickGriff83 @BlackWee77 I'm already retired because it's not work when it's something you love.
+
+I would leave to make LTC more decentralized.",SatoshiLite,126556,2018-04-30 18:23:32+00:00,Positive
+193,@OUNOwtnagr @cryptowat @OverSoftNL @TheRealBHuggins Something I never learn. :D,SatoshiLite,126583,2018-04-27 17:07:27+00:00,Neutral
+194,@DPazdan @timo6999 Ethereum Zero?,SatoshiLite,126637,2018-04-25 16:14:25+00:00,Neutral
+195,"Ethereum may split into two because of EIP999. Half the community wants to implement it to ""bailout"" the frozen ETHs. Other half values immutability. Parity and Geth are on opposite sides.
+
+Nope, no one predicted this would happen. /s #DAOForkPrecedence
+
+https://t.co/G8GZ3Ho9Y5",SatoshiLite,126646,2018-04-25 15:06:50+00:00,Neutral
+196,"@Melissa232220 @quail_life @TheLitecoinFeed I didn't boot him. He knew he did something wrong, stepped down, and apologized for it. It's not ok for a Litecoin Foundation representative to misrepresent the LF and I. Stuff he said we're quite bad for the reputation of LF and me. I was willing to give him just a warning.",SatoshiLite,126649,2018-04-23 15:38:34+00:00,Neutral
+197,"FYI: Coinbase's Shift Visa debit card can be linked to any wallet in your Coinbase account. So in addition to BTC, it can be set up to deduct from your LTC (or ETH/BCH) wallet. #PayWithLitecoin https://t.co/BkdDg2XpX2",SatoshiLite,126671,2018-04-23 02:39:49+00:00,Neutral
+198,"@danwag06 @mikerelentless @btc @Bitcoin How's is that name calling? He's the one focused on price and make it seem like because the price is up 100%, it means something. My answer is Dogecoin is also up 100%.",SatoshiLite,126688,2018-04-22 17:42:40+00:00,Neutral
+199,@CheapAir Use @AliantPayment. They support BTC/LTC/ETH and let's you convert to fiat. Check them out.,SatoshiLite,126742,2018-04-21 03:16:57+00:00,Neutral
+200,@DanyCiencialex @VitalikButerin It's just different and something you are not used to. Not better or worse imo,SatoshiLite,126750,2018-04-18 16:36:51+00:00,Neutral
+201,"@RaymondCarl1 @VitalikButerin In my opinion, it wasn't hard at all. Ethereum was billed as code is law. So just hands was the right answer.",SatoshiLite,126803,2018-04-17 13:56:16+00:00,Neutral
+202,@MattETHw @KorbitBTC Scroll down,SatoshiLite,126816,2018-04-17 09:35:29+00:00,Neutral
+203,@sethmobr @rallyqt @magicalcrypto Indeed. It looks great!,SatoshiLite,126863,2018-04-13 01:25:41+00:00,Positive
+204,@colourpurpl @cryptorecruitr @AliantPayment @BigEtheword I will watch it soon. Keep up the good work! 👊,SatoshiLite,126900,2018-04-10 21:32:59+00:00,Positive
+205,"@jaycpanchal @VitalikButerin @Bitcoin @katyperry Wow, that's something to work towards! :p",SatoshiLite,126920,2018-04-10 02:54:25+00:00,Neutral
+206,"@Tomsnothere @Bitcoin Just being nice and maybe a bit sarcastic. I'm not sure to be honest. J wanted to add something snarky after the welcome, but couldn't think of anything. Shit happens.",SatoshiLite,126923,2018-04-10 02:47:17+00:00,Neutral
+207,"750k. @VitalikButerin (who's still not giving away ETH) is on my heels, but I'm coming after you @bitcoin! 😀",SatoshiLite,126924,2018-04-10 02:45:58+00:00,Neutral
+208,"@onethird Yes, that too. He can just use Roger's account.",SatoshiLite,126947,2018-04-08 18:57:02+00:00,Neutral
+209,"I missed this from a few days ago. @CoinGatecom is partnering with @PrestaShop to bring cryptocurrencies (BTC/LTC/ETH and others) to over 80,000 EU merchants. Always exciting to see more merchants accepting cryptocurrencies! #PayWithLitecoin
+https://t.co/Hq6WsDPYmn",SatoshiLite,126978,2018-04-07 19:32:46+00:00,Neutral
+210,@RealSchmiegle You have the same LN channels and coins on both fork. Assuming the fork doesn't do something that breaks LN.,SatoshiLite,126981,2018-04-07 19:10:03+00:00,Neutral
+211,@johnnyt74 @ReyBuitron Eventually. Or something similar.,SatoshiLite,127001,2018-04-06 19:34:28+00:00,Neutral
+212,@FaceLikeTheSun @DecentralizedTV @saddington So his complaint was that I'm not excited during the interview? Well that's my style if he's really been following me that long. And ironically his video was quite boring also. 😀,SatoshiLite,127004,2018-04-06 15:57:26+00:00,Neutral
+213,"@FaceLikeTheSun @DecentralizedTV No, what's the summary? Link?",SatoshiLite,127005,2018-04-06 15:34:34+00:00,Neutral
+214,"@Makilisg Maybe when something is so ridiculous, it is a joke. Just maybe...",SatoshiLite,127022,2018-04-06 03:49:03+00:00,Neutral
+215,"@LTC_Pirate @FirstFrontierBC @stuffluver12 But not very ethical. Selling, announcing the sale to crash to price, then buying back cheap... not something I would do. I have bought small amounts though for paying stuff with litecoins. I don't see a problem with that.",SatoshiLite,127075,2018-04-04 00:20:16+00:00,Neutral
+216,@RicardoCielak @CerBTC LTC has crashed already. Buying back would defeat the purpose of selling. And doing so would be unethical. It would mean I dumped and helped it crash to buy back in low.,SatoshiLite,127080,2018-04-03 21:01:25+00:00,Neutral
+217,@Cyborg_Buddha Something like that. 😂,SatoshiLite,127163,2018-03-31 20:58:49+00:00,Neutral
+218,"Now, for something totally random. How do you spell this?
+
+After voting, read this: https://t.co/OVD91yYytE",SatoshiLite,127169,2018-03-31 18:42:20+00:00,Negative
+219,"@blockchain_ash @XRPtheone @sarthak1806 @chrisL23406329 No, that is true. Basically invited him the day before because some people asked me to and said I should meet him. Didn't know who he was and actually didn't put 2 and 2 together that that was him. 🤦‍♂️",SatoshiLite,127207,2018-03-30 16:49:59+00:00,Neutral
+220,@24hourscrypto I posted my trades in $. The average was $205 or something. What's your point?,SatoshiLite,127214,2018-03-30 07:15:28+00:00,Neutral
+221,@DreamerCrypto @MattoDobbo This is something I might never fixed... responding to idiots. :D,SatoshiLite,127220,2018-03-30 06:41:13+00:00,Neutral
+222,"@dwoodinnyc Yeah, but when I decide to be out, I'm out. Buying back now would defeat the purpose and also highly unethical IMO, because then I'd have released bad news to dump the market and get back in cheap. That would be very bad.",SatoshiLite,127230,2018-03-30 03:56:32+00:00,Neutral
+223,"@tikitikilicious @MdsrBshr If it was nefarious, we will. But it's a failed startup unless we uncover something nefarious.",SatoshiLite,127231,2018-03-30 03:54:41+00:00,Negative
+224,"Yes, it's been a rough week for cryptocurrency, but look on the bright side. BTC and ETH is just back to the levels 4.5 months ago, yet LTC has almost doubled since that time! Poor BCH though.
+
+https://t.co/V5ogqRn4Wg https://t.co/7tdL8z2LrO",SatoshiLite,127243,2018-03-30 03:29:07+00:00,Neutral
+225,"@litecoindave @ByThoughtWeb @LBetterini @Bitwage I guess I should have used quotes.
+
+LOL at ""and Ripple"" quote. It's funny when he said we should all work together and then said against banks and Ripple. Lol",SatoshiLite,127257,2018-03-29 19:56:14+00:00,Positive
+226,@Decentralized01 @Bitcoin @johnnyt74 it was one click retweet. Took me 1 second. I guess I could have done something more productive with that 1 second.,SatoshiLite,127264,2018-03-29 09:15:44+00:00,Neutral
+227,"@Bitcoin @johnnyt74 You are a waste of time. Instead of fudding, why don't you do something production. By the way, who's controlling this @bitcoin account?",SatoshiLite,127270,2018-03-29 08:35:05+00:00,Neutral
+228,@Companionbike @donaldglover @mikeopedia It's idiotic to think that something like this will move the price. It's just something cool that I found.,SatoshiLite,127305,2018-03-28 19:36:28+00:00,Neutral
+229,"@SiliconHBO It's actually definitely the Litecoin logo. I just watched it on HBO and there are 3 logos being tossed around: BTC, LTC, and ETH. You can see it on YouTube. https://t.co/LEGxP1ImEr",SatoshiLite,127311,2018-03-28 19:22:12+00:00,Neutral
+230,@KitCloudKickur @ultimateviet @AliantPayment People pumped it because they were hoping for something big but I should have tempered it. That was my fault.,SatoshiLite,127369,2018-03-28 04:30:59+00:00,Neutral
+231,"Like everyone else, we got too excited about something that was too good to be true and we optimistically overlooked many of the warning signs. I am sorry for having hyped up this company and vow to do better due diligence in the future. https://t.co/khIjeHnyZ1",SatoshiLite,127451,2018-03-26 16:35:38+00:00,Neutral
+232,"Out of the top 20 coins, Litecoin is ranked 2nd in terms of drop from each coin's respective ATH. Litecoin is actually doing fairly well in this bear market! 👍
+
+* Excludes Tether. Data from https://t.co/MKMHA7FBvU
+** Inb4 Litecoin #1 if not for me selling 😂
+*** h/t @bchbaron1 https://t.co/hpeohRHMt7",SatoshiLite,127485,2018-03-21 10:43:44+00:00,Neutral
+233,@bchbaron1 Tether ATH. LMAO,SatoshiLite,127487,2018-03-21 08:15:14+00:00,Positive
+234,"@MrGoodbits42 @AdamDraper Like regular debt, the government is paying a lot in interest. Debt is basically borrowing from the future whether you are an individual or a government. This won't end well.",SatoshiLite,127496,2018-03-19 06:11:57+00:00,Neutral
+235,"@showmethelites @Landm_Marius I met about 400 people today and took pictures with 200. FWIW, I'm not endorsing any one of them!",SatoshiLite,127616,2018-03-12 06:17:38+00:00,Neutral
+236,@showmethelites @Landm_Marius Why would that affect me? I'm not endorsing anything Marius is doing.,SatoshiLite,127618,2018-03-12 06:14:01+00:00,Neutral
+237,"@bitcoinstress @sethmobr @LTCFoundation Yes, no need to ask",SatoshiLite,127671,2018-03-07 21:37:19+00:00,Neutral
+238,@tonyimoon @ORACLEofETH Not sure what's wrong with liking this tweet. Can people stop telling me what I can or cannot do?,SatoshiLite,127678,2018-03-07 04:25:36+00:00,Neutral
+239,"@Egon_BTC @sethmobr @LTCFoundation Yes, it can",SatoshiLite,127683,2018-03-07 03:41:54+00:00,Neutral
+240,"@Ctrl_Alt_Coin @CoinMarketCap 4: Bitcoin, Ethereum, Litecoin, Monero",SatoshiLite,127690,2018-03-07 02:13:32+00:00,Neutral
+241,@1madhattermon @sethmobr @LTCFoundation https://t.co/4p2OVaotjU,SatoshiLite,127696,2018-03-07 01:57:39+00:00,Neutral
+242,@Div7Tom @sethmobr @LTCFoundation I live on the moon,SatoshiLite,127698,2018-03-07 01:21:09+00:00,Neutral
+243,"@safeincloud @sethmobr @LTCFoundation My home. It's a mess, I know. 😀",SatoshiLite,127701,2018-03-07 01:11:05+00:00,Neutral
+244,"#PayWithLitecoin
+
+Thanks for creating such a beautiful product @sethmobr and also for donating 10% of the proceeds to the @LTCFoundation! https://t.co/yq5uvqODSw",SatoshiLite,127702,2018-03-07 01:09:18+00:00,Positive
+245,"@ross86428543 @breadapp When there's something positive to tweet or retweet, I'm always doing it. Litecoin goes through times without news. Nothing wrong with keeping quiet  when that happens.",SatoshiLite,127750,2018-03-05 17:25:47+00:00,Neutral
+246,@cmf84_ @DougPolkPoker Wait he doesn't already have it? I need to rethink about this interview... 😂,SatoshiLite,127776,2018-03-04 19:22:31+00:00,Neutral
+247,@WAnakin22 @WhalePanda @merkle_tree Maybe they will say something good about me for once!,SatoshiLite,127863,2018-03-02 20:15:34+00:00,Positive
+248,"@JohnnyCrypto22 It was 2 BCH. Do you think if there was something shady, I would post publicly about it?",SatoshiLite,127872,2018-03-02 20:08:29+00:00,Neutral
+249,@R_M_Post @crypto_sponge @MikeTheWall @justinowenscook @lalitjoshi1705 Reading comprehension is hard. Sorry,SatoshiLite,127930,2018-03-01 20:15:12+00:00,Neutral
+250,"@RRCool_J @ericajohnes I've looked at many and have tweeted about them. I usually call them out the way I see it in my own trolling ways. When I see something promising like Monero, Decred, and now Nano, I give them credit.",SatoshiLite,127966,2018-03-01 00:14:33+00:00,Neutral
+251,"For those of you that are upset that I posted something positive about a ""competitor"", all I can say is too bad. There's room for more than 1 coin. I call it as I see it. If you have been following me for a bit, you've seen that I also like Monero &amp; Decred. Now, back to Litecoin! https://t.co/JQrJnELGdb",SatoshiLite,127974,2018-02-28 22:32:43+00:00,Neutral
+252,The flippening (ETH&gt;BTC) will never happen. But the flappening (LTC&gt;BCH) will happen this year. 🐔🚀 https://t.co/vn9XBdZNC3,SatoshiLite,128023,2018-02-25 16:50:41+00:00,Neutral
+253,@finelymedicated @leth3anfx They deserved to be duped.,SatoshiLite,128044,2018-02-16 21:46:15+00:00,Neutral
+254,@LitecoinLearner @leth3anfx Don't read my tweets on the run. 😀,SatoshiLite,128045,2018-02-16 21:45:30+00:00,Neutral
+255,@leth3anfx One of my best ones if you ask me. 😀,SatoshiLite,128050,2018-02-16 21:34:07+00:00,Positive
+256,"@_nguyenloc @jonmichaels18 @iNautiDenver @TrashJackal @TheEllenShow Don't bring in ethics. I mined and bought all my coins just like everyone else. I didn't print them and give myself a ton. When and how I sell my coins is my decision alone, just like no one can tell you when you can sell your coins.",SatoshiLite,128073,2018-02-16 02:04:18+00:00,Neutral
+257,@akkuindu @CryptoIndiaNews @lopp Something like that. Thank god https://t.co/TFymqt9pKY is in good hands.,SatoshiLite,128111,2018-02-15 00:55:19+00:00,Positive
+258,@IOHK_Charles Let's take 4 together. 😀 We will split the spoils afterwards!,SatoshiLite,128144,2018-02-14 05:30:10+00:00,Neutral
+259,"I've been in cryptocurrency for 7 years. There's a FUD every year for why Bitcoin is dead:
+
+2011 MtGox hacked
+2012 Pirateat40 ponzi implodes
+2013 China bans Bitcoin
+2014 MtGox insolvent
+2015 Silkroad shuts down
+2016 Bitfinex hacked
+2017 Ethereum Flippening
+2018 Bcash is Bitcoin",SatoshiLite,128160,2018-02-14 01:38:32+00:00,Neutral
+260,"@Etherlambos @crypto_psycho Sure, go ahead!",SatoshiLite,128170,2018-02-13 23:20:12+00:00,Positive
+261,"Microsoft looking into building decentralized IDs on blockchains. Nice shout out of Litecoin! 🚀
+
+""Microsoft points to Bitcoin, Ethereum, and Litecoin as three specific platforms that are suitable foundations for DIDs.""
+
+https://t.co/nK2Qh2Yw3x",SatoshiLite,128197,2018-02-13 02:36:21+00:00,Neutral
+262,@BigEtheword @REDKATLIFE @AliantPayment @Litecoin__News @SasgoraBooks @BtcpayServer @bitcoin_pay @CoinGatecom @CoinPaymentsNET @Cointopay @GoCoin @LitePalOfficial @LitePayInc I had one of those but the neon lights broke. ☹️,SatoshiLite,128215,2018-02-09 08:37:50+00:00,Neutral
+263,"@SethEKaye @MarkWarner Haha, awesome. By chance, you looked a lot like my avatar. Hilarious!",SatoshiLite,128225,2018-02-08 21:12:55+00:00,Positive
+264,"@xxmikenadel Depends on how this tether situation shake out. That started the fear and it snowballed. If Tether turns out to be legit, then we will climb out of this, but it might take some time. But I wouldn't be surprised it it took 3 years. MtGox bear market took 3 years to recover.",SatoshiLite,128303,2018-02-06 05:55:19+00:00,Neutral
+265,"@MartonKlecska @rogerkver @Bitcoin Bad joke. Maybe
+Dumb. Maybe
+Childish. Maybe
+Unethical. Huh?",SatoshiLite,128322,2018-02-06 02:36:06+00:00,Neutral
+266,"@AlexPickard @VenturaDefender @rogerkver @Bitcoin Um, just Google SatoshiLite and tether.",SatoshiLite,128348,2018-02-05 04:32:02+00:00,Neutral
+267,@CryptoJetHammer Only if they name their project Litecoin something.,SatoshiLite,128387,2018-02-04 17:17:21+00:00,Neutral
+268,@TrollBoxChamp @kazonomics @CayanYurdusev @nishantdavidoss A lot of people think that it's something I'm creating.,SatoshiLite,128392,2018-02-04 16:57:21+00:00,Neutral
+269,@art_tsa @LTCFoundation Vitalik premined ETH. He's a billionaire. I didn't premine LTC and not a billionaire. Big difference in wealth.,SatoshiLite,128393,2018-02-04 16:56:38+00:00,Neutral
+270,@prgattee @BigEtheword @litecoindad @LTCFoundation @TheRealXinxi Awesome. Thanks Eric.,SatoshiLite,128412,2018-02-04 16:18:57+00:00,Positive
+271,"@randime Buying would be unethical, but I am busting my ass.",SatoshiLite,128446,2018-02-02 06:53:57+00:00,Neutral
+272,@thespenceryan @litecoin Market does what the market does. I can't tell you why. My guess is that people believe in Ethereum more.,SatoshiLite,128452,2018-02-01 20:55:42+00:00,Neutral
+273,@KennethMelvin17 @George323818 It's ok. Everyone is a bit touchy because price is crashing.,SatoshiLite,128463,2018-02-01 18:56:02+00:00,Positive
+274,"@George323818 @mechwarriorDEU I am not looking to buy back. That would be unethical and makes no sense for me to do. So in a sense you are right... If I was looking to buy back now, I lied. You just misunderstood my tweet.
+
+When Litecoin and cryptocurrency becomes mainstream, I would have accomplished my goal",SatoshiLite,128469,2018-02-01 18:47:11+00:00,Neutral
+275,@AmazonMotoring @George323818 @mechwarriorDEU That would be unethical.,SatoshiLite,128470,2018-02-01 18:44:52+00:00,Neutral
+276,@Arclegger @nondualnelly @allstyles85 @yaronwass @JasperCanyon22 @magicalcrypto Now you have something to work towards. 😀,SatoshiLite,128492,2018-02-01 06:00:47+00:00,Neutral
+277,"@summerloud Lots of ICO coins hold their reserves and the price is based on that. USDT is no different. You trust that they didn't mismanage their reserves. If you trade BTC for USDT, you are trusting Tether. So tell me how it's different.",SatoshiLite,128539,2018-01-30 22:20:36+00:00,Neutral
+278,"1/ With respect to the Tether situation, it's expected for CFTC to subpoena Bitfinex to investigate if there are any wrongdoings. The fact that the subpoena is in December 2017 and they have still continued issuing USDT is good news.
+
+USDT is just like any other altcoin.",SatoshiLite,128581,2018-01-30 19:53:35+00:00,Neutral
+279,"@Mooncoinwizard @showmethelites @Dan92071542 @Banitei_Photos No, there's no way to fix a value on LTC.",SatoshiLite,128597,2018-01-30 09:55:14+00:00,Neutral
+280,@RuYz109 Not really. Eth is like Naruto.,SatoshiLite,128598,2018-01-30 07:26:52+00:00,Neutral
+281,"@dakkygraham Yeah, but for every buyer, there's a seller. Someone has to have BTC and want USDT for the trade to occur. So that person, who believes in USDT, will get hurt if Tether turns out to be a scam. This is very similar to BitConnect, where people used BTC to buy BCC.",SatoshiLite,128613,2018-01-30 04:56:56+00:00,Neutral
+282,"@dakkygraham I'm not that concerned. If Tether turns out to be a scam, the USDT token will go to 0 but it shouldn't affect the market much. Similar to how Bitconnect crashed. So if you are worried, don't hold any USDT. I for sure don't hold any.",SatoshiLite,128619,2018-01-30 04:22:58+00:00,Neutral
+283,@SullyPoker @bot_litecoin @joemacsitric Then call it something different so as not to confuse and co-opt another brand.,SatoshiLite,128632,2018-01-30 03:36:53+00:00,Neutral
+284,"Since on the topic of scams, any fork of Litecoin, calling itself Litecoin something or other, is a scam IMO. Litecoin Cash, Litecoin Plus, Litecoin *... all scams trying to confuse users into thinking they are Litecoin.
+
+This also applies to all Bitcoin forks trying to confuse.",SatoshiLite,128639,2018-01-30 02:49:45+00:00,Neutral
+285,"@Mr_HvD @SatoshiLitees Yeah, these guys are smart. Wish they would do something more meaningful with their lives.",SatoshiLite,128641,2018-01-30 02:35:26+00:00,Neutral
+286,@Cradle_MBA @coinbase @CashApp @RobinhoodApp @abra @RevolutApp How can I sell something I don't have anymore?,SatoshiLite,128657,2018-01-29 19:25:43+00:00,Neutral
+287,Mutual fund for the BEL currencies! $BTC $ETH $LTC 🚀 https://t.co/CDCqHpPCH1,SatoshiLite,128685,2018-01-29 00:36:28+00:00,Neutral
+288,@OsamaAlani2 @JaValeMcGee Thanks! We're in it together.,SatoshiLite,128694,2018-01-28 19:42:48+00:00,Neutral
+289,"@xeriou @AlexPickard @mattmilsap @adam3us @lopp @aantonop @maxkeiser @ProfFaustus That doesn't matter. A lot of people now thinks he is, and now giving him more credit than he deserves. He needs to either says he's not and he lied sorry, or prove that he is. Leaving it in an unknown state is dishonest in either case... Whether he is SN or not.",SatoshiLite,128771,2018-01-27 08:18:49+00:00,Neutral
+290,"@nishantdavidoss No it's not. If you have several democratic countries working together, do you now have a communist world?",SatoshiLite,128781,2018-01-27 07:10:56+00:00,Neutral
+291,"@b45335 Something like that. bcash, bcash, bcash!",SatoshiLite,128783,2018-01-27 07:04:45+00:00,Neutral
+292,@sky_captin_007 Maybe. Something to explore,SatoshiLite,128784,2018-01-27 07:04:01+00:00,Neutral
+293,"Although @fluffypony was kidding here, I think it would be good for Litecoin and Monero (2 of the top non-scam coins 😄) to work together. A while back, I proposed to him that we work on making it easy for people to do on-chain atomic swaps of LTC and XMR in a decentralized way. https://t.co/idDn7Dmzf7",SatoshiLite,128798,2018-01-27 06:32:00+00:00,Neutral
+294,@VinnyLingham @btc_joe @T3naciousC @CNBCFastMoney Unethical by who? The whole network was unethical for activating SegWit with BIP91?,SatoshiLite,128834,2018-01-25 23:37:11+00:00,Neutral
+295,@CryptoJetHammer @sic_null @Coblees_angels @Bitcoin @D_Crypto There wasn't significant uptick in hashrate until 2017 because the price didn't go up much until last year. As you know hashrate follows price. But ASICs were available way before last year.,SatoshiLite,128856,2018-01-25 21:50:41+00:00,Neutral
+296,"@CryptoJetHammer @sic_null @Coblees_angels @Bitcoin @D_Crypto LTC was not created to be ASIC proof. When Litecoin was created, ASICs didn't even exist for Bitcoin. Also Litecoin Asics came out 3 years ago. They weren't created last year. You have no idea what you are talking about.",SatoshiLite,128861,2018-01-25 19:42:46+00:00,Neutral
+297,"@ethereal_Vegas Yes, lmao",SatoshiLite,128895,2018-01-24 19:54:26+00:00,Positive
+298,@Jaysi26916202 @CashApp @Bitcoin Why don't YOU do something. Don't expect me to do all the work for a decentralized currency.,SatoshiLite,128903,2018-01-24 05:34:17+00:00,Neutral
+299,@UWmixradio @exe_crypto @BigEtheword I would assume so. But best to ask @AliantPayment,SatoshiLite,128928,2018-01-22 19:32:29+00:00,Positive
+300,@exe_crypto @BigEtheword How about no? Blocked!,SatoshiLite,128931,2018-01-22 19:13:15+00:00,Neutral
+301,@EthanBelisle @LTCFoundation Why do I need to sign off and retweet?,SatoshiLite,128957,2018-01-20 19:53:46+00:00,Neutral
+302,@givemethatapoca @loshan1212 @hugohanoi ☝️,SatoshiLite,128959,2018-01-20 19:48:46+00:00,Neutral
+303,@DoctorHODL They're not my investors. That's something people misunderstand.,SatoshiLite,129046,2018-01-11 18:37:19+00:00,Neutral
+304,@diegogurpegui @loshan1212 @kyletorpey @CoinJournal I will put together a doc soon. Can discuss more afterwards.,SatoshiLite,129144,2018-01-10 18:43:29+00:00,Neutral
+305,"@Rajesh_TB I read something interesting and think my followers might be interested. One click to retweet. No, I don't spend hours researching and endorsing retweets.",SatoshiLite,129185,2018-01-09 04:24:19+00:00,Neutral
+306,"@hrdng @jimmysong Miners can manipulate the fees higher by actually not mine low fees transactions. This is something they can do today. This proposal doesn't make this ""attack"" worse. A competitive decentralized miner environment will make this less of an issue.",SatoshiLite,129199,2018-01-06 22:25:27+00:00,Neutral
+307,@CShagdar @musti4u2nv No. Why don't you do something?!,SatoshiLite,129302,2018-01-04 07:46:41+00:00,Neutral
+308,"To show what we are up against, here's the graph against the top 3 currencies. As you can see, we have our work cut out for us.
+
+It's unclear to me why XRP has this many transactions as banks don't use it. ETH is all about ICOs and crypto-kitties, so that makes sense. https://t.co/5zNO2ftA8Q",SatoshiLite,129320,2018-01-04 07:17:53+00:00,Positive
+309,@VitalikButerin @ybthebest The Ethereum Foundation and you are a centralizing force. And you can say the same thing about Litecoin and me. It's not necessarily a bad thing as you're trading off a bit of decentralization for more efficiency.,SatoshiLite,129443,2017-12-26 02:57:45+00:00,Negative
+310,@ybthebest @VitalikButerin Ethereum is not highly decentralized though.,SatoshiLite,129445,2017-12-25 22:38:37+00:00,Neutral
+311,"Please stop asking me to announce something to help the price. Didn't I say 2018? Also, up to the respective companies to announce Litecoin support, not me. Just like how @Bitso announced LTC trading today.
+
+About rumors, I am not aware of any Amazon or Facebook partnerships. https://t.co/bYUPup67G0",SatoshiLite,129468,2017-12-25 00:17:14+00:00,Neutral
+312,@novogratz @VitalikButerin @ethereumJoseph I think it's extremely bullish! 😀,SatoshiLite,129533,2017-12-20 12:59:12+00:00,Neutral
+313,@BTCJones I don't see anything unethical with my trade. You do?,SatoshiLite,129614,2017-12-20 04:09:53+00:00,Neutral
+314,"@imyourlawyer @Brad2pointO @CryptosQueen Until I read some laws on this, I assume it's legal. Though I personally wouldn't do it for ethical reasons.",SatoshiLite,129629,2017-12-20 01:50:43+00:00,Neutral
+315,"@Brad2pointO @CryptosQueen For ethical reasons they shouldn't, but there's no laws against it. Cryptos are not publicly traded stocks.",SatoshiLite,129630,2017-12-20 01:48:50+00:00,Neutral
+316,"I watched The Last Jedi in IMAX last night. It was hands down the best Star Wars movie IMO, and that's saying something considering I am a huge fan of the original trilogy.
+
+It had some EPIC scenes. What was your favorite scene? I guess don't read the replies before watching it.",SatoshiLite,129742,2017-12-16 06:46:02+00:00,Neutral
+317,"@dhatz248 @themooncat22 @GDAX Sorry, I don't short Litecoin. It's not unethical for me to tweet a warning to investors to invest responsibly.",SatoshiLite,129892,2017-12-11 23:57:02+00:00,Neutral
+318,Working on something fun. Here's a sneak peak. 🐔🚀 https://t.co/vbQovNb54R,SatoshiLite,130030,2017-12-07 17:40:11+00:00,Neutral
+319,"I'm excited to see @RevolutApp launch crypto-currency trading this Thursday! ""Revolut is merging traditional banking and cryptocurrency to let you buy, sell, trade, and hold Bitcoin, Litecoin, and Ether alongside 25 world fiat currencies.""
+
+https://t.co/lirI7lypcT",SatoshiLite,130036,2017-12-06 03:47:45+00:00,Neutral
+320,"GDAX keeps showing the annoying ""Partially Degraded Service"" message. Apparently, Bitcoin is congested with transactions and Ethereum is congested with crypto kitties. But Litecoin network works perfectly. 😀🚀 https://t.co/C9LFitFSry",SatoshiLite,130038,2017-12-06 03:34:50+00:00,Neutral
+321,"I think things like cryptokitties, rare pepes, and spells of genesis cards are really cool use case of the blockchain. B/c these can't be counterfeited and there's demand for them, they have value. This is something not previously possible. Though blockchain scaling is a concern. https://t.co/CHe34HKkzg",SatoshiLite,130052,2017-12-04 19:48:48+00:00,Neutral
+322,@thtdudematt @Bitsquirrel @XocolateHealthy @pedestrianrage @A_Chalms2 @etherdelta @herballife And that's typical for a ponzi,SatoshiLite,130065,2017-12-01 00:05:17+00:00,Neutral
+323,@matt_odell @KyleSGibson @shlomoklahr @Zonacats1 @bitfinex @Tether_to Agreed. All that would happen is that the price of USDT crashes to 0 and people holding USDT will be hurt. But they should know the risk before using USDT.,SatoshiLite,130069,2017-11-30 21:15:05+00:00,Neutral
+324,"@CryptoVenom @bitfinex @Tether_to To be clear, I don't know one way or the other.",SatoshiLite,130077,2017-11-30 20:30:46+00:00,Neutral
+325,@2xWhisky @bitfinex @Tether_to Thanks! https://t.co/TWCZCDJlRy,SatoshiLite,130078,2017-11-30 20:16:45+00:00,Neutral
+326,@coinspeedZ @bitfinex @Tether_to Chikun Lite,SatoshiLite,130079,2017-11-30 20:10:35+00:00,Neutral
+327,"There's a fear going on that the recent price rise was helped by printing of USDT (Tether) that is not backed by USD in a bank account.
+
+I urge @bitfinex and @Tether_to to perform a 3rd party audit to prove their reserves. Please do the right thing. Thanks.",SatoshiLite,130080,2017-11-30 20:07:04+00:00,Neutral
+328,@callmethebear @BitfuryGeorge @BTCbenny It's actually a much better logo than the B tilted the other way TBH,SatoshiLite,130094,2017-11-29 19:03:34+00:00,Positive
+329,"@Ethmastered @WolfOfPoloniex @Bitfinexed ok, i will look into it.",SatoshiLite,130126,2017-11-28 19:36:31+00:00,Positive
+330,@legalpark @WolfOfPoloniex @Bitfinexed @Ethmastered Sorry,SatoshiLite,130127,2017-11-28 19:31:21+00:00,Negative
+331,@zac_redwick @Bitfinexed @Ethmastered This. Make it dead simple. And you will get more exposure.,SatoshiLite,130128,2017-11-28 19:27:17+00:00,Neutral
+332,"@WolfOfPoloniex @Bitfinexed @Ethmastered I also don't want to throw FUD when there is no proof of fraud. There's enough of that already. Yes, on the surface, it's suspicious, but so are thousands of ICOs. It just takes a lot of time to dig through all the dirt and be sure about it. Time that I may not want to spend.",SatoshiLite,130129,2017-11-28 19:24:49+00:00,Neutral
+333,@legalpark @WolfOfPoloniex @Bitfinexed @Ethmastered I have no relationship with bitfinex or tether. Please don't throw false accusations.,SatoshiLite,130130,2017-11-28 19:23:10+00:00,Neutral
+334,"@Bitfinexed @Ethmastered I just need time to dig through all of this. Let's say I believe you, what is it you think I should do?",SatoshiLite,130131,2017-11-28 19:20:34+00:00,Neutral
+335,@Bitfinexed @Ethmastered Give me a tl;dr proof. I don't have time to watch 10 videos.,SatoshiLite,130132,2017-11-28 19:06:54+00:00,Neutral
+336,@Ethmastered I have no proof on any fraud. Do you?,SatoshiLite,130140,2017-11-28 17:52:20+00:00,Neutral
+337,"@gilzky @peeticek Yeah, it's truly something special.",SatoshiLite,130175,2017-11-28 07:20:12+00:00,Neutral
+338,@BitcoinErrorLog @elonmusk @ThisIsSandeepG @coinbase It's a stepping stone. You start somewhere. Tesla can't afford to speculate on BTC right now. So they need to immediately convert to fiat. And they won't be able to do that well with o risk unless they use something like Coinbase.,SatoshiLite,130183,2017-11-28 07:02:52+00:00,Neutral
+339,@BitcoinErrorLog @elonmusk @ThisIsSandeepG @coinbase Why spend resources doing something that's not your core competency?,SatoshiLite,130186,2017-11-28 06:58:13+00:00,Neutral
+340,@deenyotweets Then fork off and create something like the XFL.,SatoshiLite,130243,2017-11-27 20:55:23+00:00,Neutral
+341,"@jdpoort No, I want the community to build something with it.",SatoshiLite,130265,2017-11-27 06:16:48+00:00,Neutral
+342,@DavidFBailey @jespow @aantonop @CharlieShrem @FEhrsam @sethotterstad Nothing like a $10M coin!,SatoshiLite,130270,2017-11-27 02:28:30+00:00,Neutral
+343,@DavidFBailey @jespow @aantonop @CharlieShrem @FEhrsam @sethotterstad Congrats David! Here's to another 1000x!,SatoshiLite,130271,2017-11-27 02:21:59+00:00,Neutral
+344,@arteymoney Correct. And together they are better than the sum of their parts.,SatoshiLite,130280,2017-11-25 21:10:35+00:00,Positive
+345,"@howelzy @CoinMarketCap If they cared about my feelings, they would have delisted Ethereum, Bcash, Ripple, and Dash!",SatoshiLite,130298,2017-11-24 07:06:09+00:00,Neutral
+346,@Jasperschiks @showmethelites Yes,SatoshiLite,130327,2017-11-20 17:49:48+00:00,Neutral
+347,"@liamthomasV @TheRealXinxi If you ask most devs, they are fine with a block size increase at some point. But it's better to scale offchain first as scaling onchain reduces decentralization and that's something you can't undo.
+
+So, I lean small size, but I'm not against onchain scaling when it makes sense.",SatoshiLite,130331,2017-11-20 07:49:21+00:00,Neutral
+348,Proof that Ethereum is centralized!!! https://t.co/DspyWCdQbu,SatoshiLite,130351,2017-11-19 19:44:56+00:00,Neutral
+349,@KennethBosak @CryptoPunks_Fan Interview is no problem. Asking me to follow you? Now you are being greedy! 😂,SatoshiLite,130356,2017-11-19 19:23:13+00:00,Neutral
+350,"@CryptoPunks_Fan @KennethBosak With the number of notifications I get, you need to scream at me a few times before I see it!. 😀
+
+Yeah, I saw the tattoo being done live. 😱
+
+Let's find time to do this.",SatoshiLite,130357,2017-11-19 19:17:53+00:00,Neutral
+351,@Edwardpumps @crypt0fungus @Bitfinexed @WhalePanda @stockswami @OguzSerdar @BryceWeiner @lopp @rogerkver @VitalikButerin @CRYPTO_FUKU @Concryptodor @CryptousClay Link please. I don't hold any ETH and don't know much about NEO. So whatever I said (if anything) was just parroting what I've heard.,SatoshiLite,130413,2017-11-17 00:39:58+00:00,Neutral
+352,@WVUJET73 @Moonboot10 @VitalikButerin @bobbyclee @roasbeef Let me tell you something. bcash was never about the blocksize increase. 😱,SatoshiLite,130414,2017-11-17 00:38:02+00:00,Neutral
+353,@coolcashewYT @lightning Includes a joke and something creative. All 4!,SatoshiLite,130428,2017-11-16 22:54:00+00:00,Positive
+354,@Godislikethat Just being careful,SatoshiLite,130436,2017-11-16 21:30:23+00:00,Neutral
+355,@kokcox @pwuille @francispouliot_ @waxwing__ @twobitidiot @nopara73 @alansilbert @Joi @Rococo44 @bergealex4 @CharlieShrem @VinnyLingham @ConsenSys @tdryja @neha @roasbeef @Snyke @rusty_twit @BTChip @Ethan_Heilman @lopp @NickSzabo4 @blockdigest @WorldCryptoNet Witnesses are dangerous. Good thing we segregated them already.,SatoshiLite,130440,2017-11-16 17:39:41+00:00,Neutral
+356,@deenyotweets @wtfkenneth @r0bbot @btc_joe @btcArtGallery @coinsiglieri @tipprbot Haha. Cause and effect my friend.,SatoshiLite,130478,2017-11-15 21:30:12+00:00,Neutral
+357,"@deenyotweets @wtfkenneth @r0bbot @btc_joe @btcArtGallery @coinsiglieri @tipprbot Bcash's attack is because it has to replace Bitcoin to exist. Litecoin doesn't.
+
+I'm not going to be able to convince you or you me. So won't waste more time in this thread. Thanks.",SatoshiLite,130482,2017-11-15 21:23:46+00:00,Neutral
+358,"@wtfkenneth @r0bbot @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot If this is killing Bitcoin, I want more! The price is at an ATH.",SatoshiLite,130487,2017-11-15 21:12:26+00:00,Neutral
+359,@wtfkenneth @r0bbot @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot They open sourced their patents to fight against the broken patent system,SatoshiLite,130488,2017-11-15 21:11:11+00:00,Neutral
+360,"@wtfkenneth @r0bbot @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot I'm not privy to their terms and I don't just follow conspiracy theories blindly. Like i said, If they did anything that harms Bitcoin, I will be the first to denounce them.
+
+So far, they've only done good... Satellites, open source patents, etc.",SatoshiLite,130493,2017-11-15 20:56:24+00:00,Neutral
+361,@wtfkenneth @r0bbot @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot Agree to disagree.,SatoshiLite,130496,2017-11-15 20:53:12+00:00,Neutral
+362,"@r0bbot @wtfkenneth @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot Nah, there's 0 chance of that happening. You can have the cake and eat it too. Read my blog post on that.",SatoshiLite,130497,2017-11-15 20:52:59+00:00,Neutral
+363,@deenyotweets @r0bbot @wtfkenneth @btc_joe @btcArtGallery @coinsiglieri @tipprbot You suck at analogies. 😜,SatoshiLite,130498,2017-11-15 20:52:18+00:00,Neutral
+364,@r0bbot @wtfkenneth @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot Blockstream has a shit business model. I'm surprised they got so much funding.,SatoshiLite,130500,2017-11-15 20:50:09+00:00,Neutral
+365,"@r0bbot @wtfkenneth @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot I meant Blockstream.
+
+Bcash is competing with Bitcoin, whereas Litecoin is trying to complement Bitcoin. So it's not really competing for the same space. I'm against it because it's an attack on Bitcoin in some sense.",SatoshiLite,130503,2017-11-15 20:48:23+00:00,Neutral
+366,@MikeTheWall @CashApp I already did hint at them. But this is going to take more work. Talking to @jack better than talking to @CashApp. 😀,SatoshiLite,130505,2017-11-15 20:43:31+00:00,Positive
+367,@r0bbot @wtfkenneth @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot *Created Blockstream,SatoshiLite,130506,2017-11-15 20:40:17+00:00,Neutral
+368,"@r0bbot @wtfkenneth @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot No, I don't think that at all. Not lying or have selfish reasons myself.
+
+They created Bitcoin because they forsaw that Bitcoin cannot scale on chain without losing censorship resistant. So the company is helping find better ways to scale Bitcoin.",SatoshiLite,130507,2017-11-15 20:39:51+00:00,Neutral
+369,"@r0bbot @wtfkenneth @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot Chaincode labs has more I believe. If they did anything that benefits Blockstream but hurts Bitcoin, I will be the first to denounce them. You may think they are hurting Bitcoin now, but I wholeheartedly disagree.",SatoshiLite,130510,2017-11-15 20:35:00+00:00,Neutral
+370,@r0bbot @wtfkenneth @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot I don't need them to work on Litecoin. You don't understand open source development.,SatoshiLite,130514,2017-11-15 20:30:31+00:00,Neutral
+371,@wtfkenneth @r0bbot @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot You are an idiot if you think I worked to support Blockstream.,SatoshiLite,130515,2017-11-15 20:29:49+00:00,Negative
+372,@wtfkenneth @r0bbot @btc_joe @deenyotweets @btcArtGallery @coinsiglieri @tipprbot Blockstream sucks,SatoshiLite,130519,2017-11-15 20:23:53+00:00,Neutral
+373,"@deenyotweets @coinbase It might have helped. But SegWit activation was most of the reason IMO.
+
+Some could argue the same about ETH and even BTC.",SatoshiLite,130520,2017-11-15 20:21:40+00:00,Neutral
+374,"@alemacgo @otsproofbot 100 is just something I threw out there. If the community decides to adopt the softfork at a later time, who am I to argue that?",SatoshiLite,130535,2017-11-15 18:48:40+00:00,Neutral
+375,"@VascoManata Which one was the DAO fork? I remember Ethereum folks telling everyone that ETC is not a thing a year ago.
+
+I'm not saying BCH classic is a thing. I don't get to decided. And likewise, it's not a malicious fork either.",SatoshiLite,130544,2017-11-15 18:20:04+00:00,Neutral
+376,@chrispalasz Sorry if you think I sound like a jerk. And it's not an attack. It's something to ponder.,SatoshiLite,130583,2017-11-15 01:51:39+00:00,Neutral
+377,@MikeTheWall It's a thin line especially for me.,SatoshiLite,130594,2017-11-14 21:47:15+00:00,Neutral
+378,"@AlpacaSW @eric_lombrozo @udiWertheimer @pwuille Would be awesome if true. Sadly, I meant them both together IRL earlier this year. Though @pwuille is starting to resemble Greg with that beard. Hmm...",SatoshiLite,130613,2017-11-14 19:42:19+00:00,Neutral
+379,"@libertant I think that does make it more private and I'm happy Monero is committed to this. I'm on the fence whether or not we want/need to make Litecoin 100% private. In the end, it also depends on the added cost for CT.",SatoshiLite,130652,2017-11-14 09:45:40+00:00,Neutral
+380,"Segwit2x hardfork has been called off! Common sense prevails. Let's now work together towards scaling safely. We may need something like a 2x hardfork in the future, but let's do it when there's consensus and not rushed. 🚀
+
+(Removing my NO2X tag now.) 😀 https://t.co/FuaUy2Kzex",SatoshiLite,130894,2017-11-08 17:53:56+00:00,Neutral
+381,"@fwebbing @bamos01 Because the Eth team made the decision to push for the DAO hardfork, which created this moral hazard. This loss was 3 times the loss of the DAO hack. So why not fix this with the next scheduled hard fork? And if there is an account claimed to be used by terrorists, let's ban it..",SatoshiLite,130895,2017-11-08 17:47:08+00:00,Neutral
+382,I was adamantly against the DAO hardfork for this moral hazard reason. Ethereum is no longer unstoppable code as advertised on their website. How much in $/% is enough to do a HF? And who gets to decide? No longer uncensorable payments. https://t.co/i3RyIPqo32,SatoshiLite,130917,2017-11-08 02:21:16+00:00,Neutral
+383,@csakzozo I haven't traded ETH in months. And what FUD?,SatoshiLite,130932,2017-11-07 21:22:56+00:00,Neutral
+384,@matt_odell Shorting is not guaranteed to make money. ETH didn't go down much IIRC.,SatoshiLite,130934,2017-11-07 21:19:52+00:00,Neutral
+385,Latest numbers are that ~$180M of ETH are stuck. This cannot be recovered without a hardfork. Code is law? 😂 At what $ do we draw the line?,SatoshiLite,130944,2017-11-07 16:59:15+00:00,Positive
+386,@sergiugojan @rogerkver @ethereumproject @BitcoinCashFans @BTCTN @BITCOlNCASH @Falkvinge @MONEY @RT_com @cnLedger @barrysilbert So I'm leading a cult now?,SatoshiLite,131053,2017-11-06 02:55:19+00:00,Neutral
+387,"@Marcsmyname @NickSzabo4 @eiaine Whether or not he is Satoshi, he's doing great work.",SatoshiLite,131069,2017-11-06 01:47:59+00:00,Positive
+388,"@sergiugojan @rogerkver @ethereumproject @BitcoinCashFans @BTCTN @BITCOlNCASH @Falkvinge @MONEY @RT_com @cnLedger @barrysilbert You know you follow me, right? 😛",SatoshiLite,131079,2017-11-05 23:55:48+00:00,Neutral
+389,"@Falkvinge @TrippinOnCheese @temperne @rogerkver @ethereumproject @BitcoinCashFans @BTCTN @BITCOlNCASH @MONEY @RT_com @cnLedger @barrysilbert Define mainstream. Bitcoin isn't even mainstream yet.
+
+But either way, LN will be mainstream eventually.",SatoshiLite,131129,2017-11-05 18:30:51+00:00,Neutral
+390,One of the most important event in crypto-currency is happening in 2 weeks. This will test whether it is truly the honey badger of money. https://t.co/iMf3guMZ93,SatoshiLite,131165,2017-11-03 20:23:56+00:00,Neutral
+391,@CryptoUntether @ElPesque LTC fees will always be cheaper than BTC no matter how well BTC scales,SatoshiLite,131189,2017-11-01 19:14:12+00:00,Neutral
+392,@CryptoUntether @ElPesque Wrong,SatoshiLite,131195,2017-11-01 19:07:34+00:00,Negative
+393,@CRYPT0N1TE The 1 factor is physical possession. 2nd factor is something you know like passphrase.,SatoshiLite,131206,2017-11-01 16:09:16+00:00,Neutral
+394,@gtechservices @CryptoUntether Sure thing! /s,SatoshiLite,131379,2017-10-28 02:40:32+00:00,Positive
+395,"@boinloinmcbutt @DavidSilvaSmith @csuwildcat @haydentiff @alansilbert @rogerkver If ETH wins in the end, so what? Crypto still wins. So you didn't invest in ETH. Is it all about you making money, then?",SatoshiLite,131382,2017-10-28 01:40:09+00:00,Neutral
+396,"@DavidSilvaSmith @csuwildcat @haydentiff @alansilbert @rogerkver Who do you think Bitcoin needs to beat? Only something truly better can beat Bitcoin. And if that's the case, so much the better!",SatoshiLite,131385,2017-10-28 01:25:55+00:00,Neutral
+397,@CryptoUntether See my pinned tweet.,SatoshiLite,131401,2017-10-27 23:11:04+00:00,Neutral
+398,Looks like @ln_zap has something cooking. Sounds exciting! https://t.co/L0MCTFMNxg,SatoshiLite,131479,2017-10-22 15:48:55+00:00,Neutral
+399,"@Im_Only_Sighing @rogerkver You think if not for core devs, Ethereum would not have pumped and we would not have all these ICOs today? Think again",SatoshiLite,131490,2017-10-21 18:06:49+00:00,Neutral
+400,@Im_Only_Sighing @rogerkver Ethereum and ICO pump was the reason for the drop in Bitcoin dominance.,SatoshiLite,131493,2017-10-21 17:58:14+00:00,Neutral
+401,@Ether0x @bendavenport @morcosa @TuurDemeester @rogerkver Our reputations are worth more than that. Plus easy to screw escrow up when dealing with forks without replay protection.,SatoshiLite,131503,2017-10-21 11:47:33+00:00,Neutral
+402,This sounds like something that is very useful for the crypto crowd. Probably worth it to buy the Yubikeys if you are a target! https://t.co/kTsSus5Ljj,SatoshiLite,131541,2017-10-18 16:05:58+00:00,Neutral
+403,@Buddhamangler hypocrisy is if I said something bad and did the same thing,SatoshiLite,131548,2017-10-17 09:32:43+00:00,Negative
+404,@SeekingSatoshi @ThePriceOfBTC @ethereumproject @btc_manager @LaMonicaBuzz @benbernanke Caps lock broken?,SatoshiLite,131600,2017-10-13 15:30:25+00:00,Neutral
+405,"It will be much more profitable to mine the BTC chain. And without something like EDA, the difficulty will take months to adjust downward.",SatoshiLite,131643,2017-10-07 02:51:10+00:00,Neutral
+406,"@callmethebear @VinnyLingham @StopAndDecrypt @MyNamesJay @CryptoKnight2 @ErikVoorhees @rogerkver No, they did not. They were just making the decision for their users.",SatoshiLite,131648,2017-10-06 21:38:19+00:00,Neutral
+407,"@showmethelites @TREZOR Do you have all your LTC in one address? If not, it won't come up.",SatoshiLite,131720,2017-10-03 17:01:50+00:00,Neutral
+408,@giannet4 @kyletorpey @jgarzik @WorldCryptoNet @metamarcdw @LukeDashjr @barrysilbert @MadBitcoins @bigmarh @DCGco It's unclear to me if UASF would have succeeded or not and whether or not that forced the hands of miners.,SatoshiLite,131740,2017-10-03 02:50:38+00:00,Neutral
+409,"@Ether0x People use uacomment on nodes also. It's similar, but of course not exactly the same.",SatoshiLite,131770,2017-10-02 16:31:05+00:00,Neutral
+410,"PSA: if you get a slack message saying that a service (myetherwallet, etherdelta, etc.) needs you to login, DON'T! It's a malicious website.",SatoshiLite,131883,2017-09-29 15:19:00+00:00,Neutral
+411,@Fuzzi_Logic @JanMichaelDavid Please don't assume to know what I think and whether I want for Bitcoin to scale or not. Kthx,SatoshiLite,131912,2017-09-28 22:45:44+00:00,Neutral
+412,@brennanhm It's not my fault or anyone else's fault if business promised something to miners that they don't have control over.,SatoshiLite,131923,2017-09-27 23:49:36+00:00,Neutral
+413,@MadRussian07 The allegation is that some pools were working together to spam the blockchain to make it seem like Bitcoin blocks are full.,SatoshiLite,131937,2017-09-27 22:27:17+00:00,Neutral
+414,@SwifterDrifter1 @CryptoUntether @todu77 Fine. I'm not a shill for Core. I just agree with them that decentralization is of utmost importance for Bitcoin.,SatoshiLite,131955,2017-09-27 20:39:45+00:00,Neutral
+415,"@SwifterDrifter1 @CryptoUntether @todu77 Ok. Well I don't have time to prove myself for ever accusation. If you or anyone has proof, then show me. Otherwise, stop wasting my time.",SatoshiLite,131958,2017-09-27 20:37:24+00:00,Positive
+416,"@CryptoUntether @SwifterDrifter1 @todu77 If I am indeed shilling, I will lose my influence. People are not dumb.",SatoshiLite,131959,2017-09-27 20:35:47+00:00,Neutral
+417,@SwifterDrifter1 @CryptoUntether @todu77 sucking up to them? I can't agree with their position. So anybody in line with them is sucking up to them? That's why I didn't respond.,SatoshiLite,131961,2017-09-27 20:33:17+00:00,Neutral
+418,@SwifterDrifter1 @CryptoUntether @todu77 Accusation of shilling is childish. I'm my own person and don't work for Core or Blockstream. Accusing me of such needs proof.,SatoshiLite,131962,2017-09-27 20:31:33+00:00,Neutral
+419,@SwifterDrifter1 @CryptoUntether @todu77 Counter to what? That core devs are fraudsters?,SatoshiLite,131964,2017-09-27 20:27:49+00:00,Neutral
+420,@CryptoUntether @todu77 Cheers!,SatoshiLite,131972,2017-09-27 20:01:58+00:00,Neutral
+421,@CryptoUntether @todu77 Keep your tinfoil hat on. You be you.,SatoshiLite,131973,2017-09-27 19:59:10+00:00,Neutral
+422,"@CryptoUntether @todu77 So core devs are fraudsters now, huh?",SatoshiLite,131976,2017-09-27 19:56:16+00:00,Neutral
+423,"@evilrobotted I, as a user, get to decide whether I support it or not. I won't change my mind because others support it.",SatoshiLite,131987,2017-09-27 18:40:38+00:00,Neutral
+424,@thomastoscani *something,SatoshiLite,131990,2017-09-27 18:36:01+00:00,Neutral
+425,@eth_report correct,SatoshiLite,132099,2017-09-25 17:50:09+00:00,Neutral
+426,"So disappointed to see Raiden (i.e. Lightning on Ethereum) go for a cash grab. A token is not needed. 🤑
+
+5+ LN teams on Bitcoin and no ICOs. https://t.co/A3XNoWnDGZ",SatoshiLite,132136,2017-09-22 14:51:20+00:00,Negative
+427,@Crypto_Krill Don't get me started about Ethereum. :),SatoshiLite,132146,2017-09-22 06:56:42+00:00,Neutral
+428,@minajati L something,SatoshiLite,132200,2017-09-21 16:51:36+00:00,Neutral
+429,@ETHodl @yonatvaks lol,SatoshiLite,132216,2017-09-21 01:20:47+00:00,Positive
+430,"@badslinky Yes, but based on my last 2 tweets, I didn't want people to jump to conclusions like I knew something about a Chinese exchange.",SatoshiLite,132258,2017-09-15 22:50:48+00:00,Neutral
+431,"I was on the Twenty Minute VC podcast with @HarryStebbings. Talked about Litecoin, Ethereum, ICOs. 🚀 Check it out: https://t.co/oUtAR9PbgP",SatoshiLite,132262,2017-09-15 07:31:16+00:00,Neutral
+432,One solution to centralized exchanges is decentralized ones. I hear the @decredproject team has something cooking that helps with that! 😁🚀,SatoshiLite,132280,2017-09-14 18:54:12+00:00,Neutral
+433,@GameTheoryNet @finitemaz @matt_odell @OPENDIME @hugohanoi Nope,SatoshiLite,132425,2017-09-06 21:07:43+00:00,Neutral
+434,"@PietSahat @matt_odell I personally don't think it was OK either, but most Ethereum supporters thought it was ok. So be it.",SatoshiLite,132451,2017-09-06 15:41:51+00:00,Neutral
+435,"@matt_odell No, I wouldn't. But ETH is a different coin. It has its own governance structure.",SatoshiLite,132452,2017-09-06 15:40:30+00:00,Neutral
+436,"Urgent need only: Ethereum DAO hardfork
+
+Replay protection only: BitcoinCash hardfork
+
+Consensus only: Monero hardforks",SatoshiLite,132454,2017-09-06 15:34:29+00:00,Neutral
+437,"I just watched @KennethBosak get a Litecoin tattoo live on YouTube. Respect! 😁
+
+""Grandpa, why do you have an ugly looking L tattoo?"" 😂 https://t.co/44YuxrjKY1",SatoshiLite,132609,2017-08-30 02:25:01+00:00,Neutral
+438,@Terrydtate @CelebrateTheUSA Lol. The white paper argument,SatoshiLite,132690,2017-08-25 19:12:37+00:00,Neutral
+439,"@GeorgeAHallam No, because it's not hurting ETH and it's goal is not trying to destroy ETH",SatoshiLite,132696,2017-08-25 16:47:15+00:00,Neutral
+440,"@Frankieboy93 The Goku &amp; Vegeta analogy resonates with me because we all thought BTC and LTC were in competition, but they are so much stronger together!",SatoshiLite,132750,2017-08-23 20:29:59+00:00,Neutral
+441,@Frankieboy93 It will look something like this! 😁 https://t.co/QWxXuWrUE6,SatoshiLite,132753,2017-08-23 20:19:58+00:00,Neutral
+442,"@BitcoinHawker @Clemento007 @bobbyclee @YourBTCC The point is if they are doing something risky with your money, you can't guarantee that you will get your money back.",SatoshiLite,132813,2017-08-22 18:04:11+00:00,Neutral
+443,"@TonyGallippi @TuurDemeester So they just want something with ""Bitcoin"" in the name. I guess I should have named it Bitcoin Lite.",SatoshiLite,132907,2017-08-18 22:59:12+00:00,Neutral
+444,"@gorillamania @JihanWu @compricadev @Blockstream Even if Bitcoin was able to scale on chain safely with low fees, Ethereum will still exist and be valuable as it serves a different purpose.",SatoshiLite,132927,2017-08-18 07:20:48+00:00,Neutral
+445,What do you think about this proposal @adam3us @Excellion? Let's work together to bring about the crypto revolution! https://t.co/TT1jUwmg2q,SatoshiLite,132961,2017-08-17 16:26:09+00:00,Neutral
+446,@BitcoinUnlimit @Benzle @ssoeborg @rogerkver @AXAVentures @Joi @vkhosla @khoslaventures @reidhoffman @mickymalka @jgarzik @gavinandresen @Satoshi_N_ Can't believe how dumb you are. You must think Byteball is better than Ethereum. You are making BU look worse if that's even possible. https://t.co/dofERtvUur,SatoshiLite,132967,2017-08-17 08:43:53+00:00,Neutral
+447,@YACoinBen @BitcoinUnlimit @Benzle @ssoeborg @rogerkver @AXAVentures @Joi @vkhosla @khoslaventures @reidhoffman @mickymalka @jgarzik @gavinandresen @Satoshi_N_ It's a poor measurement. Just means ETH shot up and a ton of ICOs hit the market with high marketcaps. Doesn't mean anything about Bitcoin.,SatoshiLite,132969,2017-08-17 08:40:36+00:00,Neutral
+448,@garyptaylor @LitecoinProject @coinbase Eth did an ICO and has a lot of funds for marketing.,SatoshiLite,133110,2017-08-08 22:00:50+00:00,Neutral
+449,@trilla6six6 Ethereum Classic is a horrible name for the same reason.,SatoshiLite,133181,2017-08-03 06:05:05+00:00,Neutral
+450,"@Jaw709 @LitecoinSupport @LTCFoundation Yeah, no worries. Just don't want to see someone get discouraged when they are trying to do something good.",SatoshiLite,133190,2017-08-03 04:00:57+00:00,Positive
+451,"@Ethereumdomain Do what you think is right. I'm just giving my opinion. To be honest, the safest option is to Hodl.",SatoshiLite,133227,2017-08-02 02:33:25+00:00,Neutral
+452,@MySiacoin @Poloniex Very irresponsible to blame others. And it causes traders to panic thinking there's something really wrong.,SatoshiLite,133310,2017-07-28 17:48:14+00:00,Neutral
+453,"@Thomas_Seneca2 Quoting from a censored channel is unethical? Ok, sure thing.",SatoshiLite,133335,2017-07-27 09:40:23+00:00,Positive
+454,@SethGottlieb @shaolinfry No comment right now. 😀,SatoshiLite,133385,2017-07-26 01:40:25+00:00,Neutral
+455,@baha_jam @myetherwallet You are now just asking someone to fork MEW to create MEW2!,SatoshiLite,133421,2017-07-25 05:52:13+00:00,Neutral
+456,"@myetherwallet Just imagine, you could have been called YEW.",SatoshiLite,133423,2017-07-25 04:48:29+00:00,Neutral
+457,"@BerryChaney They were talking about UAHF, something totally different.",SatoshiLite,133482,2017-07-21 02:55:56+00:00,Neutral
+458,@BlasterPT @simulx Who's says it's the end for Ethereum? Just that it's great for hackers.,SatoshiLite,133495,2017-07-20 17:29:37+00:00,Positive
+459,"@Jaw709 @josepimpo Attack surface for Ethereum is much bigger. For Litecoin/Bitcoin, we err on simple/secure first before features.",SatoshiLite,133519,2017-07-20 04:57:48+00:00,Neutral
+460,@mflambert Where's the FUD? That Ethereum is hacker paradise? That's been proven a few times already.,SatoshiLite,133536,2017-07-19 22:51:24+00:00,Neutral
+461,"In the case of the multisig wallet code, the ""init"" method didn't have a scope. The attacker was able to call init and set owner to himself.",SatoshiLite,133538,2017-07-19 22:49:22+00:00,Positive
+462,"@willpiers Probably harder! But you have courts to settle English contracts. With ETH, code is law until it isn't!",SatoshiLite,133545,2017-07-19 22:28:45+00:00,Neutral
+463,"@SaleSanctuary @VitalikButerin Well for now, Ethereum represents the largest turing-complete smart contract platform.",SatoshiLite,133557,2017-07-19 21:51:35+00:00,Neutral
+464,The ETH multisig hacker of $30MM also stole an ICO token. I think he's trying to make a statement! 😂 https://t.co/YZfVyyRNPq,SatoshiLite,133562,2017-07-19 21:34:54+00:00,Neutral
+465,@TokenHash @MartyBent That's not what I meant. I meant it's very hard to write secure ETH smart contracts when even GavWood can make such a critical mistake.,SatoshiLite,133568,2017-07-19 21:26:51+00:00,Neutral
+466,"If the creator of Solidity, Gavin Wood, cannot write a secure multisig wallet in Solidity, pretty much confirms Ethereum is hacker paradise. https://t.co/WAR3eltfWl",SatoshiLite,133571,2017-07-19 21:11:20+00:00,Neutral
+467,"@PriyankPM Yes, it can, but the attack surface for Bitcoin/Litecoin is much smaller. It's much easier to write buggy smart contracts in Ethereum.",SatoshiLite,133575,2017-07-19 20:43:40+00:00,Neutral
+468,"This hack accounts for at least $32MM worth of ETH. FWIW, TheDAO hack was only $50MM worth at the time of the hack.",SatoshiLite,133580,2017-07-19 20:38:40+00:00,Neutral
+469,"@cryptotraveler @psyburr @Excellion @bobbyclee If the network splits, then both are valid  if people deem them to be. Just like both ETH and ETC are valid. Doesn't matter which is longer.",SatoshiLite,133588,2017-07-19 04:09:23+00:00,Neutral
+470,@CelebrateTheUSA I'm blocked. I can't see it. Probably for the best.,SatoshiLite,133613,2017-07-16 02:50:53+00:00,Positive
+471,@Ethan_Heilman 👍,SatoshiLite,133658,2017-07-12 18:03:30+00:00,Neutral
+472,"@kyletorpey @nic__carter No, just like why people followed Vitalik and the ETH hardfork. Developers and creators have a lot of influence and they have to be careful.",SatoshiLite,133660,2017-07-12 05:03:20+00:00,Neutral
+473,@EggTank is that filevault or something else?,SatoshiLite,133674,2017-07-11 06:42:45+00:00,Neutral
+474,"Whether Segwit2x or UASF, we all want SegWit. Stop screwing w/ Segwit2x testing so we get SegWit signaling by 8/1 to avoid a chain split. 🙏😀",SatoshiLite,133692,2017-07-10 21:07:15+00:00,Neutral
+475,@FrankoCurrency @eth_classic @krnguyx012 That Syfy show is awesome!,SatoshiLite,133762,2017-07-08 15:13:31+00:00,Positive
+476,@DestruktGaming I don't do drugs. $mETH,SatoshiLite,133804,2017-07-08 04:24:05+00:00,Neutral
+477,I'm just trying to give the nerds something to think about on yet another Friday night without anything to do!,SatoshiLite,133807,2017-07-08 04:20:27+00:00,Neutral
+478,@cryptojones777 @eth_classic @krnguyx012 CT 😜,SatoshiLite,133851,2017-07-04 13:28:59+00:00,Neutral
+479,@CelebrateTheUSA @osw422 3,SatoshiLite,133864,2017-07-04 05:01:50+00:00,Neutral
+480,@cryptoproof @3corr @Tether_to @Omni_Layer No I don't think so. They will let you transfer cross chain.,SatoshiLite,133930,2017-06-25 13:31:50+00:00,Neutral
+481,"@3corr @cryptoproof @Tether_to @Omni_Layer Also, fees will go to about 5 cents per transaction",SatoshiLite,133931,2017-06-25 08:49:48+00:00,Neutral
+482,@PanStacksYT @Tether_to @Omni_Layer Volume is probably low because it costs so much to move USDT today.,SatoshiLite,133932,2017-06-25 08:10:29+00:00,Neutral
+483,"""Tether will be issuing USDT on Omni on Litecoin 😀""
+
+Using @Tether_to on Litecoin makes a lot of sense! @Omni_Layer
+
+https://t.co/s4BTj7YAIM",SatoshiLite,133933,2017-06-25 08:00:55+00:00,Neutral
+484,"If you lost money due to the ETH flash crash on GDAX, Coinbase will reimburse you with company funds. Awesome to see that! https://t.co/OM2jJy1xUt",SatoshiLite,133942,2017-06-23 23:36:11+00:00,Neutral
+485,@Adam_S9 I'm not fighting against Ethereum success. Just worried about the fallout of the ICO craziness.,SatoshiLite,133973,2017-06-21 08:49:08+00:00,Neutral
+486,The returned ETH has gone up in value by 30x or more. That's $4B in capital that people are more than willing to gamble again with.,SatoshiLite,133976,2017-06-21 08:29:36+00:00,Neutral
+487,@timoncc Of course! We're in this together.,SatoshiLite,134027,2017-06-18 01:36:34+00:00,Neutral
+488,"@ccchenqq something, something...",SatoshiLite,134047,2017-06-08 00:12:19+00:00,Neutral
+489,"Not running a full node is like not voting, something you shouldn't be proud of. Most cases, your vote won't mater, but if no one votes... 😔 https://t.co/yk1M6cTEFP",SatoshiLite,134101,2017-05-18 20:58:29+00:00,Positive
+490,"More good news for Litecoin!
+
+""with altcoins such as Ethereum or Litecoin potentially coming next"" https://t.co/aS1LsAFfQg",SatoshiLite,134104,2017-05-18 18:04:54+00:00,Neutral
+491,@AvatarX The ETH chocolate breaks apart into 2 chocolates quite easily!,SatoshiLite,134263,2017-05-05 23:11:27+00:00,Neutral
+492,@rogerkver @brian_armstrong @bitcoincoreorg @Satoshi_N_ @BitcoinUnlimit @TommyWorldPower @ViaBTC @olivierjanss @gavinandresen @JihanWu Merchants accepting BTC did not take off because Bitcoin wasn't much better than other payment methods. Had nothing to do with high fees.,SatoshiLite,134282,2017-05-05 14:34:14+00:00,Neutral
+493,@VinnyLingham SegWit is not just a scaling solution though! It's great technology. We should adopt it even if we do something more for scaling.,SatoshiLite,134292,2017-05-04 17:44:36+00:00,Positive
+494,"@Kim_Jongmao We are looking into CT but it will likely take some months and a softfork. For TumbleBit, we should ask @Ethan_Heilman.",SatoshiLite,134318,2017-05-02 16:55:35+00:00,Neutral
+495,@NicolasDorier @Ethan_Heilman Sounds like cross chain TB makes it even more private!,SatoshiLite,134325,2017-05-01 21:01:45+00:00,Neutral
+496,@NicolasDorier @Ethan_Heilman What benefits does SegWit provide for tumblebit? I remember reading that txn malleability wasn't required but helps.,SatoshiLite,134326,2017-05-01 20:56:20+00:00,Neutral
+497,@JaEsf Haha no. Flexcap is something we want to explore.,SatoshiLite,134395,2017-04-21 17:40:32+00:00,Neutral
+498,@bhec39 @_gordee @paulee_paul @coinbase We added ETH before LTC. Where's the conflict?,SatoshiLite,134410,2017-04-21 03:31:51+00:00,Neutral
+499,"@andzsy @BTCXBTDEV It was a threat and claiming that I'm doing something illegal by manipulating unregulated markets is pure FUD. Thanks, but please stop.",SatoshiLite,134426,2017-04-20 21:38:10+00:00,Neutral
+500,@eric_lombrozo @TheRealXinxi @Excellion @bhec39 Stop spreading truth Eric! BlockStreamCore sounds good together.,SatoshiLite,134454,2017-04-19 18:11:45+00:00,Positive
+501,"@BTCXBTDEV Yes, we Chinese all work together to conspire against westerners. True story! /s",SatoshiLite,134465,2017-04-18 12:55:30+00:00,Neutral
+502,Excited to hear about Omni Lite! Tether and Litecoin sitting under a tree...😁 https://t.co/uy6JnD2Fgl,SatoshiLite,134752,2017-03-30 01:12:40+00:00,Neutral
+503,"@btcguy_ exchanges &amp; wallets represents their users. Of course, they won't do something their users won't want.",SatoshiLite,134755,2017-03-29 23:15:07+00:00,Neutral
+504,"Congratulations to the Tether team! Though, w/ Bitcoin's congestion &amp; high fees, Tether &amp; Omni platform seems like perfect fit for Litecoin! https://t.co/uxkITQaZ55",SatoshiLite,134758,2017-03-29 22:38:49+00:00,Positive
+505,@BryceWeiner @wpalczynski do some research in how and why i launched Litecoin this way. Maybe you will learn something about a fair launch.,SatoshiLite,134823,2017-03-22 03:18:32+00:00,Positive
+506,@VivienBTC @TraceMayer Something wrong with being an altcoin creator?,SatoshiLite,134901,2017-03-15 05:35:03+00:00,Negative
+507,"@juscamarena @30somethingSTL Yeah, and that was what I was tweeting about too. Pretty epic in a bad way.",SatoshiLite,134902,2017-03-15 05:34:15+00:00,Neutral
+508,@dagur What happens when the 2 implementations forked from each other like Geth and Parity did? What then?,SatoshiLite,134908,2017-03-14 23:19:09+00:00,Neutral
+509,@riprowan @BitConsultants @eric_lombrozo This is something Bitcoin Core developers would never do: upgrading the protocol unsafely with HF.,SatoshiLite,134935,2017-03-13 22:09:35+00:00,Neutral
+510,@riprowan @BitConsultants @eric_lombrozo It's a wise crack with some truth. Eth developers pushed through a contentious hardfork.,SatoshiLite,134936,2017-03-13 22:08:54+00:00,Positive
+511,@p0nd3ea what's the technical discussion? Whether a block size increase will improve the network for the greater good? There's no consensus.,SatoshiLite,134999,2017-03-09 06:45:07+00:00,Neutral
+512,@BankRunNow @gavinandresen that's for the market to decide. I also wonder why people value Ethereum with censorable transactions more.,SatoshiLite,135020,2017-03-09 03:53:22+00:00,Neutral
+513,@BlockInTheChain @rogerkver we know that gold is still a great store of value. Has been inflation-proof whether or not was used as a money.,SatoshiLite,135121,2017-03-04 01:04:28+00:00,Positive
+514,"@joshecheverri @coinbase We do, but it may not be something we expose to end users.",SatoshiLite,135167,2017-03-01 22:15:43+00:00,Neutral
+515,@Ethan_Heilman haha. Perfect!,SatoshiLite,135180,2017-03-01 18:53:48+00:00,Positive
+516,@DenizOmer Bitcoin and Litecoin will work together with cross-chain Lightning Network to solve scalability. There's that...,SatoshiLite,135192,2017-03-01 07:59:53+00:00,Neutral
+517,@lethos333 @bramanathan Repeat after me... it's not a vote.,SatoshiLite,135209,2017-03-01 01:10:55+00:00,Neutral
+518,"With this ATM, you can buy 4 different kinds of Bitcoin! $BTC $ETH $LTC $ZEC 😜 https://t.co/CegePOJ5Q4",SatoshiLite,135279,2017-02-27 22:05:05+00:00,Neutral
+519,@lethos333 @BitAfrica you deserve an award. 😁,SatoshiLite,135283,2017-02-25 01:50:15+00:00,Neutral
+520,"@NicolasDorier @SamouraiWallet Yeah, we have something working already. Thx.",SatoshiLite,135342,2017-02-15 09:12:03+00:00,Neutral
+521,@SamouraiWallet Let me see if we can provide something like this.,SatoshiLite,135344,2017-02-15 08:19:17+00:00,Neutral
+522,"@digitsu @Bulldozer0 I think ""safely"" is the keyword here. I guess you haven't learned from the Ethereum Classic debacle.",SatoshiLite,135416,2017-02-10 01:25:16+00:00,Neutral
+523,Switching a coin's PoW to another consensus solution is like a spinal transplant. Good luck @ethereumproject! 🙈😁,SatoshiLite,135426,2017-02-09 18:01:48+00:00,Positive
+524,"@btcplanet @MashuriBC yes, you made a bet that there would be demand for ETC. If turns out there was none, you'd have quickly switch to ETH.",SatoshiLite,135431,2017-02-09 17:46:05+00:00,Neutral
+525,@btcplanet @olivierjanss of course you can't get EVERYONE to agree. I just meant consensus. Whether that be majority or vast majority or...,SatoshiLite,135449,2017-02-09 03:37:34+00:00,Neutral
+526,"@BlockchainKai @olivierjanss In similar ways, you can't have one but not the other. So you need to work together.",SatoshiLite,135501,2017-02-08 06:30:22+00:00,Neutral
+527,@San_person DCR does something a bit different. You can find out more on https://t.co/3UVGEuyrEu.,SatoshiLite,135514,2017-02-08 01:14:17+00:00,Neutral
+528,"@kyletorpey @gavinandresen I saw that happen with ETH/ETC split. If exchanges decided to not HF, we would call the original fork Ethereum.",SatoshiLite,135528,2017-02-07 22:12:13+00:00,Neutral
+529,"@doweig Sure, definitely. I don't think ETC will die. And when ETH goes to PoS, all the miners will switch to ETC. Assuming ETC stays PoW.",SatoshiLite,135541,2017-02-07 09:40:47+00:00,Neutral
+530,@junseth @Excellion Spewing shit from your mouth is yours. Yay Joshua!,SatoshiLite,135547,2017-02-07 07:58:29+00:00,Neutral
+531,"7/ Each of the branches work together and none of them (developers, users, miners) have too much power by itself.",SatoshiLite,135576,2017-02-07 02:54:50+00:00,Neutral
+532,"@_floam412 @Ethan_Heilman @fluffyponyza That's simple. You need to launder bitcoins and litecoins, but not monero because it's anonymous!",SatoshiLite,135592,2017-02-06 20:31:24+00:00,Neutral
+533,@jmoarg @getlionshare The break down is in the pic. BTC LTC ETH XMR DCR,SatoshiLite,135602,2017-02-06 06:01:38+00:00,Neutral
+534,"@junseth So? They can be innovate, yet I still think the funding mechanism introduces bad incentives. Can those 2 not be separated?",SatoshiLite,135610,2017-02-04 04:27:47+00:00,Negative
+535,"@lethos333 Yeah, but I heard it didn't work well and the devs abandoned it. The point is that the main devs weren't distracted doing that.",SatoshiLite,135648,2017-02-02 22:06:19+00:00,Neutral
+536,"@lethos333 PoS can be fair. In Decred, stakers are voting on how to improve the system. So they are paid for that.",SatoshiLite,135651,2017-02-02 22:03:38+00:00,Positive
+537,"23/ Ethereum is close, but the decision to hardfork and go back on the “uncensorable transaction” promise really hurts (C) in my opinion.",SatoshiLite,135654,2017-02-02 21:57:39+00:00,Neutral
+538,"14/ (C) If you have something good, work hard and you will eventually succeed. If you don’t, you try to lure people in with fancy marketing.",SatoshiLite,135663,2017-02-02 21:55:30+00:00,Neutral
+539,7/ (B) Some of the other strong teams I’ve looked at include Ethereum/Monero/Decred.,SatoshiLite,135670,2017-02-02 21:54:01+00:00,Neutral
+540,4/ (A) Coins like Ethereum/Monero/Augur/Zcash/Decred bring a lot of innovation and trying a lot of cool things to push innovation.,SatoshiLite,135673,2017-02-02 21:53:05+00:00,Neutral
+541,1/ Wanted to share some thoughts about cryptocurrencies and how I evaluate whether or not I will invest money into them.,SatoshiLite,135676,2017-02-02 21:52:13+00:00,Neutral
+542,"@InEgo_ How about top 2?
+BTC LTC 
+ETH ETC
+XMR ZEC
+DCR XMR",SatoshiLite,135763,2017-01-28 00:27:26+00:00,Positive
+543,"Best-in-class cryptos Today:
+  #Bitcoin - 💰  store of value
+  #Ethereum - 📱  dapps
+  #Monero - 👤  fungibility
+  #Decred - 🏛  governance",SatoshiLite,135780,2017-01-27 23:21:27+00:00,Neutral
+544,@lethos333 @fluffyponyza ok. Seems unnecessary and lame. But I've had my share of lame insults on Twitter too. 😉,SatoshiLite,135849,2017-01-24 20:08:55+00:00,Neutral
+545,"@lethos333 @fluffyponyza it was me trying to understand monero better. ""Uneducated guesses"" sounded like an insult. Was it?",SatoshiLite,135850,2017-01-24 19:49:47+00:00,Positive
+546,@lethos333 @fluffyponyza what do you mean? Which questions?,SatoshiLite,135852,2017-01-24 19:34:47+00:00,Neutral
+547,"@taidi_ji @TuurDemeester @LukeDashjr  Hmm, did you forget the Ethereum was premined and had an ICO?",SatoshiLite,135915,2017-01-11 01:24:42+00:00,Neutral
+548,@TuurDemeester @LukeDashjr just because you don't see value in something doesn't make it a scam. This is the same logic people apply to BTC.,SatoshiLite,135918,2017-01-10 20:54:10+00:00,Neutral
+549,@lethos333 @O80925253 but that's the whole point :-),SatoshiLite,135922,2017-01-10 11:07:37+00:00,Neutral
+550,"@BTC4USD @TheRealXinxi @l0sh11 
+we will have something before signaling starts on 1/28",SatoshiLite,135926,2017-01-10 01:19:55+00:00,Neutral
+551,@30somethingSTL You get un-censorable from decentralization and security.,SatoshiLite,135931,2017-01-09 21:10:18+00:00,Neutral
+552,"@Hanakookie1 with block rewards decreasing and users increasing, we unfortunately will need to sacrifice something.",SatoshiLite,135941,2017-01-09 20:12:20+00:00,Negative
+553,"@30somethingSTL @bobbyclee yup, and the best way to buy BTC cheaply is to? 🤔😉",SatoshiLite,135962,2017-01-07 21:59:00+00:00,Positive
+554,@seweso You must be reading something different. First feature is a malleability fix. The rest aren't related at all!,SatoshiLite,135988,2017-01-06 12:46:13+00:00,Neutral
+555,@_drgo I disagree. Bitcoin will just become something immutable. It's a great store of value and gold 2.0. Still cheaper and easier to move.,SatoshiLite,136018,2017-01-06 09:12:01+00:00,Positive
+556,@digitsu @_drgo not enough characters to discuss in detail. Bitcoin is what people decide to call it. Ex) ETH and ETC could be switched.,SatoshiLite,136039,2017-01-06 08:32:25+00:00,Neutral
+557,"@digitsu @_drgo Yes, most work. And yes, if the majority decides something. We use supermajority to be safe.",SatoshiLite,136041,2017-01-06 08:30:31+00:00,Positive
+558,@kyletorpey @BlockInTheChain @notgrubles @mdotbit I guess we will find out together!,SatoshiLite,136054,2017-01-06 07:26:03+00:00,Neutral
+559,@haq4good @digitsu Did Ethereum manage to back out of their hardfork and undo ETC?,SatoshiLite,136061,2017-01-06 05:29:34+00:00,Neutral
+560,@barrysilbert Wouldn't the investment case be the same as ETC? Why did you invest in ETC? It's the same code as ETH with a different team.,SatoshiLite,136136,2016-12-27 19:31:57+00:00,Neutral
+561,"Litecoin's 5th Anniversary Limited Edition Ledger Nano S! Store your BTC, LTC, ETH, and ETC on the same device. https://t.co/bZZS1B8pX7",SatoshiLite,136201,2016-09-09 08:11:41+00:00,Neutral
+562,"@WhalePanda I might not like whales or pandas, but put those two together and whalepandas are awesome! :D",SatoshiLite,136202,2016-09-08 18:39:08+00:00,Positive
+563,"For Litecoin's 5th Anniversary on October 13, we have something special in the works... https://t.co/BUr5xGSnMn",SatoshiLite,136212,2016-09-07 23:29:50+00:00,Neutral
+564,"@bamos01 non issue? Look at MyEtherWallet. You can noe choose to send normally, send ETH only, or send ETC only. No confusion at all!",SatoshiLite,136252,2016-07-30 20:32:34+00:00,Neutral
+565,@myetherwallet @coinbase @CoinbaseSupport Ask them to contact support and ask to be manually credited.,SatoshiLite,136257,2016-07-30 09:37:35+00:00,Neutral
+566,@myetherwallet @coinbase @CoinbaseSupport Sorry for the confusion. We do support ETH deposited via contract.,SatoshiLite,136258,2016-07-30 09:34:17+00:00,Negative
+567,@bradleymthomas @petertoddbtc @coinbase @eiaine How so? ETH and ETC are 2 separate coins. We made it pretty clear that we only support ETH.,SatoshiLite,136260,2016-07-29 19:10:32+00:00,Neutral
+568,@sinelael Where's the hate? I'm genuinely excited to write a contract that can interact with ETH and ETC differently.,SatoshiLite,136266,2016-07-26 00:28:12+00:00,Neutral
+569,"If you thought smart contracts were cool, a multi-universe smart contract will blow your mind. Behaves differently on ETH vs ETC #Ethereum",SatoshiLite,136267,2016-07-25 23:44:41+00:00,Neutral
+570,"@Crypto_issie81 Just because I created Litecoin, it doesn't mean I want other coins to die. I like Ethereum but I didn't like the hardfork.",SatoshiLite,136269,2016-07-25 20:15:57+00:00,Neutral
+571,"ETC is like a parallel universe to ETH. If you do something in this universe, it may or may not affect the parallel universe. So much fun!",SatoshiLite,136271,2016-07-25 19:16:10+00:00,Neutral
+572,"@DanyAlos @seweso You guys are both mistaken. Heist is not referring to the DAO ""theft"". It's referring to the hardfork that reassigned ETH.",SatoshiLite,136272,2016-07-25 17:22:11+00:00,Neutral
+573,"@Octaneevade I personally was very against the Ethereum hard fork, but that doesn't mean GDAX should launch ETC trading hastily.",SatoshiLite,136274,2016-07-25 16:02:03+00:00,Neutral
+574,BTC is digital gold. LTC is digital silver. ETH is digital oil controlled by OPEC. ETC is digital oil without OPEC.,SatoshiLite,136275,2016-07-25 01:21:57+00:00,Neutral
+575,@barrysilbert @mikejcasey @paulvigna @WILLMS_ Ethereum is digital oil controlled by OPEC and Ethereum Classic is digital oil without OPEC,SatoshiLite,136276,2016-07-25 01:18:38+00:00,Neutral
+576,I heard this in chat: ETC stands for Execute The Code and ETH stands for Execute The Heist. I can't say I disagree. :D,SatoshiLite,136277,2016-07-25 00:50:09+00:00,Neutral
+577,@cdelargy @TuurDemeester &gt;50% of ETH in less than 100 addresses also. Just check https://t.co/3RYdOUn3kQ and add up the top 100 addresses.,SatoshiLite,136286,2016-06-30 15:18:25+00:00,Neutral
+578,@jaekwon @PelleB Another case is if it's not a well distributed coin. And one exchange or person holds &gt;50%. Ethereum is way past that.,SatoshiLite,136290,2016-06-29 20:08:55+00:00,Neutral
+579,@jaekwon @PelleB I own a non-trivial amount of ETH and DAO. I invested in a highly risky investment and will take responsibility for it.,SatoshiLite,136293,2016-06-29 19:22:11+00:00,Neutral
+580,Ethereum is stuck between a rock and a hard fork.,SatoshiLite,136294,2016-06-28 23:33:13+00:00,Neutral
+581,"With only 2 wks, an ETH hardfork has a huge risk in splitting into 2 coins. TheDAO is not TBTF. Don't throw the baby out with the bathwater.",SatoshiLite,136298,2016-06-28 23:16:23+00:00,Neutral
+582,@sinelael The bug was in TheDAO code and not the Ethereum protocol. Sacrificing the integrity of Ethereum to save one dapp is not worth it.,SatoshiLite,136309,2016-06-19 08:04:06+00:00,Neutral
+583,"For a smart contract platform, code is king. No room for blacklists. I hope #Ethereum devs and miners do the right thing, which is nothing.",SatoshiLite,136316,2016-06-19 02:13:40+00:00,Neutral
+584,@sam_spaces @brian_armstrong @gdax not all the ETH deposited are on the orderbook,SatoshiLite,136320,2016-05-26 19:43:40+00:00,Neutral
+585,Coinbase Exchange is rebranding to GDAX and will support ETH/BTC and ETH/USD trading soon. LTC/BTC and LTC/USD in the works!,SatoshiLite,136324,2016-05-20 05:35:28+00:00,Neutral
+586,"@30somethingSTL @coinbase Now that this one is done, I have some time on my hands. :D",SatoshiLite,136427,2014-09-11 00:37:44+00:00,Neutral
+587,@stevezilber Facebook is doing something silly there.,SatoshiLite,136478,2014-05-31 07:41:49+00:00,Negative

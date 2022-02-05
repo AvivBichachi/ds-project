@@ -1,0 +1,375 @@
+,user,date,tweet,polarity,valueDelta,volume,volumeDelta
+0,aantonop,2020-05-10,"More than 50% of the seats are sold out, for our upcoming event in Chicago (Apr 25th). 
+
+But fear not, it's a beautiful theatre with an inclined floor, so every seat is a good seat.
+
+https://t.co/En82I9BjEf",Positive,-0.06742681839999998,2327580.79632425,199078.03510507988
+1,aantonop,2020-05-10,@lightcoin If it needs a node or to extract an xpub then it isn't suitable for newbies. I'm looking for a solution for newbies that can be run on any desktop without specialized knowledge or infrastructure prerequisites,Positive,-0.06742681839999998,2327580.79632425,199078.03510507988
+2,aantonop,2020-05-10,"That script was very basic and had to rely on a block explorer API, not a great solution.
+
+I've been wondering about whether this kind of ""seed path explorer"" could be implemented as an Electrum plugin, to take advantage of the indexing of UTXO scripts.",Positive,-0.06742681839999998,2327580.79632425,199078.03510507988
+3,aantonop,2020-07-02,#TreeofLife Standing in love &amp; solidarity today.,Positive,-0.05189694890000007,1749581.47684417,-22978.364494760055
+4,aantonop,2020-08-22,"This is the absolute best time to invest...
+
+...in education:
+
+https://t.co/ZxglXogW2X
+
+#bitcoin #ethereum #lightning #blockchain #education #BTC2019",Positive,0.07557869750000012,10296804.8195696,-1499930.8135824986
+5,aantonop,2020-11-09,"@abcardo Sure, I've talked about it many times. You can find my videos on Youtube (https://t.co/jXVNMO55uF)
+
+Quantum attacks are neither imminent, or unsolvable. They're part of the arms race of cryptography.",Positive,-0.12794596999999985,18210625.97270338,-7720417.068679012
+6,aantonop,2020-11-11,"@gcomxx What you describe is BIP39, which as I said made paper wallets obsolete. Mnemonic backups are not paper wallets - though they are best backed up on paper.",Positive,-0.24586254000000007,13877948.92652378,-2292884.2063041795
+7,aantonop,2020-12-13,"@iamcoinsulter Hardware wallets are the best solution for 99% of users.
+
+Software wallets with HD/mnemonic backup also serve many use cases for smaller amounts/risks",Positive,0.07474115999999986,8389349.11124252,1304118.2754058493
+8,aantonop,2021-01-01,"Or even better, don't use paper wallets, period. They were made obsolete by HD wallets and BIP39 mnemonics more than 3 years ago. https://t.co/XP5TOlOiYl",Positive,0.33230899,25722549.3360078,12959289.76746769
+9,aantonop,2021-01-18,"@DavidShares @keyvandavani There is no ""path routing problem"". There are plenty of interesting problems and engineering challenges to solve in LN. That's not one of them.",Positive,-0.02661617000000005,70601712.76708774,-14806053.422084868
+10,aantonop,2021-02-01,"@Fonta1n3 I believe that since Core doesn't maintain an index of UTXO scripts it triggers a rescan to do this, which takes hours. Better than nothing, but Electrum is precisely solving that issue",Positive,0.3503504899999994,39361628.64,-39014638.17999999
+11,aantonop,2021-02-05,"Great presentation by @CeliaGates at # disrupt in Athens,  on entrepreneurial barriers and solutions",Positive,0.2463505399999999,92892157.08,-15357324.430000007
+12,aantonop,2021-01-04,"@lpnola1 @rgilliescanada ""If the victims of torture kill themselves to escape it, its not a death penalty"" is rationalization and apologetics for torture. 
+
+The US uses extended solitary confinement and inhumane treatment to drive prisoners insane - it is torture and a slower more cruel death penalty.",Negative,0.32268529999999984,59955404.84149402,-55073422.17629275
+13,aantonop,2021-02-01,"@larsdobos @GPGTools How would that stop others from sending unsigned fakes? It won't. 
+
+Anyone who can check a PGP signature will also not be fooled by unsolicited email from a random gmail address.",Negative,0.3503504899999994,39361628.64,-78376266.82
+14,aantonop,2020-04-12,"☀️ Solar energy efficiency advances
+🔢 Sudoku as a proof-of-work algorithm
+⚒️ Bitcoin mining in space
+
+Watch and take flight 🚀 https://t.co/dymHp93qj9 #InternationalDayOfHumanSpaceFlight",Neutral,0.09705921409999996,38736897.0186422,-43862443.7931816
+15,aantonop,2020-04-14,"@ForlornSumit @qhardy We are examining the non-fascist alternatives to such solutions.
+
+It's always easier to just build the centralized authoritarian surveillance",Neutral,-0.11590674029999992,16747614.1218552,-18211285.4666889
+16,aantonop,2020-04-18,"@hodl_squirrel @doctorow You're right sorry. In my defense, people forcing longer isolation by stupid non compliance with rational and necessary measures is anti social and I'm pretty stressed out, as we all are. My apologies",Neutral,0.020368363799999956,9782111.900077,-9870810.00168021
+17,aantonop,2020-04-20,"@DigitNovaya Doesn't solve the problem. There are plenty of ways to confirm my account names. If the platforms used by most are vulnerable, adding another platform, even if more secure, does nothing to solve the problem",Neutral,-0.07413545189999993,8342616.4207554,-9289670.37817109
+18,aantonop,2020-04-21,"@CRYPTOMARKETXP1 Not yet, as far as I know. Unsolved problem.",Neutral,0.04627244610000003,9711507.44842345,-8342616.4207554
+19,aantonop,2020-04-26,"@nizashiro A strong solution would be UBI and universal healthcare. 
+
+A corrupt wealth transfer to the already rich isn't strong, it's business as usual.",Neutral,-0.0177086917,8320760.35681435,-7311904.72226874
+20,aantonop,2020-04-26,"In case you're wondering, the current model is unworkable and I know lists are the solution but I want to not have to start from scratch or build them entirely manually",Neutral,-0.0177086917,8320760.35681435,-7311904.72226874
+21,aantonop,2020-04-28,@extremesetupcom @S_Murphy_PhD Absolutely. Each book *and* each chapter inside is standalone. You can start anywhere you want.,Neutral,0.08303978469999995,7470201.22321632,-7406934.10853669
+22,aantonop,2020-05-05,"@Yeicrypto @CoinCornerDanny 1) Nothing completely ""fixes"" that. It's a necessary trade-off. However, LN and other 2nd layer type solutions *do* get us to the next level of scaling. 
+
+2) Mining is the least centralized system of money control
+
+3) It's either fee markets or dev dictatorship
+
+3) Markets",Neutral,-0.031603093899999934,2847469.34149937,-3443697.81828111
+23,aantonop,2020-05-06,"@CryptoFallen @LoginoD @Inheriti_com @SafeHavenio A technical solution is insufficient, as I talk about in the video. I wont be trusting any tech like this for my inheritance planning for a looooong time",Neutral,-0.019870589199999955,2677562.97435084,-2847469.34149937
+24,aantonop,2020-05-06,"@CryptoFallen @LoginoD @SafeHavenio @Inheriti_com A technical solution is insufficient, as I talk about in the video. I wont be trusting any tech like this for my inheritance planning for a looooong time",Neutral,-0.019870589199999955,2677562.97435084,-2847469.34149937
+25,aantonop,2020-05-10,"@StNakamoto Wouldn't that require that you have your own fully indexed and unpruned  node?
+
+This is a solution for lost and confused newbies trying to recover or migrate from one bip39 wallet to another. Having a node isn't a viable prerequisite",Neutral,-0.06742681839999998,2327580.79632425,-2128502.76121917
+26,aantonop,2020-05-10,"@StNakamoto I see this as running as a plugin or recovery option in Electrum GUI, so no complex script running. Just install Electrum. It has to be foolproof for newbies. That's the problem I'd like to solve.
+
+For more advanced users it would be fine as a Bitcoin Core script",Neutral,-0.06742681839999998,2327580.79632425,-2128502.76121917
+27,aantonop,2020-05-11,"@pholdie The code in the book's repository is probably updated for newer versions of solidity. Unfortunately, the tech moves too fast for us!",Neutral,-0.02098222120000004,2098480.82876321,-2327580.79632425
+28,aantonop,2020-05-12,"@Arcadia845 Many pools were building candidate blocks, perhaps with message or without. Of those only f2pool was seen because it was the first to find a valid solution to the Proof-of-Work algorithm.",Neutral,0.025185122400000037,2198624.8775544,-2098480.82876321
+29,aantonop,2020-05-15,"Blockchains are often touted as a solution for secure voting. Could an open #blockchain make voting more secure? Would an open blockchain solution solve the problems that voting systems have?
+
+Patreon Community Builders asked; here's the answer: https://t.co/vXZTSSu1m9",Neutral,-0.009441332700000027,1850070.45437919,-2047896.7931676
+30,aantonop,2020-05-15,"@LoganFlatt You're absolutely right. My original post was poorly worded and I'll definitely do better next time. 
+
+I hope that people will post these questions tomorrow during the livestream and vote them up, because they are good!",Neutral,-0.009441332700000027,1850070.45437919,-2047896.7931676
+31,aantonop,2020-05-28,"@lucchase @ObyteOrg I say that I'm skeptical of the inherent trade-offs they have made but not advertised &amp; I await for them to prove their resilience at scale in an adversarial environment. 
+I am quite open to innovation wherever it may come from. So far, I haven't seen any that obsoletes BTC",Neutral,-0.015728163499999948,2662787.87087333,-2536915.55918301
+32,aantonop,2020-06-06,"@BitKnow False equivalence (as usual).
+
+Only one side is funded by a state apparatus, armed like soldiers, abusing authority and evading any form of accountability. 
+
+We can see cops are humans with all the flaws and still be outraged at a *system* that routinely dehumanizes their victims",Neutral,-0.0386287996000001,1604055.15722887,-4322091.65471632
+33,aantonop,2020-06-14,"@bitcoinspot Yes, I think the correct response to this article is to build decentralized systems that achieve all this but:
+
+- Are uncensorable
+- Crowdfunded and Crowdsourced
+- Community governed
+
+Solves all the issues highlighted by the author",Neutral,-0.02385004209999997,873415.751115423,-764756.553388664
+34,aantonop,2020-06-15,"@2067MT Property rights are not absolute (at least not in this country under the constitution). Property rights are balanced against other rights, such as the right to equal protection, free expression etc.
+
+I don't see property rights as above all other rights. We can disagree on that..",Neutral,-0.0177338157000001,942666.189719777,-873415.751115423
+35,aantonop,2020-06-24,Is it possible to sell a mini-cooper for #bitcoin? You bet! In June of 2013 I sold a mini-cooper for bitcoin. And here’s a throwback meme to keep you in the ‘coop.’ https://t.co/UfVNo6yGui,Neutral,0.028464149099999947,2769053.65582756,-1327340.25336353
+36,aantonop,2020-06-26,"@Shawn80390715 You know what really sucks for people with CORD and COPD? COVID. 
+
+It's not about absolute risk or absolute effectiveness. It's about relative risk and relative effectiveness. 
+
+If you haven't noticed, millions of perfectly able people are playing politics with others' lives",Neutral,0.028613067999999964,1664662.318395,-1751581.2295456
+37,aantonop,2020-06-27,"@soloyopee @BrianViera27 @HeadyMcshreddy Do you understand why that video is scientifically flawed?
+
+Your lungs don't absorb CO2 just because it is in your exhalation. They're a sophisticated gas exchange system. 
+
+Studies show only a mild effect for very prolonged use of masks. Ask a Japanese person, they wear daily.",Neutral,-0.02604882630000005,1681428.02669551,-1664662.318395
+38,aantonop,2020-06-27,"@soloyopee @BrianViera27 @HeadyMcshreddy It's almost as if an environmental probe is not a suitable sensor for measuring gas concentration  in that kind of setting.
+
+It's hard to find the right balance between easy-to-explain and dangerously over-simplified to the point of being totally wrong.",Neutral,-0.02604882630000005,1681428.02669551,-1664662.318395
+39,aantonop,2020-07-02,"@jbucksteiner In the last 4 months very rarely, but yes. Some of my travel is not avoidable. When I travel, I try to keep safe, isolate, protect myself and others and not become a carrier",Neutral,-0.05189694890000007,1749581.47684417,-1772559.84133893
+40,aantonop,2020-07-08,"@mezie16 @lightning @openoms @rootzoll @fefolamas @LNnodeLightMeUp @lightninginabox @RTL_App @lightning_hood @LNJunkies The problem I was having was that channels remained stuck *after* the timelock because of a bug. Give it time. If it doesn't resolve after max 2016 blocks, ask again!",Neutral,0.04366540699999999,2220222.72711344,-1700040.66085723
+41,aantonop,2020-07-10,"@mezie16 Ad hominem. I'm not a maximalist and you can't dismiss the pragmatic argument with moralistic arguments that don't actually solve the problem, or by presenting my position as some kind of extremist/radical position. 
+
+No one disagrees that evil exists. AML adds more evil not less",Neutral,0.06025586890000001,1856094.87383758,-2668723.50625663
+42,aantonop,2020-07-28,"@infeza Might be possible with a soft fork, Lightning might be sufficient
+
+Hard to tell, but not a problem we need to solve now",Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+43,aantonop,2020-07-31,"@cardano_apps @Cardano @InputOutputHK @Bitcoin @sol3gga A book like that takes two years from planning to delivery. Not something I can take on until mid-2021, even if I decided you were right and it was something I wanted to focus on. 
+
+so many projects, so little time...
+
+Thanks for the confidence in my work though!",Neutral,-0.1486294479000001,4822046.26693321,-5222980.07636029
+44,aantonop,2020-08-01,"Can someone recommend a good solution for monitoring Bitcoin Core node running on a remote sever?
+
+Maybe the same for Lightinng node?
+
+I'm having problems with uptime and don't get notification if the server is still up but the node isn't",Neutral,-0.006149277200000025,4589882.24595131,-4822046.26693321
+45,aantonop,2020-08-09,"@NerdyNormie @SummersBeccy @evanashapiro @maxkeiser @adam3us @ToneVays @CharlieShrem @PeterMcCormack I'm no maximalist. 
+
+Pretty much the entire argument in this article is belied by the fact that the miners cannot change consensus rules, as demonstrated in 2017 when they overwhelmingly wanted to (big blocks) and failed, even after soliciting the support of major exchanges.",Neutral,0.19367171260000005,12107836.8570546,-10919229.1805999
+46,aantonop,2020-08-10,"(2) It acts as a sort of on-chain mining pool mechanism, since it doesn't penalize second-finish miners with a zero reward. This makes lower-hashrate miners able to compete as solo miners without losing potential reward
+
+/10",Neutral,0.4665657983,22863250.6335323,-12107836.8570546
+47,aantonop,2020-08-10,"Again, it takes 10x the time to debunk bullshit as it does to state
+
+There are plenty of valid things to criticize, both for Bitcoin and Ethereum. Those who understand these technologies work to address the issues by *building* engineering solutions for engineering problems
+/19",Neutral,0.4665657983,22863250.6335323,-12107836.8570546
+48,aantonop,2020-08-12,"@RubinhoISR @SoldByJacob With all due respect, I've written the book that explains Ethereum and I'm writing the book that explains Lightning. 
+
+They're online and available to read for free.",Neutral,0.4617930653000002,28461706.5886889,-36356155.1835573
+49,aantonop,2020-08-13,"@MCottarelli Is this criticism based on a solid reading of my 400 page book ""Mastering Ethereum"" based on 3 years of research, or just an ""opinion""?
+
+I want to calculate the precise supply of fucks to give. I think it might require a script.",Neutral,-0.014731952400000026,28236179.4181239,-28461706.5886889
+50,aantonop,2020-09-01,"@AlfredodeCandi1 @electrum @APompliano @gavinandresen @adam3us Paper wallets are obsolete and dangerous for non experts.
+
+Single hardware wallet is my answer. Splitting will shift the risk to inadequate backup and loss from other causes, without in practice increasing security",Neutral,-0.436534301,16944926.9392703,-20950150.2193332
+51,aantonop,2020-09-01,"@josephskewes Oof. I did not read it. Mea culpa. 
+
+You're absolutely right and I'm sorry. I reacted to a headline which I rarely do, because I was reading about de-minimis exceptions to capital gains reporting.
+
+Thanks for correcting me",Neutral,-0.436534301,16944926.9392703,-20950150.2193332
+52,aantonop,2020-09-01,"@sKryptKid @inheriti @LoginoD I think purely technical solutions to crypto inheritance planning are premature, untested and incomplete. I wouldn't use them for my own money",Neutral,-0.436534301,16944926.9392703,-20950150.2193332
+53,aantonop,2020-09-03,"@MatHeller1 @cobrown @emilyekins @CatoInstitute The part of this that lacks any scientifically collected evidence and is stated with absolute authority is the ""just a few bad apples"" claim. The idea that this is an isolated and rare problem is completely unsubstantiated, in fact disproven by all the evidence.",Neutral,-0.6414326248000002,26473633.5627635,-23655802.3133022
+54,aantonop,2020-09-03,"@MatHeller1 @cobrown @emilyekins @CatoInstitute After decades of data proving that there is a systemic problem, the only thing that *can* change is the awareness and recognition of that problem. 
+
+Only from that change in perception is there any hope of reforms and real solutions. 
+
+Otherwise: No justice, no peace.",Neutral,-0.6414326248000002,26473633.5627635,-23655802.3133022
+55,aantonop,2020-09-21,"This FinCen leak is worthy of our ridicule because it reveals the hypocrisy of those who argue that crypto-currency is for money launderers. Banking *is* money laundering on a massive scale. But the solution is not to tighten controls on money. That won't work
+
+15/",Neutral,-0.08839397900000012,19492893.6246122,-9217295.41412604
+56,aantonop,2020-09-21,"The solution is to stop trying to use money (a tool) to fight crime (human nature). But if you think the hypocrites will back down and adopt sensible systems and laws that enable human trade and economic inclusion, you are wrong. They will double down with even more control",Neutral,-0.08839397900000012,19492893.6246122,-9217295.41412604
+57,aantonop,2020-10-08,"@Nebula_Matrix @SafeHavenio @Inheriti_com I wrote the foreword for the definitive book on the subject ""Crypto-Asset Inheritance Planning"" by @pamelawjd and it has a dedicated section on why you shouldn't use a smart contract or 3rd party solution
+
+So yes, I have thought about it &amp; I have a plan",Neutral,0.06523864999999995,14931921.70481354,-11759752.04495923
+58,aantonop,2020-10-21,"Livestream this Saturday! It’s Open Topic &amp; questions are pouring in from patrons. I’ll be answering lots of questions, maybe yours? Current topics: seedless #bitcoin wallets, #smartcontracts state &amp; execution, &amp; can I solo mine?
+
+🎥Set a Reminder to Join: https://t.co/33sPepTeSW https://t.co/UJ44H2Zp20",Neutral,0.0017665299999998219,19275509.45257168,-13129043.07033953
+59,aantonop,2020-10-23,"In case people were wondering about why RIAA and Github are wrong about taking down youtube-dl:
+
+As a YT creator, I use youtube-dl to make a backup of my channel - my own content. A feature YT doesn't offer and which I absolutely need because no one should trust any platform 100%",Neutral,0.0029674399999999324,11497444.71334744,-11445662.79336236
+60,aantonop,2020-11-04,"@SemperePico @VitalikButerin @APompliano Voting in the US is not in need of tech solutions. All of the ""problems"" are engineered features with the explicit goal of voter suppression, apathy and disenfranchisement. 
+
+The system is working exactly as intended: to secure undemocratic minority rule and incumbent power",Neutral,-0.01997902000000007,11406316.03373677,-6536977.27806969
+61,aantonop,2020-11-05,"Comments on my Rules Without Rulers talk:
+
+“wow wow wow andreas! i think this was your best speech ever.”
+“I just love when you combine political problems with innovation and technology.”
+“Absolutely inspiring as always.”
+
+Watch it now: https://t.co/wHxHVjM7iS https://t.co/3SEhSfnJc5",Neutral,0.012963110000000055,8924131.52401733,-11406316.03373677
+62,aantonop,2020-11-05,"@Screebles @rogersutton Engineering and much broader adoption and integration into our payments and communications infrastructure. 
+
+I'm still not convinced that it solves a real problem in a meaningful way. Why be dishonest about that?",Neutral,0.012963110000000055,8924131.52401733,-11406316.03373677
+63,aantonop,2020-11-05,"@jagbolanos @SemperePico @VitalikButerin @APompliano I disagree. The ""problem"" of the perception of corruption and fraud cannot be solved by more facts. 
+
+The biggest mistake reasonable people keep making is to try and reason with unreasonable people using facts despite the emotional aspect of an alternate reality worldview.",Neutral,0.012963110000000055,8924131.52401733,-11406316.03373677
+64,aantonop,2020-11-09,"@LWhatsHisFace Agree except for the ""break it into parts"".  That's an unrecoverable N-of-N solution where if you lose a part you're screwed. I've had several people lose money that way and come to me for help. It's not a good idea.",Neutral,-0.12794596999999985,18210625.97270338,-25931043.04138239
+65,aantonop,2020-11-09,"@aimee_maree I can and did do it too. But that's not a solution for 99.99% of the people in this space. I wasn't offering advice for security experts. We're 5 years past that demographic of adoption.
+
+Now it's just dangerous to recommend and those who can do it don't need the advice.",Neutral,-0.12794596999999985,18210625.97270338,-25931043.04138239
+66,aantonop,2020-11-09,@kichsr That applies even more when you're the only user of the solution you just built but weren't really qualified to build.,Neutral,-0.12794596999999985,18210625.97270338,-25931043.04138239
+67,aantonop,2020-11-10,"@shahjinesh111 Are you asking me if a DIY security solution combining a selection of software and consumer hardware is as secure as a hardware wallet?
+
+Because it seems like that's what you're asking.",Neutral,0.21933486000000002,16170833.13282796,-18210625.97270338
+68,aantonop,2020-11-10,"@Lickyvi @Ghogeeartist @SayBitcoin None of those attack vectors make a hardware wallet less safe than a DIY solution. You can take measures to source your hardware wallet securely.
+
+It is much easier to compromise a software download (used for DIY solutions) than a hardware wallet supply or distribution chain.",Neutral,0.21933486000000002,16170833.13282796,-18210625.97270338
+69,aantonop,2020-11-11,"@boctoginta @santos_barrio Nowadays? None.
+
+Paper wallets are obsolete. 
+
+PS. Mnemonics aren't paper wallets, mnemonics are the correct way to backup keys. 
+
+inb4: 
+no, not even for that use
+no, not that one either
+no, don't use paper wallets",Neutral,-0.24586254000000007,13877948.92652378,-16170833.13282796
+70,aantonop,2020-11-11,"@nesstle_pipes That's not a replacement for a hardware wallet. It's a hot wallet solution for mobile use.
+
+I disagree with specifically the use of such DIY solutions in replacement of a hardware wallet. Putting a few bucks in a hot wallet on desktop instead of smartphone is fine.",Neutral,-0.24586254000000007,13877948.92652378,-16170833.13282796
+71,aantonop,2020-11-17,"@JEhrenhofer Thanks for that. Intriguing. Too expensive for the hosted solution, have to figure out if I want to pick up the work of self-hosting.",Neutral,-0.07889880999999965,17074174.95712231,-22156135.17364347
+72,aantonop,2020-11-18,Common newbie question: Can I store a lot of #cryptocurrency on my mobile wallet? Answer: you shouldn't. Use the tears test to see if you need a more secure solution like a hardware wallet. 😭😭😭 &lt;-- don't let this be you: https://t.co/b6ndGTaGn6 https://t.co/PHwlFnU42P,Neutral,-0.08715275,14629648.08989412,-17074174.95712231
+73,aantonop,2020-12-01,"Yesterday, while everyone was helpfully explaining to me why Bitcoin is broken, obsolete and failing to fulfill it's mission, I ran my monthly payroll.
+
+1/",Neutral,0.007986979999999866,12847022.37823892,-8716571.16727617
+74,aantonop,2020-12-03,"@NeerajKA It's revealing that they are quite unconcerned about applying the most overbroad and onerous remedy to resolve a narrow interest that can clearly be accomplished in a simpler way. 
+
+Fortunately, this will be evaluated on a ""normal scrutiny"" basis by SCOTUS judge Rudy Gulliani.",Neutral,-0.016746330000000142,18106121.72298748,-15849828.20530223
+75,aantonop,2020-12-03,"@LongLastToken @NeerajKA @Tether_to How else will you resolve?
+
+This bill is ten times as broad as needed to solve that one narrow issue. Now the author is talking about prosecuting node operators who process ""illegal transactions"". 
+
+The purpose of this is to chill innovation. Market solutions are better.",Neutral,-0.016746330000000142,18106121.72298748,-15849828.20530223
+76,aantonop,2020-12-05,"@ianjohnlee Not sure if it helps, but ""Mastering Ethereum"" is open source and free to read on github. It starts at a much more basic level, builds up to more complex solidity code
+
+https://t.co/SRhw0th6Gl",Neutral,0.12280537000000002,7750781.04480337,-9019864.15038828
+77,aantonop,2020-12-06,"@Fonta1n3 I don't endorse or recommend ANY products. 
+
+But, truth is that you can't prevent all attacks and phishing is a common vector for attacks. 
+
+The alternative is users avoiding all hardware wallets and trying some frankenstein solution that is worse.  Everything has vulnerabilities",Neutral,-0.12440949000000012,7167229.51269223,-7750781.04480337
+78,aantonop,2020-12-11,"@solomarkadelon When Taproot is finalized and in the activation pipeline, I think will be a good time to start on 3rd Edition. Probably mid next year?",Neutral,-0.12778134000000008,8273918.34951755,-6167983.16893835
+79,aantonop,2020-12-13,"@dan13456 @Ledger @Trezor It depends on the user's level of technical expertise. 
+
+A more sophisticated solution can end up being less secure if it is harder to use and the user gets confused. 
+
+I recommend that people evaluate and review to find the best fit for their OWN needs and skills.",Neutral,0.07474115999999986,8389349.11124252,-7085230.83583667
+80,aantonop,2020-12-14,"@ben0000888 It's pros and cons, really. In my mind the X is less ""cold"" than an S and much less than say a ColdCard.
+
+But it's also colder than a smartphone hot wallet. If what you're using it for is to turn your mobile hot wallet into a much more secure wallet, then it's a great solution",Neutral,0.023677080000000128,8672051.95648215,-8389349.11124252
+81,aantonop,2020-12-16,@TheScottRob @CoinDesk I was unfortunate enough to be the victim of counterfeiters when I sold some bitcoin in 2014. I got a nuch of fake 20s. I destroyed them all except a couple which I laminated together with some real ones to make a teaching device on how difficult it is to spot a fake.,Neutral,0.023505679999999973,18277631.04446976,-19470079.53119814
+82,aantonop,2020-12-20,I once sold my car for #bitcoin - what’s something you have sold for #crypto? https://t.co/9Aa7qQuEPq https://t.co/HYVOQgnevv,Neutral,-0.10713828999999997,9093229.49751807,-9095045.00474692
+83,aantonop,2020-12-21,"@pepecottage @Ledger @saleemrash1d No I haven't. I have been recommending hardware wallets as a security solution. I don't endorse specific companies or products. If I mentioned Ledger, I did so in a list with other competitor products usually listing the top 3-4 companies in the space.",Neutral,-0.021859450000000002,8333991.44150289,-9093229.49751807
+84,aantonop,2020-12-22,"Everything I've found so far removes the entire user account after inactivity. That won't work because I provide continued access to ebook, workshops etc for users. I also need to be able to review orders for refunds and customer issue resolution.
+
+4/",Neutral,-0.04932329999999996,11066564.74357854,-8333991.44150289
+85,aantonop,2020-12-24,What this should tell you is that they are scammers. They are soulless exploiters without any ethics. They are happy to appropriate public goods and then use their money and their lawyers to threaten so they can solidify their dodgy claim.,Neutral,0.15470376000000008,9236938.50803516,-16776307.03794223
+86,aantonop,2020-12-25,"@Open_Media No, an encrypted storage solution can be used to store the key material, but the problem simply shifts to:
+a) How do you open/write/read that
+b) How do you sign transactions
+
+Both of which are not secure to do in online software/OS, so you're back to needing a hardware wallet.",Neutral,0.08390673999999998,9359548.53228497,-9236938.50803516
+87,aantonop,2020-12-27,"@menoob Absolutely not. 
+
+Mnemonics never online. Ever.",Neutral,-0.022032300000000005,12286531.39847335,-6798656.31848622
+88,aantonop,2020-12-27,"@BiologistBlogg1 That makes absolutely no sense. 
+
+What makes you think you get to tell me to work for free? Especially since you already got something for me for free?",Neutral,-0.022032300000000005,12286531.39847335,-6798656.31848622
+89,aantonop,2020-12-27,"@LouisSolomon8 @jkosseff Perhaps but that has nothing to do with Section 230.
+
+Repealing it is only about making it easier for the government and private parties to use lawsuits to censor protected speech.",Neutral,-0.022032300000000005,12286531.39847335,-6798656.31848622
+90,aantonop,2020-12-27,@nathan_hauk In 24hrs we gave out 5x more than we sold all year.,Neutral,-0.022032300000000005,12286531.39847335,-6798656.31848622
+91,aantonop,2020-12-28,"Newbie PSA:
+
+Do NOT use paper wallets. They are obsolete key storage technology and dangerous for newbies. 
+
+Use a BIP39 mnemonic phrase instead, back it up on paper or better on a durable medium like steel.",Neutral,0.2116916299999998,12668149.81727901,-12286531.39847335
+92,aantonop,2020-12-28,"@evbots I like and use the Cryptosteel Capsule. 
+
+Also, a very inexpensive alternative is https://t.co/WxBHhS7KXt, a DIY solution.",Neutral,0.2116916299999998,12668149.81727901,-12286531.39847335
+93,aantonop,2020-12-28,"Mnemonic phrase backups part 3:
+
+The two most important principles in security:
+
+Keep It Simple Stupid (KISS)
+
+Don't Roll Your Own Crypto (DRYOC)
+
+The question ""how about if I... &lt;complex DIY solutions&gt;"" is answered with ""No, keep it simple""",Neutral,0.2116916299999998,12668149.81727901,-12286531.39847335
+94,aantonop,2020-12-28,"@erlingjohnsenDK It doesn't provide safety comparable to a hardware wallet for the same reason all DIY hardware wallets don't. 
+
+The hardware/firmware of a hardware wallet is purposely restricted to an absolutely minimal functionality. You can't replicate that DIY.",Neutral,0.2116916299999998,12668149.81727901,-12286531.39847335
+95,aantonop,2020-12-28,"@IndigoOcean Except the Bitfi is non-standard and not interoperable with other hardware wallets. They also made some very questionable claims in the beginning. 
+
+I'd stick to a standards-based solution. Easier to find help when you inevitably need it.",Neutral,0.2116916299999998,12668149.81727901,-12286531.39847335
+96,aantonop,2020-12-28,"@hodlmeister @CasaHODL Noobs should absolutely not follow the advice above ^^^
+
+You will lose your money and @holdmeister won't be around to reimburse you for following bad advice.",Neutral,0.2116916299999998,12668149.81727901,-12286531.39847335
+97,aantonop,2020-12-29,"@JAppeleby @JuanSGalt @jimmy_wales @realDonaldTrump That has nothing to do with section 230. You are repeating absolute nonsense that has no basis in fact
+
+Read section 230. It's 26 words. Surely even you can manage that",Neutral,0.15888316999999996,26355258.83179235,-12668149.81727901
+98,aantonop,2020-12-29,@FreakieF Single key paper wallets are obsolete and dangerous to newbies,Neutral,0.15888316999999996,26355258.83179235,-12668149.81727901
+99,aantonop,2020-12-30,"@cinziaspina77 If you are worried about security of the seed, you should use a second-factor with the optional passphrase feature that is part of the standard. You can record and back that up separately from the seed.
+
+Do not try to improvise solutions outside the standards &amp; best practices",Neutral,-0.1342369699999999,12663615.73809283,-26355258.83179235
+100,aantonop,2021-01-02,"Keep your #resolution to make your #bitcoin safer, make sure your #cypto security is where it should be! Whether you’re new or an expert, you’ll smile at least once and learn something new: https://t.co/fFHYJv8a8M https://t.co/D9NRsggwD2",Neutral,-0.04631092000000003,31671063.53777906,-25722549.3360078
+101,aantonop,2021-01-02,"Did you resolve to learn more about how #bitcoin or #ethereum networks work in 2021? If so, pick up Mastering #Bitcoin, Mastering #Ethereum, or both to understand the technical similarities and differences. Get a 20% discount using code GoodRiddance2020 at https://t.co/hxCpJBYuZQ https://t.co/zzVwC8Yhtn",Neutral,-0.04631092000000003,31671063.53777906,-25722549.3360078
+102,aantonop,2021-01-02,"@winslow_strong @turinglabsorg It's a complex issue and it depends on your threat model. 
+
+Truth is, far far more people lose funds by making their solution complex and stepping outside their skill level than through theft or hack. 
+
+The reason I suggest simple solutions is because they are best for most. YMMV",Neutral,-0.04631092000000003,31671063.53777906,-25722549.3360078
+103,aantonop,2021-01-03,"@filipebatsilv If by paper wallet you mean a 12-24 word mnemonic, yes.
+
+Otherwise, single key paper wallets are obsolete and dangerous for newbies",Neutral,0.36185022999999994,55073422.17629275,-31671063.53777906
+104,aantonop,2021-01-03,"@filipebatsilv Obsolete and dangerous. 
+
+Recovering from a single-key paper wallet has caused a lot of people to lose money because of the misdirected change. 
+
+Also, you still need a secure signing device and a secure way to generate. Hardware wallet + mnemonic are superior in every way.",Neutral,0.36185022999999994,55073422.17629275,-31671063.53777906
+105,aantonop,2021-01-05,@GenghisKhanh1 @theinstagibbs @omgbtc ETH2 is the scaling solution. You may disagree with it. But you can't blame it for leaving you behind without a scaling solution if you choose not to follow.,Neutral,-0.33376501000000003,50555207.03513643,-59955404.84149402
+106,aantonop,2021-01-08,"@ScottIanson @DaPholosopher Solution: Desktop only, inside a sanboxed browser used only for that purpose. Never mobile. Never on the ""general use"" browser. You can use a firefox extension to sandbox FB sites",Neutral,0.8511478799999996,206412154.2447589,-159870278.0790676
+107,aantonop,2021-01-14,"@KryptoApproved @MarkuQendrim Sorry this is not correct. 
+
+Paper wallets made of single keys are obsolete and dangerous for newbies. 
+
+Mnemonic phrases on paper are good solutions but you still need a device to generate, derive and sign. 
+
+The simple answer you offered is wrong.",Neutral,-0.23787125999999992,59283112.21846475,-57994892.73472413
+108,aantonop,2021-01-14,"@FoudreDeGuerre @Crypt0nio Disagree. When properly used, the device is perfectly fine. Most people who follow your advice will ""dump ledger"" for a far less secure alternative, such as a DIY solution that exceeds their skills, thereby losing money from mistakes.",Neutral,-0.23787125999999992,59283112.21846475,-57994892.73472413
+109,aantonop,2021-01-15,"Some people are planning to change their numbers to evade these: This is a double-edged sword - if you switch numbers, your old number is available and might be hijacked to impersonate you. You must make ABSOLUTELY SURE you have removed it from everywhere before you switch",Neutral,-0.030237929999999746,45331738.74819012,-59283112.21846475
+110,aantonop,2021-01-16,"@Guruxz1 Not a single-key paper wallet, those are obsolete and dangerous for newbies. Use a mnemonic paper backup instead
+
+Paper wallets are just key storage mechanisms. You still need to load that key and sign somewhere. That somewhere is a hardware wallet. It's backup is a mnemonic",Neutral,0.19812059999999976,68035606.39281899,-45331738.74819012
+111,aantonop,2021-01-18,Many if not most Americans were against #MLK and the Civil Rights movement at the time. They justified the police brutality against peaceful protesters and assigned isolated violence to the entire movement. Exactly the way #BLM has been treated since Ferguson.,Neutral,-0.02661617000000005,70601712.76708774,-85407766.18917261
+112,aantonop,2021-01-21,"@AnitaPosch @Cointelegraph They quoted a BSV user who stated an absolute falsehood unquestioned and unopposed. 
+
+My jaw dropped when I read it.",Neutral,-0.7311338900000002,43834764.53989141,-46698656.44529995
+113,aantonop,2021-01-21,"@eCrafti @CryptoAmigo It is why if you are expecting a big payment you wait a few confirmations. When I sold my car for $11,000 USD, I waited 3 confirmations.",Neutral,-0.7311338900000002,43834764.53989141,-46698656.44529995
+114,aantonop,2021-01-21,"Eventually, within an average of 10 minutes another block is mined. This new block has as its parent *one* of the two competing blocks. Which one? Whichever one the miner saw first and assumed to be the winner. 
+
+The new block extends the chain, resolving the issue. 
+
+5/",Neutral,-0.7311338900000002,43834764.53989141,-46698656.44529995
+115,aantonop,2021-01-21,"@rodin_en_colors @bsozen LN does solve this, for small amounts. But you can always wait 1-6 blocks for larger amounts. In traditional banking ""clearance"" is 3-5 business days. For credit cards it is 30-90 days and I've even seen attempted clawback after 18 (!) months. You can wait an hour for finality",Neutral,-0.7311338900000002,43834764.53989141,-46698656.44529995
+116,aantonop,2021-01-21,@krishwhi @RionGull @Dash_Memes @kanuuker You're missing something here. Every onchain transaction can be used to open/close several channels in addition to the on-chain payment. Channel opening/closing should be batched. LN is not the only or the last scaling solution and works in conjunction with base layer scaling.,Neutral,-0.7311338900000002,43834764.53989141,-46698656.44529995
+117,aantonop,2021-01-23,"#Cryptocurrency ownership has different levels and there are big differences between flying stand-by, economy, and business class, where you control your keys. Learn more about The #Crypto Airplane: https://t.co/xm8A3lBihi https://t.co/uZcTHMcSol",Neutral,0.16307622000000022,27904470.4262182,-63361382.17557853
+118,aantonop,2021-02-01,"@figoillo Solo libros en espanol. No puedo tweetir (tweetar?) en espanol, porque necessito muchas classes mas.",Neutral,0.3503504899999994,39361628.64,-78376266.82
+119,aantonop,2021-02-05,"@CryptoKaleo There is no safe event that involves large gatherings unless it's on an isolated island without outbreaks (e.g New Zealand).
+
+This request was for Florida. It deserves every ounce of condemnation and scorn. It's willful and dangerous ignorance.",Neutral,0.2463505399999999,92892157.08,-108249481.51
+120,aantonop,2021-02-06,"@lukestokes It's been a mixed experience IMO. 
+
+Some fun conversations, for sure. 
+
+Absolutely terrible UI. I mean Discord is 1000x better at audio chat. I don't get why Clubhouse
+
+Also, a LOT of very slimy oily salespeople ""selling"" #bitcoin in very slimy and unethical ways.",Neutral,-0.5764942100000008,102365493.54,-92892157.08
+121,aantonop,2021-02-07,@DJsolarlab @SortaBad @ledgerstatus @CryptoMessiah @BullyEsq Thanks,Neutral,0.5828181399999997,105451102.52,-102365493.54
+122,aantonop,2021-02-11,"@rodin_en_colors @PeterMcCormack @100trillionUSD I still say ""it's about the other 6 billion"". The base chain and its security is incredibly important for those ""earning less than $10 a day"" to sustain as a store of value. For transactional use, we should be looking to Lightning Network and other layer-2 scaling solutions.",Neutral,0.1349956100000007,53600047.53,-120679901.64
+123,aantonop,2021-02-22,"@aeyakovenko @ArweaveTeam @solana The audience of newbies is on Youtube. 
+Pragmatism and my desire to help new people in this space trump all other considerations or options.",Neutral,3.3817489,574136240.77,-137742366.13
+124,aantonop,2021-02-25,"PSA: Paper wallets are obsolete and dangerous for newbies. 
+
+Everything you could do with a paper wallet you can do better with a hardware wallet &amp; a BIP39 mnemonic phrase (seed words).
+
+(Yes that method you came up with on your own is also dangerous. That one too. And that one) https://t.co/7yFse85HV9",Neutral,-3.4141692399999997,364505275.74,-375439706.61
+125,aantonop,2021-02-25,"Observe as dozens of people show off their ""amazing technical skills"" by contradicting what I just said and propose complex DIY solutions that newbies will try to follow and lose money...
+
+Do not listen to them. 
+
+Every time!",Neutral,-3.4141692399999997,364505275.74,-375439706.61
+126,aantonop,2021-02-25,"@letsgoskatepool You don't memorize it. You record it on a durable medium. If paper, then it is equivalent but far superior to a single-key obsolete paper wallet.",Neutral,-3.4141692399999997,364505275.74,-375439706.61
+127,aantonop,2021-02-25,"@AlphaLogician @HafkeHafke Yes and it is wrong. For 99% of users, it will result in loss of funds. It reduces overall security while also reducing resilience. You should use the optional passphrase if you are concerned about the physical security of the mnemonic phrase. Your ""solution"" puts keys online",Neutral,-3.4141692399999997,364505275.74,-375439706.61
+128,aantonop,2021-02-25,"@thing_rat @COLDCARDwallet I think the ColdCard adds some device entropy. 
+
+A lot of this is for very very advanced cold storage strategies. Not necessary for the vast majority of users. Keep things simple. 
+
+Don't use solutions that exceed your technical understanding - that's dangerous.",Neutral,-3.4141692399999997,364505275.74,-375439706.61
+129,aantonop,2021-04-09,"In #bitcoin, privacy isn't a one and done sort of thing, but here are the simple ways you can increase #privacy on your bitcoin transactions right now: https://t.co/FNaDSXFfCu https://t.co/eoBsPSSOLD",Neutral,0.7924704499999997,282477938.07,-377988327.49
+130,aantonop,2021-04-15,"@mbarkhau @danheld @michael_saylor Absolutely. I thought it was a scam and ignored it for more than a year. It was only the second time that I read the whitepaper and started exploring it. I tried to ""debunk"" it and I tried to break the security and hack it. I was looking for the ""catch"". I failed to find one",Neutral,1.3814705699999976,221346738.91,-342565805.3
+131,aantonop,2021-04-16,"@OHVillasenor Aren't these like the best mugs? Big, heavy, and well made? I love them and got several myself to test before we sold them",Neutral,-2.4229565000000015,240665351.49,-221346738.91
+132,aantonop,2021-05-05,"@PregoAgustin I sincerely apologize if my joke was flippant. It was absolutely not meant to be. Quite the opposite, I love Argentina and it's people and would never disrespect intentionally",Neutral,2.2863392000000005,503781974.7,-682976428.41
+133,aantonop,2021-08-31,Institutions of trust are failing. They can't scale. Learn more about how #Bitcoin solves that problem here: https://t.co/5OqMAy6sMG https://t.co/7xMzKf6k10,Neutral,-1.2723785200000037,7590894022.05,-5274104165.4
+134,aantonop,2021-10-19,"In the lastest ReImagined video, learn how and when to Consolidate UTXOs. This is an advanced topic Q&amp;A from my May Q&amp;A Livestream. - https://t.co/kA0ZmiE10y https://t.co/vHNx8SoBjM",Neutral,-1.1931762872000036,1400902548.44,-1698878759.32
+135,aantonop,2021-12-13,"A labour of love, and currently #1 on Amazon Business, Mastering the Lightning Network covers everything from the basics of Lightning technology to the technical details of how and why it is a critical solution to Bitcoin's scalability problem. Purchase https://t.co/PnszZdWeXj https://t.co/NbKkO2R3Ae",Neutral,-17.8868786859,2547597256.16,-1196808539.97
+136,aantonop,2022-01-15,"The Lightning Network can be layered on top of any Blockchain-based cryptocurrency, allowing for immediate transactions and low fees. Find out more about how it can solve scalability issues in Mastering the #Lightning Network. https://t.co/PnszZdWeXj https://t.co/6hd0O5hm9I",Neutral,1.6211572999000055,1123271783.98,-1822320950.75
+137,aantonop,2022-01-18,Aprende a planificar la herencia de tus #criptomonedas. Obten el libro de @pamelawjd y comienza en tan solo 30 minutos. Disponible en tapa blanda https://t.co/KY4g2wUkyJ y en formato electrónico https://t.co/C8obPiscLU,Neutral,1.654418471700012,1449435941.77,-1487772250.02

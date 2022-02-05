@@ -1,0 +1,306 @@
+,user,date,tweet,polarity,valueDelta,volume,volumeDelta
+0,VitalikButerin,2020-06-30,@jinglanW @licuende @aantonop @karl_dot_tech @AnnaRRose @0xstark @ljxie @technocrypto @DoveyWan @Melt_Dem @nanexcool @zooko @La__Cuen @ameensol @laurashin @cburniske @CamiRusso @jinglanW is great too!,Positive,0.007071535000000018,3887548.37229807,1739757.3941540201
+1,VitalikButerin,2020-07-11,"The better solution is drastic increases in scalability through (i) rollups, and (ii) sharding. Optimistic and ZK rollups can increase capacity from ~15 tx/sec to ~3000 tx/sec by doing most of the transaction processing on layer 2.",Positive,0.011064652800000019,1788814.0647145,-67280.80912307999
+2,VitalikButerin,2020-07-28,.. so we have to be patient for a couple of years in any case. I think you'll find that lots of ethereum people are fully onboard with solidifying the economics after eth2. Though in the meantime @nethermindeth and other awesome teams have already made supply calculation scripts!,Positive,-4.327579999996445e-05,9692632.1660337,-23145722.5413296
+3,VitalikButerin,2020-08-11,"@ToastOfCT @cz_binance @zksync @loopringorg Because zk rollups are the best solution we have until EVM-compatible optimistic rollups come along later this year, and eth2 will take even longer.",Positive,0.17237694360000022,36356155.1835573,13492904.550025001
+4,VitalikButerin,2020-09-02,"@technocrypto @ameensol @slatestarcodex I do think the gender case is not like race and there's a much higher chance that divergence is the outcome that delivers the greatest happiness for the greatest number, and blank-slateism risks being actively harmful there...
+
+...ok fine better not talk about this on twitter",Positive,-0.18822154879999964,23655802.3133022,6710875.374031901
+5,VitalikButerin,2020-09-11,@scott_lew_is What are your favorite proposed solutions? I feel like both eth2 teams *and* L2 developers are already about as full-speed-ahead as they can.,Positive,-0.039907137200000165,17090627.4630998,-14087247.3299511
+6,VitalikButerin,2020-09-26,This is an interesting result for decentralized governance. Arguably the first large-scale successful DAICO-style vote-driven funding pool dissolution. https://t.co/OyJxxkHfFU,Positive,-0.05332767000000027,11018474.88090908,-4916668.611926891
+7,VitalikButerin,2020-10-05,@GrindingPoet Multisig wallets absolutely solve the problem! The problem is that seeds/key/passwords are medium-strong as authentication methods but not super-strong. Redundancy is a great way to combine medium-strong systems into super-strong ones.,Positive,0.1385091100000002,8105684.0286038,1029954.5509685399
+8,VitalikButerin,2020-11-04,"@pierre_rochard @Mario_Gibney Why is it ""weaponizing""? Inflationism is a legitimate category of solution to this kind of problem.",Positive,-0.01997902000000007,11406316.03373677,4869338.755667079
+9,VitalikButerin,2020-11-25,@StevieJarosz @TrustlessState @ameensol And a kind truth is best of all!,Positive,0.000548929999999892,24870950.92877138,-165675.20436399803
+10,VitalikButerin,2020-11-30,"@herzmeisterderw @maidsafe by the time they solve the close group fragility problem there probably _will_ be a ""blockchain"" of some kind :)",Positive,0.05174914000000008,8716571.16727617,2577059.82207819
+11,VitalikButerin,2021-09-02,"@GDistributed @AnthonyMacey I would say barriers to entry is closer; but there are many root problems, we don't claim to solve everything",Positive,17.37115053000001,5074399603.16,1099955707.12
+12,VitalikButerin,2020-06-30,@Babel60725534 @jemenger Wars indeed are absolutely retarded.,Negative,0.007071535000000018,3887548.37229807,-2147790.97814405
+13,VitalikButerin,2020-10-13,"I have a vague feeling that in twitter arguments calling out someone's name (""what you don't understand, Vitalik, is that PoS is an unsolvable perpetual motion problem"") seems impolite; it breaches an implied barrier between argument and arguer.
+
+Do others share this intuition?",Negative,-0.17998122000000016,11415736.61057108,-12289968.79120837
+14,VitalikButerin,2020-04-11,@jdietz Oh so far it's been absolutely crucial in funding and drawing attention to the former.,Neutral,-0.17423537460000005,43862443.7931816,-87364276.1190757
+15,VitalikButerin,2020-04-16,"@Category_Fury @TheLotusYeeter I thought we had already agreed that the only solutions are P=1, N=0, and P = any order N-1 element of a group?",Neutral,0.05993705930000004,21346031.3456645,-13075275.285934
+16,VitalikButerin,2020-04-18,"@gregeganSF You can always construct one as a linear combination: given solutions ((x1, y1), (x2, y2)...), do (x-x1)*(x-x2)*(x-x3) + (y-y1)*(y-y2)*(y-y3). You do get extra solutions though.",Neutral,0.020368363799999956,9782111.900077,-9870810.00168021
+17,VitalikButerin,2020-04-20,@bsuichies Not sure I get this article's point. What would be a use of technology to solve our virus problems that Evgeny likes?,Neutral,-0.07413545189999993,8342616.4207554,-9289670.37817109
+18,VitalikButerin,2020-04-20,"@geneticeditor1 @jeffjagoe @JohnLilic Also a big problem? And definitely a challenge to the natural solution of ""I put up a carbon tax if you do"" schemes because gov-controlled entities don't care what the carbon tax is as they're just paying it to themselves.",Neutral,-0.07413545189999993,8342616.4207554,-9289670.37817109
+19,VitalikButerin,2020-04-21,@zooko I'm still interested in your preference ordering over my proposed levels of information sharing in an absolute sense!,Neutral,0.04627244610000003,9711507.44842345,-8342616.4207554
+20,VitalikButerin,2020-05-03,@mishalederman Blockchains are absolutely an example of self-defense tech; moving from centralized record keeping to blockchains reduces attack surface to hacking and DoS.,Neutral,-0.035261182599999996,3328343.6073183,-3441355.73678965
+21,VitalikButerin,2020-05-05,"@interfluidity I'm extremely sympathetic to the idea that something other than a property-rights-like regime is optimal for goods with high fixed/marginal cost ratio, but just pushing prices down doesn't seem like it solves the problem of rewarding genuine quality but not fake quality.",Neutral,-0.031603093899999934,2847469.34149937,-3443697.81828111
+22,VitalikButerin,2020-05-07,"@robertwiblin @80000Hours It sounds reasonable to be cautious! Though it does come at the cost of hampering diversity for longer than you otherwise would.
+
+Perhaps the solution is to put more resources into actually doing the preliminary individual outreach to non-English-speaking communities?",Neutral,-0.009605641599999992,3355830.23580211,-2677562.97435084
+23,VitalikButerin,2020-05-08,"@VladZamfir Then that resolves it! Smart contracts are not subprotocols.
+
+Because you just said the same contract can be maintained with multiple protocols.",Neutral,-0.008055836200000055,2488194.57299153,-3355830.23580211
+24,VitalikButerin,2020-05-13,@ameensol What's simp? The new stan? I can't keep track of all this new vocabulary.... 😅,Neutral,0.012160087699999989,2326445.52977927,-2198624.8775544
+25,VitalikButerin,2020-05-20,"@josephjpeters @mhluongo &gt; Though Ethereum also does not take criticism well (i.e. growing state size)
+
+That's.... a strange claim. I think most ethereum people agree state size is an issue and have been working on multiple solutions (beam sync, stateless clients...) for the past year",Neutral,-0.04331943780000003,2302926.39702093,-2380263.04324887
+26,VitalikButerin,2020-05-22,"@krzhang @JSEllenberg I never understood why people think P = NP is hard. It's easy. It has three solutions:
+
+1. P = 0
+2. N = 1
+3. P = any cyclic group element, N = order(P) + 1
+
+Maybe all the other mathematicians keep missing (3) and that's why they keep not getting the fields medal?",Neutral,0.0336363556,3411419.38179332,-2863016.80167901
+27,VitalikButerin,2020-05-23,"@VladZamfir @Russell14779118 @kaanuzdogan Now you may say ""this is not politics, this is [other word X]; the solution is to do less X and more Y and not avoid politics entirely"", but the word choice doesn't change the underlying reality that there is this phenomenon that's happening that lots of people really hate.",Neutral,-0.024383211399999993,2638523.84936932,-3411419.38179332
+28,VitalikButerin,2020-05-23,"@OnlySams69 @matthew_d_green @VladZamfir @BenDiFrancesco @Russell14779118 @kaanuzdogan @naval Cryptocurrency I can get, but why would you say charter cities and quadratic funding are ""a tech thing""? They're absolutely applicable to transforming society at large, and are all about institution reform, in the latter case specifically focused on public goods.",Neutral,-0.024383211399999993,2638523.84936932,-3411419.38179332
+29,VitalikButerin,2020-05-25,"@krzhang Another way to think about the ""mod 2"" part is: given a solution, you could ""reduce"" the solution to a square-free one by dividing out squares of primes (as dividing out squares does not affect the square-ness of any product). So you only have to deal with [2,3,5,7,11,13] ^ {0,1}",Neutral,0.05228707399999999,4509580.33947343,-2786816.20172933
+30,VitalikButerin,2020-05-28,"@blackburntek So you want to centralize control over who can live where in the hands of a few?
+
+I absolutely serious about this line of comparison.",Neutral,-0.015728163499999948,2662787.87087333,-2536915.55918301
+31,VitalikButerin,2020-05-28,"@krzhang @aliatiia_ A vaccine is a military preparation that provides active acquired immunity to a particular invader. A vaccine typically contains actors that resemble invaders and are often made from weakened or killed forms of the invading soldiers, their weapons, or their uniforms.
+
+OK so far!",Neutral,-0.015728163499999948,2662787.87087333,-2536915.55918301
+32,VitalikButerin,2020-06-01,"@henryfarrell The thing called ""libertarianism"" in 2010 has absolutely split into (i) pro-market + pro-equality intellectual radical-centrism and (ii) something else that I do not understand and feels very foreign to me.",Neutral,0.004022796899999959,2159877.15931313,-1892967.09044357
+33,VitalikButerin,2020-06-01,"@Janfreterson @ESYudkowsky @henryfarrell Intellectual dark web vs social justice is absolutely one of the major fault lines within this new movement, and that's ok; all movements have some internal division.",Neutral,0.004022796899999959,2159877.15931313,-1892967.09044357
+34,VitalikButerin,2020-06-05,Did you know that the liftoff velocity from Earth needed to escape the solar system is only ~2.1x the velocity needed to get into low earth orbit? https://t.co/ToJo6jgQXo,Neutral,0.0738551489,4322091.65471632,-901641.251808101
+35,VitalikButerin,2020-06-07,"@ameensol @avsa Right, but the fact that sometimes you wrap a stronger thing in a milder thing and sometimes you wrap a milder thing in a stronger thing is... just weird!",Neutral,-0.0058648407999999375,716785.469365787,-1604055.15722887
+36,VitalikButerin,2020-06-07,"@ameensol @avsa Perhaps the challenge is that the left is more culturally dominant (not the same as politically dominant) but diluted so they're not afraid of backlash but they need to care about energizing their base, whereas the right is in the opposite position?",Neutral,-0.0058648407999999375,716785.469365787,-1604055.15722887
+37,VitalikButerin,2020-06-07,"@ameensol @avsa All the examples of right-wing wrappers I can think of (""IQ is real!"") are definitely in the ""something milder wrapping something stronger"" variety.",Neutral,-0.0058648407999999375,716785.469365787,-1604055.15722887
+38,VitalikButerin,2020-06-08,"@mwiyas The oppression felt by many Iraqis before the US deposed Saddam and GWB uttered that famous quote was also systemic and real, no?
+
+I guess there's the nuance of acknowledging the reality of a problem vs supporting a particular solution....",Neutral,0.05323510570000001,1440233.8242528,-716785.469365787
+39,VitalikButerin,2020-06-12,"@ArthurB @hasufl ""Just try harder"" isn't generally a valid alternative to other solutions. People are always trying, and even if you do motivate them to try harder that doesn't typically preclude the other solutions from being implemented as well.",Neutral,0.019810174900000033,940323.239000038,-1122221.18826251
+40,VitalikButerin,2020-06-14,"The group level is dangerous because self-sacrificially acting for one's group *feels* noble and altruistic, but at world level those actions sometimes end up outright harmful. (Extreme example: brave soldiers fighting for their homelands... which happen to be WW2 Axis powers)",Neutral,-0.02385004209999997,873415.751115423,-764756.553388664
+41,VitalikButerin,2020-06-15,"Not sure yet if this is serious or just isolated minor glitches, but still.... we need more mesh networks ASAP. https://t.co/nB97KXYtqZ",Neutral,-0.0177338157000001,942666.189719777,-873415.751115423
+42,VitalikButerin,2020-06-15,"@Pablonorm @LifespanIO But the social and economic ramifications of ending aging are... awesome!
+
+* No more pension-related economic crises
+* Demographic problems solved
+* Less medical costs -&gt; more leisure or other spending
+* Less knowledge/wisdom lost
+* Watch your great great grandchildren grow up",Neutral,-0.0177338157000001,942666.189719777,-873415.751115423
+43,VitalikButerin,2020-06-16,"@smartclowny @donaldp71050230 Oh I've seen the statistics, am absolutely not a blank-slater, etc etc. But I think BLM is on-net good for reducing police brutality against whites in addition to reducing it against blacks. The available methods for fixing the police are race-independent.",Neutral,0.014997567999999961,652020.104651764,-942666.189719777
+44,VitalikButerin,2020-06-19,@adam3us @IOHK_Charles @factcheckmypost @WhyFlight @obi @maxkeiser @DanLarimer @danheld Just as exploring the idea of optimizing SAT solvers as a path toward P = NP is not a priori ridiculous.,Neutral,0.06192514289999995,6577470.95547564,-1349341.26909908
+45,VitalikButerin,2020-06-19,"@adam3us @IOHK_Charles @factcheckmypost @WhyFlight @obi @maxkeiser @DanLarimer @danheld The claim that you can do mining faster by simulating a quantum computer is not fundamentally ridiculous. There's no proof that efficient classical simulation of QC is impossible, and if you have that then you can use Grover's to check for SHA256 solutions faster.",Neutral,0.06192514289999995,6577470.95547564,-1349341.26909908
+46,VitalikButerin,2020-06-19,"@harrycanuck @jadler0 @realLedgerwatch @peter_szilagyi IMO state rent is beautiful in theory but horrible in practice, stateless clients are part horrible part beautiful in theory but fine in practice (especially in the medium run where one of ~3 witness compression solutions lets us cut witnesses by 5x)",Neutral,0.06192514289999995,6577470.95547564,-1349341.26909908
+47,VitalikButerin,2020-06-20,"Decentralized finance should not be about optimizing yield. Rather, we should be solidifying and improving a few important core building blocks: synthetic tokens for fiat and a few other major assets (aka stablecoins), oracles (for prediction markets etc), DEXes, privacy....",Neutral,-0.038931474100000085,1714405.29578048,-6577470.95547564
+48,VitalikButerin,2020-06-22,@aeyakovenko @solana Ethereum gas limits have also roughly scaled with Moore's law since inception (12m / 3.14m ~= 3.82x per 5 years ~= 1.7x per 2 years),Neutral,0.054270475900000004,1620387.87401448,-2238347.1863849
+49,VitalikButerin,2020-06-22,"@aeyakovenko @solana ""PoW miners are constraining the supply to maximize profits""
+
+How do you square this with the present observed reality, which is that out of the major ethereum sub-factions, it's the miners that are the ones *supporting* an increase right now while many developers oppose?",Neutral,0.054270475900000004,1620387.87401448,-2238347.1863849
+50,VitalikButerin,2020-06-22,"@k06a @aeyakovenko @solana The problem is that the effect is partially cumulative. For example if the gas limit had been 3.14M up until yesterday and switched to 12M today, the state size would be much smaller so considerably more people could run nodes, at least for some time.",Neutral,0.054270475900000004,1620387.87401448,-2238347.1863849
+51,VitalikButerin,2020-06-22,"@hasufl @aeyakovenko @solana @thetokenanalyst Why is increasing the uncle rate good for larger miners?
+
+(If the effect is that it benefits larger miners *at the expense of* smaller miners, then why wouldn't smaller-than-average miners equally strongly oppose?)",Neutral,0.054270475900000004,1620387.87401448,-2238347.1863849
+52,VitalikButerin,2020-06-22,"@aeyakovenko @solana &gt; Miners are not increasing gas to the computational limit.  Or even 50% of it.
+
+As they shouldn't! The chain would break if they did that.
+
+I think miners are making roughly the correct choice; I would not wish the gaslimit to be 2x larger *or* 2x smaller right now.",Neutral,0.054270475900000004,1620387.87401448,-2238347.1863849
+53,VitalikButerin,2020-06-22,"@aeyakovenko @solana ""Horizontally scalable"" is not acceptable. It needs to be possible to run a node on a regular computer without crazy hardware optimizations.",Neutral,0.054270475900000004,1620387.87401448,-2238347.1863849
+54,VitalikButerin,2020-06-22,"@RyanTheGentry @hasufl @aeyakovenko @solana @thetokenanalyst To be fair lots of miners are still voting the gaslimit down right now, though we can't tell if that's them not changing settings because they're lazy or actual opposition.",Neutral,0.054270475900000004,1620387.87401448,-2238347.1863849
+55,VitalikButerin,2020-06-24,"Ethereum gaming projects should absolutely be looking into rollups for short-term scaling *today*. They really need cheap txs, and it's safer to use highly experimental technology as the value at stake is much lower. https://t.co/KiIPv6DCcg",Neutral,0.028464149099999947,2769053.65582756,-1327340.25336353
+56,VitalikButerin,2020-06-25,@ameensol @LUKACACIC @ethereum Hmm... I think I would have no problem with the original pic if it had been posted by the woman herself and she supported the message.,Neutral,-0.023906283600000022,1751581.2295456,-2769053.65582756
+57,VitalikButerin,2020-06-25,@ameensol @LUKACACIC @ethereum I'll admit I would probably prefer the ethereum ecosystem to steer clear of paid celebrity advertising as much as possible.,Neutral,-0.023906283600000022,1751581.2295456,-2769053.65582756
+58,VitalikButerin,2020-06-25,@ameensol @LUKACACIC @ethereum Some tackiness is more tacky than other tackiness. I admit I don't have more than intuition to justify the difference.,Neutral,-0.023906283600000022,1751581.2295456,-2769053.65582756
+59,VitalikButerin,2020-06-26,"@newnormal_earth @ameensol @LUKACACIC @ethereum @WilliamShatner Nobody paid him to say things about ethereum!
+
+(I have heard things about him maybe being an advisor to some project and getting tokens but even that came *after* he publicly expressed his interest in the space)",Neutral,0.028613067999999964,1664662.318395,-1751581.2295456
+60,VitalikButerin,2020-07-01,"@edmundedgar @Victor928 @kevinsekniqi Yeah, we can, but that's beside the point. There's an easier solution: users can always submit txs to chain, and the operator is forced to include these txs in the next patch (or else get slashed). If operator disappears entirely, everyone can manually withdraw after 2 weeks",Neutral,-0.030722393700000072,1772559.84133893,-3887548.37229807
+61,VitalikButerin,2020-07-06,@Aella_Girl Absolutely.,Neutral,0.016244447200000067,1120773.259312,-3799016.31678145
+62,VitalikButerin,2020-07-06,"@hasufl That framing is inaccurate because the ETH wasn't premined then sold in any meaningful chronological sense. Rather, the *initial allocation* was generated by a mining process that involved sending coins to the 36prz1... address controlled by the foundation.",Neutral,0.016244447200000067,1120773.259312,-3799016.31678145
+63,VitalikButerin,2020-07-07,"@hasufl Satoshi absolutely had a special privilege in deciding the protocol rules (issuance schedule, specific mining algo, etc).
+
+And in the ethereum case, only 11m were issued to privileged parties; 60m were through an open process anyone could participate in.",Neutral,0.04519013550000006,1700040.66085723,-1120773.259312
+64,VitalikButerin,2020-07-09,"@eduecosystem ERC20 projects should be actively looking at zkrollup L2 scaling solutions, which are live on mainnet today @loopringorg @zksync",Neutral,0.05943507570000006,2668723.50625663,-2220222.72711344
+65,VitalikButerin,2020-07-10,"@ameensol @AriDavidPaul @NickSzabo4 Though blocking is not ""canceling""; canceling is a coordinated effort to cut off a person's relationships, an independent single-individual action does not qualify.",Neutral,0.06025586890000001,1856094.87383758,-2668723.50625663
+66,VitalikButerin,2020-07-10,@ameensol @AriDavidPaul @Nigmae @kevingaspar @NickSzabo4 I do think it's a potentially dangerous tactic that should be used carefully. Eg. see the arguments here: https://t.co/jvuvFwf8W5,Neutral,0.06025586890000001,1856094.87383758,-2668723.50625663
+67,VitalikButerin,2020-07-10,"@QWQiao @ameensol Many people seem to think TE is a magic bullet that can create value out of nothing. But in reality, there is *no* way to have value without end-customers willing to sacrifice value for the benefits your protocol provides (ie. PMF)",Neutral,0.06025586890000001,1856094.87383758,-2668723.50625663
+68,VitalikButerin,2020-07-11,"@openstreetmath I would argue the contrary; in the context of 51% attacks, you can generally absolutely distinguish which is the good chain and which is the evil chain.",Neutral,0.011064652800000019,1788814.0647145,-1856094.87383758
+69,VitalikButerin,2020-07-11,"@technocrypto @ameensol @slatestarcodex How do you define ""equality"" here?",Neutral,0.011064652800000019,1788814.0647145,-1856094.87383758
+70,VitalikButerin,2020-07-11,"@technocrypto @ameensol @slatestarcodex Actually... let's ask a deeper question: how would you structure a quest for equality in a world where the population is 60% humans and 40% orcs, which are different species and really have diff traits and diff success in diff professions for biological/genetic reasons?",Neutral,0.011064652800000019,1788814.0647145,-1856094.87383758
+71,VitalikButerin,2020-07-11,"@kaykurokawa @openstreetmath Are we talking about a 51% attack where the last-common-block was at the time the partition starts? If so, any remotely smart clients will not treat any blocks on either side of the partition as ""finalized"" until the partition resolves.",Neutral,0.011064652800000019,1788814.0647145,-1856094.87383758
+72,VitalikButerin,2020-07-12,"@ameensol You'd have to make 1000 deposits actually.
+
+I suppose you can write a script to push all the deposits through tornado cash or something similar?",Neutral,0.09285989510000003,4693370.50719829,-1788814.0647145
+73,VitalikButerin,2020-07-14,"@dankrad @krzhang What I meant is not ""no incentives"" in an absolute sense, but more ""no incentives that are related to your speech, in cases where your speech has nothing to do with your job"".
+
+So I don't think we're in disagreement.",Neutral,-0.024401076800000032,2213135.15016517,-4062068.74661056
+74,VitalikButerin,2020-07-21,"@ChrJentzsch @BTC_de_Blog @q9fmz Auch wenn sharding nicht mehr absolut notwending ist, PoS ist immer noch sehr wichtig!",Neutral,0.10423773069999998,4299502.33510521,-3036870.91981545
+75,VitalikButerin,2020-07-24,"@ameensol @George_A_H @NickSzabo4 @balajis Hmm I'd rather not argue against an ideology by claiming it is a psyop. An ideology may well be both a psyop and correct (eg. you may believe this about US-supported propaganda efforts to spread democracy). Better stick to the object lvl (where is egalitarianism good, where bad)",Neutral,-0.05449807569999998,1991763.30860784,-2970423.1250175
+76,VitalikButerin,2020-07-24,@ameensol @George_A_H @NickSzabo4 @balajis Also I do think you may be underestimating the extreme terribleness of some of the mind viruses on the right.,Neutral,-0.05449807569999998,1991763.30860784,-2970423.1250175
+77,VitalikButerin,2020-07-27,@SBF_Alameda @ameensol The thing that's even more important than raw validator count is that you're sacrificing client-side validation.,Neutral,0.21353765130000002,32838354.7073633,-10463129.600325
+78,VitalikButerin,2020-07-27,"@ercwl @SBF_Alameda @ameensol You can validate any specific transaction you want, and if one node detects fraud it can broadcast a fraud proof that anyone can verify.",Neutral,0.21353765130000002,32838354.7073633,-10463129.600325
+79,VitalikButerin,2020-07-28,@KyleSamani @PhABCD @teo_leibowitz @solana It's not decided that eth2 will require transactions to specify access lists on new shards btw. The block proposer generating the list of accessed accounts and creating a witness is sufficient to enable statelessness.,Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+80,VitalikButerin,2020-07-28,"@PhABCD @KyleSamani @teo_leibowitz @solana Well, eth2 would already be parallel because sharding is a type of parallelization. But I think the real question is: do the gains from sharding and intra-shard parallelization stack? And unfortunately the answer is a resounding ""no"". Reasons:",Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+81,VitalikButerin,2020-07-28,"@PhABCD @KyleSamani @teo_leibowitz @solana 1. Not all nodes will just run one shard; some nodes will want to run multiple shards (eg. validators staking 64+ ETH at the least)
+2. For the validator use case, the limitation isn't just time-to-validate a block, it's also raw cost of validation.",Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+82,VitalikButerin,2020-07-28,"@PhABCD @KyleSamani @teo_leibowitz @solana 3. For the regular client use case, we want running a shard-verifying node to not just be feasible, but also not-too-heavy. Your laptop is definitely not JUST running an eth node, it's also running a bunch of other stuff.",Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+83,VitalikButerin,2020-07-28,"@PhABCD @KyleSamani @teo_leibowitz @solana 4. There's already other ways that we take advantage of multi-threadedness, eg. verifying hashes and signatures",Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+84,VitalikButerin,2020-07-28,@PhABCD @KyleSamani @teo_leibowitz @solana So all in all it feels like adding intra-shard parallelization is fairly low benefit for high consensus complexity unless done in very compartmentalized ways (eg. I could see a gas discount for generalized sig validation as in account abstraction being appropriate),Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+85,VitalikButerin,2020-07-28,"@cz_binance Someone not using @zksync or @loopringorg!
+
+Hope you can be part of the solution and add support for those 😊",Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+86,VitalikButerin,2020-07-28,@KyleSamani @PhABCD @teo_leibowitz @solana And intra-shard parallelization breaks the ability to have a network without relying on supernodes.,Neutral,-4.327579999996445e-05,9692632.1660337,-32838354.7073633
+87,VitalikButerin,2020-08-02,"@hasufl I think state provision is also a challenging problem, but history is low-hanging fruit and relatively safe to deploy new solutions in because relatively few apps depend on history (though rollups do!). Hence, history seems like a good place to start first, then move on to state.",Neutral,0.21290056199999996,7216576.38811606,-4589882.24595131
+88,VitalikButerin,2020-08-02,"@realLedgerwatch @AFDudley0 @cyber_hokie How does bittorrent solve the problem of ""I want all logs from block 7m to today with topic 0x19cbd324, and I want them within 1 second""?",Neutral,0.21290056199999996,7216576.38811606,-4589882.24595131
+89,VitalikButerin,2020-08-02,@realLedgerwatch @AFDudley0 @cyber_hokie I do think that something like EIP 210 https://t.co/4ovZxrpa1j would help a lot in solving the history verification problem.,Neutral,0.21290056199999996,7216576.38811606,-4589882.24595131
+90,VitalikButerin,2020-08-03,"@ameensol @DZack23 &gt; Altcoins delenda est
+
+SUNT. Altcoins delendae SUNT. Learn your grammar bruh, especially if you're gonna be making so many Roman references. https://t.co/VlbXXPCGwn",Neutral,0.07032090020000004,5836036.43502209,-7216576.38811606
+91,VitalikButerin,2020-08-06,@crypto_hal True but we haven't even come remotely close to exhausting the possibilities of purely passive defense. Things like eg. ransomware attacks on various government agencies would not be possible if more secure solutions were available in turnkey form.,Neutral,0.45179851140000027,11143557.0707687,-5405764.40284623
+92,VitalikButerin,2020-08-08,"@claridadnatural @00iamgru00 @Excellion &gt; Monero seems like a solid plan: it's always guaranteed to exist and the supply cannot grow exponentially as it becomes 0.3 newly printed XMR every block
+
+Yeah I think that's very reasonable. Ethereum works the same way.",Neutral,0.3897355022000002,10919229.1805999,-8068101.90171604
+93,VitalikButerin,2020-08-08,"@JanSiebert @Beautyon_ Oh shoes absolutely do have a public good component because of economies of scale. It's just that in that specific case above a certain point the increasing returns are small, so there's not much loss in pretending they are a pure private good.",Neutral,0.3897355022000002,10919229.1805999,-8068101.90171604
+94,VitalikButerin,2020-08-12,"Realistically, most dev teams want an easy slot-in solution that they can just immediately redeploy their existing EVM contracts to. And that means optimistic rollups, which are still a few months away. https://t.co/hZ8Lsg0xIW",Neutral,0.4617930653000002,28461706.5886889,-36356155.1835573
+95,VitalikButerin,2020-08-12,"@briansmrekar Syntactically, solidity isn't *that* different from C++, and if your smart contract code relies heavily on the differences then it probably needs to be rearchitected anyway.",Neutral,0.4617930653000002,28461706.5886889,-36356155.1835573
+96,VitalikButerin,2020-08-15,"@zooko Maybe it's ""solved"" in the same way PGP is solved?",Neutral,-0.22876024279999996,13155762.3719706,-18427949.9772839
+97,VitalikButerin,2020-08-15,@spannungsfeld @VladZamfir @heckerhut Well that happened for another reason very specific to the circumstances of the dissolution of the version of Germany that existed right before those two....,Neutral,-0.22876024279999996,13155762.3719706,-18427949.9772839
+98,VitalikButerin,2020-08-17,"@hope_freiheit @melikmanukyan @BTCSchellingPt @hodl_american *I* sold ETH at ~$700, or about half the top (actually, both sold and donated). The *ethereum foundation* sold at ~$1200, and that money has gone into devs and grants since then.",Neutral,-0.28704506510000005,10723918.7652425,-10395312.8169568
+99,VitalikButerin,2020-08-23,"@getsqt @zmanian @RyanSAdams The difference in staking reward policies is in (i) the absolute size of the reward, and (ii) what variable takes on the risk if the demand is lower than expected (basically, either the security level or the issuance level).",Neutral,0.30156774230000005,11991402.1639282,-10296804.8195696
+100,VitalikButerin,2020-08-24,@nic__carter @CoinDesk I actually don't think blockspace consumers interpret it this way at all. The ecosystem is aware that further gas limit increases come at high risk and will only be done if absolutely necessary.,Neutral,0.0327645367999998,15785207.7166973,-11991402.1639282
+101,VitalikButerin,2020-08-29,"@ameensol @reddit @xdaichain There's certainly something to be said for ""quick and easy to migrate and forward-compatible with future optimistic rollups and eth2 when those come"".",Neutral,-0.04540689309999957,14585964.4266973,-27212887.5047479
+102,VitalikButerin,2020-08-29,@ameensol @reddit @xdaichain May well be the least-bad path to bridge our current chasm of having high adoption but not yet having high enough trustless scalability to properly handle it.,Neutral,-0.04540689309999957,14585964.4266973,-27212887.5047479
+103,VitalikButerin,2020-09-01,"@Excellion Main problems I see are (i) solving the unique-human problem in a credibly neutral way so people don't defraud the EBI, and (ii) determining who counts as an ""etherean"".",Neutral,-0.436534301,16944926.9392703,-20950150.2193332
+104,VitalikButerin,2020-09-01,"@Excellion Of course both problems could be ""solved"" by making EBI proportional to how much ETH you have, but that's just giving everyone an interest rate, which as we know from basic monetary economics for a non-unit-of-account asset is essentially a no-op.",Neutral,-0.436534301,16944926.9392703,-20950150.2193332
+105,VitalikButerin,2020-09-02,"A quick thread on supply and demand economics, and why certain ""naive"" solutions to high gas prices won't work. https://t.co/lmmyx0x8vL",Neutral,-0.18822154879999964,23655802.3133022,-16944926.9392703
+106,VitalikButerin,2020-09-02,"Here's a common class of ""solution"" that I hear to the high txfee problem: why not have (the protocol | the Ethereum foundation | Vitalik) just refund 80% of everyone's fees? But if you understand what I said above, you'll quickly see that this does not work.",Neutral,-0.18822154879999964,23655802.3133022,-16944926.9392703
+107,VitalikButerin,2020-09-02,"EIP-2929, published today, would increase gas costs of some particularly sensitive operations, making it safer to increase gas limits. But this would only be a tiny short term mitigation; decreasing fees from 465 to 372 gwei would not solve the problem.
+
+https://t.co/UBdiNVnZNo",Neutral,-0.18822154879999964,23655802.3133022,-16944926.9392703
+108,VitalikButerin,2020-09-02,"Conclusion: the only solution to high tx fees is scaling. Tether, Gitcoin and other apps are doing the right thing by migrating to ZK rollups today. I'm excited about the soon-upcoming optimistic rollups that will generalize rollup scaling to full EVM contracts.",Neutral,-0.18822154879999964,23655802.3133022,-16944926.9392703
+109,VitalikButerin,2020-09-02,@BlueMooon @cz_binance Those three solutions are *on* eth.,Neutral,-0.18822154879999964,23655802.3133022,-16944926.9392703
+110,VitalikButerin,2020-09-02,@ercwl (i) is not necessarily true because if you have a withdrawal time longer than ~1-2 weeks then you could trust that any attack would be resolved before then.,Neutral,-0.18822154879999964,23655802.3133022,-16944926.9392703
+111,VitalikButerin,2020-09-03,"@janhxie &gt; 4. In a PoW 51% attack, changing the hash function is not the only solution, a temporary miner whitelist can be formed by social consensus
+
+I doubt that this whitelist would be temporary. The attacker can just lie waiting until it's removed.",Neutral,-0.6414326248000002,26473633.5627635,-23655802.3133022
+112,VitalikButerin,2020-09-08,"Categories of solutions I see are:
+
+* Subscribing to other people's blocklists
+* Using cryptoeconomics to scale up admins https://t.co/06n0zGQYXP
+* Making it costly to have an account with posting rights (eg. sign with a key that has &gt;100 SNT locked up, or ZK-prove a brightid)",Neutral,-0.4586524706999997,10163724.6032389,-17135013.476324
+113,VitalikButerin,2020-09-08,"Simple and dumb ""implementable in 30 seconds"" solution: a mode that just says ""view only messages from accounts that have an ENS name"". This way attackers can't just easily create thousands of accounts faster than you can block them.",Neutral,-0.4586524706999997,10163724.6032389,-17135013.476324
+114,VitalikButerin,2020-09-08,"@ATabarrok (not that this is a good ""long term solution"" but seems better than micromanaging specific use cases and I'm sure there's very-low-hanging-fruit that would quickly drop off)",Neutral,-0.4586524706999997,10163724.6032389,-17135013.476324
+115,VitalikButerin,2020-09-11,@TruthRaiderHQ @BitcoinKingom I think if you go deeper into the research and development circles you'll find a lot of acknowledgement of what the problems are (far beyond scalability) and efforts to solve them.,Neutral,-0.039907137200000165,17090627.4630998,-31177874.7930509
+116,VitalikButerin,2020-09-15,@shayzluf @loopringorg That should absolutely be changed imo,Neutral,-0.3300125329000001,11992537.7843944,-21301450.1011828
+117,VitalikButerin,2020-09-16,"@iamDCinvestor @owocki @zksync @msolomon44 It does include funding your zksync account. If your zksync account already has funds to cover the amount you're donating, the fixed cost drops to zero.",Neutral,-0.3939086569999999,24199803.5835456,-11992537.7843944
+118,VitalikButerin,2020-09-16,"@bytemaster7 You do realize that pre-selected sequencers (via MEV auction or other mechanism) solve this problem, right?",Neutral,-0.3939086569999999,24199803.5835456,-11992537.7843944
+119,VitalikButerin,2020-09-21,@jorllaw There was no public solicitation for investment; it was a private offering to a few people.,Neutral,-0.08839397900000012,19492893.6246122,-9217295.41412604
+120,VitalikButerin,2020-09-23,"@harmonylion1 @angela_walch The problem with that kind of theory is that if the state was anything like an agent optimizing for a utility function of increasing authoritarian control, it would have absolutely used the coronavirus as an excuse to install all sorts of surveillance measures...",Neutral,-0.09359781999999983,16096650.33028028,-18556523.3857526
+121,VitalikButerin,2020-09-24,"@M3TA_MONK3Y @HIMEpupupu xDai is acceptable as an interim solution only. In the long run it's still a PoA chain ie. it's basically just a private consortium chain (and enterprise apps that prefer consortium would probably want their *own* consortium), so you would want to migrate to a rollup.",Neutral,0.2945941300000001,18993325.64791849,-16096650.33028028
+122,VitalikButerin,2020-09-25,"Just upgraded my Lighthouse node on Medalla to v0.2.8: https://t.co/A0DbvFqXqG
+
+Much better performance! Also fixes disk usage issues so if your node is currently using many many gigabytes then upgrading and resyncing can solve that.",Neutral,0.04306813999999992,15935143.49283597,-18993325.64791849
+123,VitalikButerin,2020-09-26,Prediction markets are unbundling: the outcome resolution layer (tokens that give you $1 if some event happens and $0 otherwise) and the market layer (how to trade those tokens) are separating. Great news for future development of the space imo. https://t.co/wQrOKDJSLA,Neutral,-0.05332767000000027,11018474.88090908,-15935143.49283597
+124,VitalikButerin,2020-09-26,"To any interested cryptographers: this continues to be one of the more valuable not-yet-solved problems in making an optimal scalable blockchain.
+
+https://t.co/j5fMuQTOjZ
+
+(Note to trolls: eth2 will be just fine without this; it would just be even better if we have it)",Neutral,-0.05332767000000027,11018474.88090908,-15935143.49283597
+125,VitalikButerin,2020-09-30,"@Be1garat @AnthonyLeeZhang I've written entire blog posts about how these problems are fundamental and really hard to resolve 😭
+
+You want either identity-driven quadratic voting (sorry, ""intensity voting""), or skin-in-the-game for voters in some form.",Neutral,-0.05119768999999996,7767702.10929252,-8821253.14791489
+126,VitalikButerin,2020-10-01,"More people should support ethereum for payments. The nice thing about supporting ethereum is that you're not just accepting ETH, you also get support for MKR, UNI, WBTC, and every stablecoin for free. And there's already like three working layer-2 scaling solutions on mainnet. https://t.co/EdD7J8isk8",Neutral,-0.03713414000000004,10825966.25721191,-7767702.10929252
+127,VitalikButerin,2020-10-02,@the_matter_labs @aztecnetwork @barrywhitehat @weijie_eth @StarkWareLtd Can I ask what the absolutely crazy scheme is? Does it involve lots of users coming together online and generating a single shared commitment to all their nullifiers that they then publish?,Neutral,-0.2381143299999997,15856538.99496961,-10825966.25721191
+128,VitalikButerin,2020-10-03,"@knutsvanholm Hmm, that was back in 2013, I kinda forgot whether or not stealing everyone's bitcoin was my sole intention in starting ethereum.
+
+@mattleising @CamiRusso you recently wrote books about this, any chance either of you remember?",Neutral,-0.08003231,6155890.57867446,-15856538.99496961
+129,VitalikButerin,2020-10-04,"@williamheasman Eh, the title reframes a post and a presentation that was entirely about the *solution* into something that sounds like it's an admission of defeat.",Neutral,-0.027017750000000174,7075729.47763526,-6155890.57867446
+130,VitalikButerin,2020-10-04,@angela_walch @SpaceX Of course that can't solve all problems; @ATabarrok probably follows this much better than I do but there were plenty of instances where people doing good anti-COVID work were *actively stopped* by the FDA or the administration. But it works in a lot of cases!,Neutral,-0.027017750000000174,7075729.47763526,-6155890.57867446
+131,VitalikButerin,2020-10-04,"@zsoltsandor I like summer time because it ensures many major economic centers are a multiple of 3h apart from each other: US west coast (-3), US east coast (+0), central EU (+6), much of east Asia (+12). But it seems like many prefer more daylight in the evening vs morning too, so win win?",Neutral,-0.027017750000000174,7075729.47763526,-6155890.57867446
+132,VitalikButerin,2020-10-04,"@ameensol &gt; we should *reward* early law breakers for their entrepreneurship
+
+Intuitively I'd support a regime where if a law gets overturned by default everyone convicted of that law gets pardoned
+
+Currently that's now how it works: https://t.co/GVKBG8vrQI
+
+@awrigh01 any thoughts on this?",Neutral,-0.027017750000000174,7075729.47763526,-6155890.57867446
+133,VitalikButerin,2020-10-04,"@ameensol @awrigh01 (I say ""by default"" and not ""definitely"" because there *are* laws that get changed not because ""we now agree banning X was immoral"" but because ""the situation changed, X really did lead to bad consequences before but it doesn't anymore"")",Neutral,-0.027017750000000174,7075729.47763526,-6155890.57867446
+134,VitalikButerin,2020-10-04,"@Fatalmeh @ameensol @awrigh01 Right, I get the legal theory. I'm asking the higher-level question of *which legal theory would be better for society*?",Neutral,-0.027017750000000174,7075729.47763526,-6155890.57867446
+135,VitalikButerin,2020-10-05,"@bluepintail @realLedgerwatch The absolutely unrealistic theoretical optimum is 1:1, in which case 4 MB per 13 sec just means ~2.5 Mbps (16 Mbps if you want to insist on 2s broadcasting time). The question is just how close we can get to that level.",Neutral,0.1385091100000002,8105684.0286038,-7075729.47763526
+136,VitalikButerin,2020-10-05,@Nichlaes_ I think we could absolutely push the base layer up to ~10-20 MB/s (which would allow 1M TPS) if/when needed.,Neutral,0.1385091100000002,8105684.0286038,-7075729.47763526
+137,VitalikButerin,2020-10-13,"@bitcoinpasada Yeah I would, much like I publicly admitted:
+
+* My realization that plasma can't solve all scaling problems
+* The various pivots within eth2 design
+* Fundamental issues with on-chain governance",Neutral,-0.17998122000000016,11415736.61057108,-12289968.79120837
+138,VitalikButerin,2020-10-14,"This is an interesting thread worth reading, though I disagree with the implication that a global ""empowered executive"" is necessarily the correct solution; it feels like it ignores why people want *decentralized orgs* and not just *better orgs*. I think it's context-dependent... https://t.co/FcCj3VQ8eU",Neutral,-0.09356103999999998,9436238.75624435,-11415736.61057108
+139,VitalikButerin,2020-10-18,"@CoryG89 @NickFausti Nowhere above did I say anything to support Twitter being regulated to enforce neutrality. ""I am worried about X"" is not the same as ""I want the government to solve X"".",Neutral,0.011517709999999681,6294162.16574452,-6612611.78386479
+140,VitalikButerin,2020-10-20,"@SamoBurja &gt; There is a reason the wars of religion resolved to Cuius regio, eius religio
+
+That wasn't the only part of the resolution though; there were also norms that minority religions get some level of protection, which was an important precursor to Liberalism™",Neutral,-0.1694300099999999,13129043.07033953,-8248860.30237032
+141,VitalikButerin,2020-10-24,"@rafasashi So then the universe is an algorithm being run over and over again.
+
+Or is intentionality (""procedure to solve logical and mathematical problems"") really important? But if so, what about algorithms whose purpose is to generate art?",Neutral,-0.048207139999999926,7581827.29356544,-11497444.71334744
+142,VitalikButerin,2020-10-26,This is probably as good a time as any to solicit general comments on https://t.co/BH2KPjhXZp. What could I do to make the site better (both content and presentation-wise)? https://t.co/toIsmCN2ml,Neutral,-0.10199317000000008,13396735.95349503,-9092333.67184322
+143,VitalikButerin,2020-10-28,"@vorot93 ... the fact that you do not have ""sovereignty"" over that code can often significantly complicate efforts to solve them!
+
+eg. Bitcoin had a lot of nasty edge cases with its use of DER encoding",Neutral,-0.22017896000000015,17089719.31755684,-14384427.42623876
+144,VitalikButerin,2020-10-30,"@wekabot @jemenger But I absolutely get the desire to link users to solutions directly!
+
+I guess the approach I would take would be instead of linking to a URL, link to either a p2p subnet ID or an open-access on-chain registry of URLs, and let users choose from any attesters who are available",Neutral,0.012399499999999897,8528335.71424465,-8024137.80398694
+145,VitalikButerin,2020-10-31,@crjacinro @Onelemononelime @Crypt0nio @evan_van_ness Governance can absolutely be implemented in the EVM; lots of DAOs on ethereum have done just that. I dislike on chain base layer governance because it is exploitable and leads to concentration of power.,Neutral,0.09936370000000005,6449388.39066769,-8528335.71424465
+146,VitalikButerin,2020-11-04,@ArtCripto Pero yo solo hablo un poquito de español.... 😭,Neutral,-0.01997902000000007,11406316.03373677,-6536977.27806969
+147,VitalikButerin,2020-11-05,"@_kabessa This is actually a solved problem:
+
+https://t.co/Ul1FQourCc",Neutral,0.012963110000000055,8924131.52401733,-11406316.03373677
+148,VitalikButerin,2020-11-05,"@aantonop @SemperePico @APompliano My own definition of ""fraud"" covers things like this, which seem serious:
+
+https://t.co/zt9bn1IBQZ
+
+And votes-on-a-blockchain actually could solve the problem: no way to pretend you didn't see a vote when they're all on chain.",Neutral,0.012963110000000055,8924131.52401733,-11406316.03373677
+149,VitalikButerin,2020-11-06,"@robertwiblin I definitely admit we should expect betting markets to be very inefficient for probabilities close to 0% or 100% for capital efficiency reasons alone!
+
+Not sure if anyone has a good solution to this yet.",Neutral,0.50852195,22547497.1265051,-8924131.52401733
+150,VitalikButerin,2020-11-12,"@CryptoAd86 Yeah, you can absolutely do fancy cryptographic tricks to zero knowledge prove that you got a vaccination or a negative test. I definitely think that kind of stuff is cool.",Neutral,-0.10298690999999982,11506047.76935046,-13877948.92652378
+151,VitalikButerin,2020-11-15,@anndylian @SmartestNk @OneKoreaNetwor1 @NetworksManager @DineshDSouza @Blockcastcc @crypto_discuss @DaveCryptos @BlockchainWeeks @BlockchainCryp7 @blockchaincap Implement it in blockchain land first so we can present a complete solution.,Neutral,0.1262183699999999,18621333.34008639,-8134592.54731619
+152,VitalikButerin,2020-11-15,"@VladZamfir This definition is expansive, eg:
+
+* Voting for someone's bill in exch for a bribe - corruption
+* Promoting someone unqualified because they are sleeping with you (or even are your friend) - corruption
+* A soldier giving up information to the enemy under torture - corruption (!!)",Neutral,0.1262183699999999,18621333.34008639,-8134592.54731619
+153,VitalikButerin,2020-11-16,"@JorgeStolfi Oh, it's not about policy issues; Trump could absolutely make his base love M4A with the right branding hacks if he wanted to. It's about the tribe.",Neutral,0.21212151000000024,22156135.17364347,-18621333.34008639
+154,VitalikButerin,2020-11-17,"@bryan_caplan One could defend some veneration of intellectual idols as a second best: realistically lots of people want to have *some* humans that they can venerate. And if it's not intellectuals, who would it realistically be instead? Politicians? Soldiers?",Neutral,-0.07889880999999965,17074174.95712231,-22156135.17364347
+155,VitalikButerin,2020-11-18,"@veoex @zack_bitcoin How does optimizing for the hash rate solve wireheading? A futarchy optimizing for hash rate would eventually just create an unfriendly AI that destroys humanity, starts filling the universe with computronium and becomes some alien civilization's arch-villain for five seasons",Neutral,-0.08715275,14629648.08989412,-17074174.95712231
+156,VitalikButerin,2020-11-19,"@JoelKatz @TheAgentSmithV3 @APompliano &gt; We don't make this argument for judges.
+
+But ancient armies did honor generals who were willing to fight on the front lines (and therefore have more skin in the game alignment with their soldiers)!",Neutral,-0.03826003,10155987.37439732,-14629648.08989412
+157,VitalikButerin,2020-11-22,"@OHHHtis Scalability wasn't a property of the original 1.0 chain basically because adding full smart contract support was hard enough and we couldn't afford to solve every problem simultaneously. First get the thing running, then improve it over time.",Neutral,-0.23736053999999962,16416064.59893532,-20288343.21897211
+158,VitalikButerin,2020-11-23,"@paulg Keyhole solution: add a spellchecker, and make clicking Tweet or Reply open an ""are you sure"" dialog if there are any spelling mistakes. 😋",Neutral,0.13153212000000014,15487339.47782299,-16416064.59893532
+159,VitalikButerin,2020-11-23,"@lexfridman I still love the solution to ""make 24 with 1,3,4,6 and basic arithmetic operations"": 6 / (1 - 3/4)
+
+There's just something about using division to multiply and having a fraction inside a fraction that is so devious and clever and so beautiful....",Neutral,0.13153212000000014,15487339.47782299,-16416064.59893532
+160,VitalikButerin,2020-11-24,"@dominic_w @VladZamfir I *definitely* think that ""put it on filecoin/IPFS"" (two different things btw) is not a magic scaling solution; the bottleneck is scalable validation, not storage. So unfortunately yes you do need real sharding of some form.",Neutral,-0.009273560000000014,25036626.13313538,-15487339.47782299
+161,VitalikButerin,2020-11-25,"@dominic_w @VladZamfir Ah, as in a chain that specializes in running light clients of other chains?
+
+I'm definitely not a fan of the idea that that solves *scalability*. It does give scalability, but at the cost of giving up shared security, as each individual chain becomes much weaker.",Neutral,0.000548929999999892,24870950.92877138,-25036626.13313538
+162,VitalikButerin,2020-11-25,"One of the weirdest anti-ethereum arguments I see is ""Vitalik said high fees are bad but look how high ETH fees went in 2020!!!""
+
+Like.. we have *multiple* massive multi-year efforts to solve that exact problem, and the first phase of one of them is literally launching next week.",Neutral,0.000548929999999892,24870950.92877138,-25036626.13313538
+163,VitalikButerin,2020-12-14,"@BitcoinMoon11 7 years ago, before ethereum even began, I had only a few thousand dollars of net worth. I nevertheless sold half my bitcoin to make sure that I would not be broke if BTC went to zero.",Neutral,0.023677080000000128,8672051.95648215,-8389349.11124252
+164,VitalikButerin,2020-12-14,"@ybejz My take is different: vaccines are the most freedom-respecting solution to the virus, because they're a self-defense solution. It's like everyone buying a gun, instead of using centralized lockdowns and surveillance from the top-down to solve things.",Neutral,0.023677080000000128,8672051.95648215,-8389349.11124252
+165,VitalikButerin,2021-03-04,"A cross-L2 DEX solution that I proposed a few days ago that only requires one side to be smart contract-capable (the other side can just be a simple coin-sending-only rollup or plasma):
+
+https://t.co/kc65mkh37c",Neutral,-0.9968837699999984,116364465.82,-153830742.14
+166,VitalikButerin,2021-08-16,"Decentralized governance is necessary, but coin voting governance in its current form has many acknowledged and unacknowledged dangers. Augmenting or moving beyond coin voting is a key part of the solution:
+
+https://t.co/pZQ4sLAbEy",Neutral,8.89131295,3799339365.34,-1448656563.85
+167,VitalikButerin,2021-09-02,"@MacaesBruno @lootproject There is absolute truth in that once an object exists, what you can do with it is limited by the rules coded into that object, but the question of which objects *matter* is decided by much fuzzier forces.",Neutral,17.37115053000001,5074399603.16,-3974443896.04
+168,VitalikButerin,2021-09-02,"@paulhauner I hope so!
+
+Though I think in general crypto switching to PoS will only be a small part of the solution; ultimately we also need lots of very smart people contributing to longer-term fixes (solar power? fusion? carbon capture? sprinkling dust into the atmosphere?)",Neutral,17.37115053000001,5074399603.16,-3974443896.04
+169,VitalikButerin,2021-09-02,"@ShyamSridhar7 I actually hope that participation declines a bit 🤣
+
+In an ideal world I want people to feel comfortable participating and solo staking even if they're noobs with crappy internet connections (or staking over Tor or whatever).",Neutral,17.37115053000001,5074399603.16,-3974443896.04
+170,VitalikButerin,2021-09-02,@yatreda (Obviously the rollup ecosystem needs to get much more mature for this to be viable too.... but I think there has been lots of progress and @arbitrum launching yesterday is amazing so that's getting solved),Neutral,17.37115053000001,5074399603.16,-3974443896.04
+171,VitalikButerin,2021-09-02,"@nanexcool Smart wallets at present require third-party infrastructure to accept and pay txfees for operations; this is a dealbreaker. Account abstraction can solve this.
+
+(EIP 3074 doesn't solve this; it solves a different problem)",Neutral,17.37115053000001,5074399603.16,-3974443896.04
+172,VitalikButerin,2021-09-02,"@angela_walch Game theory absolutely can become outdated in a given context; I give my mechanism-design-theoretic perspective why it's very hard to get an ""end of history"" here: 
+
+https://t.co/8aB7T9NsjT",Neutral,17.37115053000001,5074399603.16,-3974443896.04
+173,VitalikButerin,2022-01-01,"6. In 2012, I was briefly an apologist for PoW energy waste. Though fortunately, by 2013 I got excited about proof of stake as a promising alternative. By 2014, I was sold.
+
+https://t.co/Iy4RsQSwFy
+
+https://t.co/gu7OavCEfn
+
+https://t.co/WFzk3EJBQ0",Neutral,8.207102038399995,1084780602.67,-1567918819.5
+174,VitalikButerin,2022-01-01,"This reflects a broader intellectual evolution I've had: from ""X is what I must defend, so whatever is favorable to X must be correct"" to ""I like X, but X has flaws and it seems like Y fixes them, so I support X+Y now""
+
+Soldier mindset --&gt; scout mindset.
+
+https://t.co/yNwrmCtJCV",Neutral,8.207102038399995,1084780602.67,-1567918819.5
+175,VitalikButerin,2022-01-04,@MacaesBruno Dogmas on all sides have become too good at marketing themselves as the resistance and their opposition as the dangerous hegemony. Everyone's metaverse has their team as the rebel alliance.,Neutral,-2.3472100290999833,1499265336.01,-1345778058.3

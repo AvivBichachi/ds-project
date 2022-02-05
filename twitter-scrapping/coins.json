@@ -1,0 +1,41 @@
+{
+    "coins": [
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "id": 1,
+            "keywords": [
+                "bitcoin",
+                "btc"
+            ]
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "id": 1027,
+            "keywords": [
+                "eth",
+                "ethereum"
+            ]
+        },
+        {
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "id": 74,
+            "keywords": [
+                "doge",
+                "dogecoin"
+            ]
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "id": 5426,
+            "keywords": [
+                "solana",
+                "metaverse",
+                "sol"
+            ]
+        }
+    ]
+}

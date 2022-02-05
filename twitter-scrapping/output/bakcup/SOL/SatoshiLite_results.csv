@@ -1,0 +1,41 @@
+,user,date,tweet,polarity,valueDelta,volume,volumeDelta
+0,SatoshiLite,2021-04-06,This is a puzzle with a nice $1000 reward to the solver. If only I had time for this! https://t.co/1AqIt1uNx3,Positive,1.9793050699999988,320886934.82,56801605.41
+1,SatoshiLite,2021-10-08,"Let's activate SegWit! Maybe not the full scaling solution you want, but it does a ton of good stuff today and enables lightning networks.",Positive,4.692654512800004,2781848649.82,202661394.01000023
+2,SatoshiLite,2020-12-03,@MoparMining @jcouch55 @LTCFoundation We are working on a solution to eat that cost. Sorry about that.,Negative,-0.016746330000000142,18106121.72298748,-15849828.20530223
+3,SatoshiLite,2020-04-16,"@TheVladCostea @in_Kauto If I ever talked about it, it's because someone asked about it. I will never be a proponent of Litecoin or Bitcoin messing with the supply limit. That's just dumb. It makes the whole experiment pointless. So no, that's FUD and absolutely wrong.",Neutral,0.05993705930000004,21346031.3456645,-13075275.285934
+4,SatoshiLite,2020-05-11,@TIMEISILLMATICK @blockchain Transaction fees will solely be used to pay the miners as Satoshi designed.,Neutral,-0.02098222120000004,2098480.82876321,-2327580.79632425
+5,SatoshiLite,2020-05-19,"I became a software engineer b/c I loved video games and learned to program at a young age. I have fond memories of my first game console, the Atari 2600.
+
+I'm excited about this partnership with @atari and soon the ability to preorder the Atari VCS with LTC! 🕹️
+
+#PayWithLitecoin https://t.co/iMjhpJcJsh",Neutral,-0.026520095099999974,2380263.04324887,-3314358.53130945
+6,SatoshiLite,2020-06-02,"CTV (CheckTemplateVerify) is a very cool tech upgrade that can help Bitcoin &amp; Litecoin scale and improve self custody solutions.
+
+For more info on CTV: https://t.co/WEzOWlvCD5
+
+Be sure to check out an AMA with author @JeremyRubin this Thursday at 9am PST.
+
+https://t.co/pPGdsXdaw0",Neutral,-0.012472745499999993,1295757.46418593,-2159877.15931313
+7,SatoshiLite,2020-08-20,@bullshark222 @hemant_bisht No. Read the reason I sold.,Neutral,0.3092264326999996,13756478.1507016,-14838388.9157821
+8,SatoshiLite,2020-10-13,"@SerranoReyMiami @tortsch Yeah, some people are in Litecoin for the wrong reason. There’s no company behind Litecoin. It’s a decentralized currency.
+
+I sold the coins I bought and mined (not given for free) and I announced it. If that’s bad, you had time to sell at a higher price after you found out.",Neutral,-0.17998122000000016,11415736.61057108,-12289968.79120837
+9,SatoshiLite,2020-10-14,"@monerotrader Tari’s solution is a MW sidechain, which is very similar to our MWEB solution on Litecoin. Like I said, the problem is liquidity of the coin. You can have a perfect privacy coin but without liquidity, it’s useless. So my approach is to make an already liquid coin more private.",Neutral,-0.09356103999999998,9436238.75624435,-11415736.61057108
+10,SatoshiLite,2020-10-14,"@cryptocomicon @monerotrader And how do you know that?! Seems weird to just proclaim that.
+
+DEXs will bring crypto/crypto liquidity. It unfortunately can’t be a solution to crypto/fiat liquidity due to KYC and AML regulations.",Neutral,-0.09356103999999998,9436238.75624435,-11415736.61057108
+11,SatoshiLite,2021-04-06,"Solved! Congrats @BitcoinDrawz! If you want to solve it yourself, don't read the solution! 😁
+
+The puzzle is found here: https://t.co/mfVZmcSoQv💡🌽🚀🌕📈
+
+https://t.co/gFsBjbZ8kN",Neutral,1.9793050699999988,320886934.82,-264085329.41
+12,SatoshiLite,2021-06-09,Exactly. El Salvador is a third world country. Cash is the dominant form of payment. It takes time to get people comfortable to using currency digitally. Paper money backed by BTC is a layer 2 solution that makes Bitcoin easy to use while the BTC digital infrastructure is built. https://t.co/GV4PxUdCXb,Neutral,0.7519848299999978,1218831040.77,-1786996802.01
+13,SatoshiLite,2021-10-07,"The first altcoin to Bitcoin is actually Namecoin. It used the same mining algorithm as Bitcoin, sha256d. After Namecoin came about a dozen other altcoins: Ixcoin, Iocoin, Solidcoin, Tenebrix, etc. This was all before Litecoin was launched. Every one of these coins are now dead.",Neutral,0.3200395647999983,2579187255.81,-3259712886.76
+14,SatoshiLite,2021-10-08,"Solving transaction malleability allows for the Lightning Network to function.
+
+So SegWit fixes a major issue, increase block size by 2x, and allows for LN to scale Bitcoin/Litecoin even more. It's a win/win/win. When I first heard of it, I was really excited about it activating!",Neutral,4.692654512800004,2781848649.82,-2579187255.81
+15,SatoshiLite,2021-10-12,"As you all know, I infamously sold all my LTC at the end of 2017. Since this is more a thread about Litecoin than a thread about me, I won't spend too much time talking about it, but I do want to address it.",Neutral,7.729457858100005,2853992440.28,-1851795187.08
+16,SatoshiLite,2021-10-12,"When I sold my LTC, what I wanted to accomplish was 3 things:
+1) Remove the fear of a Satoshi stash
+2) Make Litecoin more decentralized
+3) Align my motivation/incentive to Litecoin adoption versus LTC price rise",Neutral,7.729457858100005,2853992440.28,-1851795187.08

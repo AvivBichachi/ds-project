@@ -1,0 +1,33 @@
+,user,date,tweet,polarity,valueDelta,volume,volumeDelta
+0,brian_armstrong,2021-01-01,"Yes, I read it.
+
+And then I wrote it (coding up our own Bitcoin node) to make sure I understood it. https://t.co/yg46xyvkMq",Positive,380.14297265999994,40730301358.64019,-6024663489.546318
+1,brian_armstrong,2021-04-23,"Square published this great paper on Bitcoin energy usage.
+https://t.co/02Ka8gGpZw
+In short:
+1. Wind and solar are already cheaper than fossil fuels, making them attractive for Bitcoin miners",Positive,-646.1562196700033,86668667320.38,11870036542.880005
+2,brian_armstrong,2021-10-11,Well deserved! Thank you for introducing so many people to Bitcoin https://t.co/j5iAtbrEnn,Positive,2750.664624577599,42637331697.95,3109539334.369995
+3,brian_armstrong,2021-09-15,"@jack Given the amount of Bitcoin is finite, and population/economy will keep growing, seems unlikely.",Negative,1078.3482693265978,30484496466.48,-38652152880.49
+4,brian_armstrong,2021-01-29,"We are now hosting the #Bitcoin whitepaper at https://t.co/ia5WJ1B3CK
+
+This brilliant computer science breakthrough sparked an entire industry that is bringing economic freedom to the world. Read it - even if it you have to read it 30 times to fully understand it like I did.",Neutral,-2.2840420799984713,117894572510.68,-76517157706.32
+5,brian_armstrong,2021-01-29,"Organizations (whether companies, non-profits, governments, individuals, etc) hosting the #Bitcoin whitepaper are waving a flag saying: we are technological progressives, committed to building the future through science and technology, working for team human.",Neutral,-2.2840420799984713,117894572510.68,-76517157706.32
+6,brian_armstrong,2021-04-14,"1/ Today is a big moment for @coinbase as we become a public company. But it’s also a big one for crypto. This all started with the Bitcoin whitepaper 12 years ago, a deceptively simple 9 page document by Satoshi Nakamoto that ignited a global movement. https://t.co/4pE006XTFP",Neutral,-414.05893462999666,77451779687.04,-69983454361.84
+7,brian_armstrong,2021-04-14,"5/ After reading it, I started coding an early prototype of Coinbase on nights and weekends, and began attending early bitcoin meetups around the Bay Area. Eventually I was accepted at @YCombinator and got the courage to quit my job @Airbnb to go pursue this crazy idea.",Neutral,-414.05893462999666,77451779687.04,-69983454361.84
+8,brian_armstrong,2021-04-14,"12/ The hours were long and the work was hard (employees eating and sleeping in the office was not uncommon), but we made it work because we were all bound by a common mission. Many opted to take part of their salary in Bitcoin, including myself.",Neutral,-414.05893462999666,77451779687.04,-69983454361.84
+9,brian_armstrong,2021-04-23,"2. The main drawback for most energy consumers is wind/solar are intermittent, but Bitcoin miners don't care about this since they can run any time
+
+Essentially, Bitcoin mining creates a floor on the price of renewables, making them more attractive investments.",Neutral,-646.1562196700033,86668667320.38,-74798630777.5
+10,brian_armstrong,2021-07-15,"6/ This is part of why Bitcoin has made so many people wealthy. It was not a security, so regular people could invest early on.",Neutral,-1047.143174869998,21300524236.7,-21376531209.58
+11,brian_armstrong,2021-09-15,"@jack Bitcoin is deflationary, which is also very important. But that's not the same as having flat pricing - which is useful for long term contracts, trading pairs etc.
+
+Do you think Bitcoin will eventually stabilize in terms of purchasing power?",Neutral,1078.3482693265978,30484496466.48,-38652152880.49
+12,brian_armstrong,2021-09-17,"Bitcoin has become legal tender in El Salvador.
+
+Now that one country has tipped, who will go next?",Neutral,-503.4830845851029,28727713710.9,-31764293754.0
+13,brian_armstrong,2021-10-14,"...yet I haven't seen a startup fully make use of this new approach yet. I wonder what areas of the stack at Coinbase we could be rebuilding in this way.
+
+Probably taking a narrower scope to start would be smart, before we throw ""make it easier to buy Bitcoin"" into a neural net.",Neutral,-51.306799234997015,36615791365.79,-41684252783.19
+14,brian_armstrong,2021-10-25,"@BarrySilbert @SBF_FTX @jespow @cz_binance @OneMorePeter @_pgauthier It's a valid point - will see if we can come up with something that doesn't confuse new users. As Bitcoin keeps growing, it's going to make sense at some point (maybe that point is already here). Buying $100 of Bitcoin is such a tiny fraction already.",Neutral,2145.8979384483027,31064911613.92,-27316183881.53
+15,brian_armstrong,2022-01-08,"2. I agree with the overall point that clients don't behave like full nodes. However, there has been quite a bit of discussion about ""light clients"" in the crypto community even going back to the early days of Bitcoin/Ethereum, so i wouldn't say it hasn't been an area of focus.",Neutral,172.47723120350565,28066355845.13,-84196607519.83
+16,brian_armstrong,2022-01-21,"Excited to help @NYCMayor receive his first paycheck in #BTC &amp; #ETH. You can get your paycheck in crypto too, try it out 👇 https://t.co/PxPFbHlC2I",Neutral,-4242.288883791196,43011992031.18,-20382033939.59

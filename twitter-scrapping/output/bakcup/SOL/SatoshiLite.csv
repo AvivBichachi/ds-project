@@ -1,0 +1,444 @@
+,Text,Username,Unnamed: 0,Datetime,polarity
+0,"When I sold my LTC, what I wanted to accomplish was 3 things:
+1) Remove the fear of a Satoshi stash
+2) Make Litecoin more decentralized
+3) Align my motivation/incentive to Litecoin adoption versus LTC price rise",SatoshiLite,123124,2021-10-12 18:23:26+00:00,Neutral
+1,"As you all know, I infamously sold all my LTC at the end of 2017. Since this is more a thread about Litecoin than a thread about me, I won't spend too much time talking about it, but I do want to address it.",SatoshiLite,123127,2021-10-12 18:15:12+00:00,Neutral
+2,Most of the developers of Bitcoin believe that scaling onchain reduces decentralization of Bitcoin as it makes it much harder for people to run a node if it's too resource intensive. This is what I believe in also and why we think SegWit was the best solution.,SatoshiLite,123171,2021-10-08 18:33:22+00:00,Positive
+3,"Solving transaction malleability allows for the Lightning Network to function.
+
+So SegWit fixes a major issue, increase block size by 2x, and allows for LN to scale Bitcoin/Litecoin even more. It's a win/win/win. When I first heard of it, I was really excited about it activating!",SatoshiLite,123174,2021-10-08 18:24:50+00:00,Neutral
+4,"The first altcoin to Bitcoin is actually Namecoin. It used the same mining algorithm as Bitcoin, sha256d. After Namecoin came about a dozen other altcoins: Ixcoin, Iocoin, Solidcoin, Tenebrix, etc. This was all before Litecoin was launched. Every one of these coins are now dead.",SatoshiLite,123234,2021-10-07 17:07:23+00:00,Neutral
+5,Exactly. El Salvador is a third world country. Cash is the dominant form of payment. It takes time to get people comfortable to using currency digitally. Paper money backed by BTC is a layer 2 solution that makes Bitcoin easy to use while the BTC digital infrastructure is built. https://t.co/GV4PxUdCXb,SatoshiLite,123248,2021-06-09 17:36:27+00:00,Neutral
+6,"Solved! Congrats @BitcoinDrawz! If you want to solve it yourself, don't read the solution! 😁
+
+The puzzle is found here: https://t.co/mfVZmcSoQv💡🌽🚀🌕📈
+
+https://t.co/gFsBjbZ8kN",SatoshiLite,123272,2021-04-06 06:38:04+00:00,Neutral
+7,This is a clue to a puzzle that unlocks 1 LTC for the first person that solves this. Good luck!,SatoshiLite,123278,2021-04-06 05:28:44+00:00,Positive
+8,@MoparMining @jcouch55 @LTCFoundation We are working on a solution to eat that cost. Sorry about that.,SatoshiLite,123386,2020-12-03 19:45:46+00:00,Negative
+9,"@cryptocomicon @monerotrader And how do you know that?! Seems weird to just proclaim that.
+
+DEXs will bring crypto/crypto liquidity. It unfortunately can’t be a solution to crypto/fiat liquidity due to KYC and AML regulations.",SatoshiLite,123440,2020-10-14 17:57:48+00:00,Neutral
+10,"@monerotrader Tari’s solution is a MW sidechain, which is very similar to our MWEB solution on Litecoin. Like I said, the problem is liquidity of the coin. You can have a perfect privacy coin but without liquidity, it’s useless. So my approach is to make an already liquid coin more private.",SatoshiLite,123445,2020-10-14 17:49:10+00:00,Neutral
+11,"@SerranoReyMiami @tortsch Yeah, some people are in Litecoin for the wrong reason. There’s no company behind Litecoin. It’s a decentralized currency.
+
+I sold the coins I bought and mined (not given for free) and I announced it. If that’s bad, you had time to sell at a higher price after you found out.",SatoshiLite,123456,2020-10-13 20:16:26+00:00,Neutral
+12,@bullshark222 @hemant_bisht No. Read the reason I sold.,SatoshiLite,123533,2020-08-20 10:56:06+00:00,Neutral
+13,"CTV (CheckTemplateVerify) is a very cool tech upgrade that can help Bitcoin &amp; Litecoin scale and improve self custody solutions.
+
+For more info on CTV: https://t.co/WEzOWlvCD5
+
+Be sure to check out an AMA with author @JeremyRubin this Thursday at 9am PST.
+
+https://t.co/pPGdsXdaw0",SatoshiLite,123657,2020-06-02 23:43:04+00:00,Neutral
+14,"I became a software engineer b/c I loved video games and learned to program at a young age. I have fond memories of my first game console, the Atari 2600.
+
+I'm excited about this partnership with @atari and soon the ability to preorder the Atari VCS with LTC! 🕹️
+
+#PayWithLitecoin https://t.co/iMjhpJcJsh",SatoshiLite,123725,2020-05-19 16:32:58+00:00,Neutral
+15,@TIMEISILLMATICK @blockchain Transaction fees will solely be used to pay the miners as Satoshi designed.,SatoshiLite,123742,2020-05-11 15:46:48+00:00,Neutral
+16,"@TheVladCostea @in_Kauto If I ever talked about it, it's because someone asked about it. I will never be a proponent of Litecoin or Bitcoin messing with the supply limit. That's just dumb. It makes the whole experiment pointless. So no, that's FUD and absolutely wrong.",SatoshiLite,123786,2020-04-16 11:11:51+00:00,Neutral
+17,"@kiranvaidya You can also easily run a node. Just download Bitcoin Core or Litecoin Core node software and run it. It just an application with a GUI.
+
+You don't have to trust someone else to tell you, especially someone who might have colluded with the person that sold you the counterfeit!",SatoshiLite,123827,2020-02-28 22:32:53+00:00,Neutral
+18,@local_drones All sold out. But you can buy one of these and find me at a conference. I'd be happy to sign it for you. https://t.co/KlJo2f3A1u,SatoshiLite,123947,2019-12-09 01:52:09+00:00,Positive
+19,"@CryptoN_T @udiWertheimer @ecurrencyhodler @DavidBurkett38 That's true for any soft fork. New nodes have to validate everything. Old nodes don't need to.
+
+One nice thing about EB is that you isolate potential flaws like inflation bugs to the EB, and won't affect the canonical chain. If you move coins there, you are accepting that risk",SatoshiLite,124048,2019-10-22 23:25:44+00:00,Neutral
+20,"@joliwa @ToneVays @ChrisCryptoBear @nmeofdst8vM660 @j2banker @junseth @mrilirgashi @merwanedr @adam3us @Crypto_ETF @Hugo_Gerez @de7erv @Nouriel @brockpierce @bobbyclee @ForumChallenge @LTCFoundation I sold before that tweet based on the time of that tweet and the price. Does that make it better in your mind? Price also went up after I sold at $90. Is that because I tweeted hodl on for dear life?! Imagine if I didn't make that 1 tweet, price would never have reached $300. 🤦‍♂️",SatoshiLite,124076,2019-10-15 07:11:41+00:00,Positive
+21,@KidKattz @joliwa @pestycyd @yeahwhatever99 @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @adam3us And that is EXACTLY why I sold. I don't want to have to police my every tweet to see if I'm doing it for personal financial gains instead of for Litecoin's success.,SatoshiLite,124102,2019-10-15 00:26:04+00:00,Neutral
+22,"@joliwa @ringokidcrypto @pestycyd @yeahwhatever99 @ToneVays @Nouriel @brockpierce @bobbyclee @ForumChallenge @adam3us I didn't lie and mislead my followers. I didn't tell people to buy or hold Litecoin so that I can sell into them. When I tweeted hodl, it was a joke of sorts. I can't imagine people took that as financial advice. Same for wearing a HODL t-shirt months before I sold.",SatoshiLite,124105,2019-10-15 00:22:14+00:00,Neutral
+23,@SatosiMr2 @ORGANICASTRONA1 @bitofnonce @ToneVays @novogratz I also sold at $4 and $0.70. What's your point?,SatoshiLite,124156,2019-10-09 06:54:16+00:00,Neutral
+24,"@LitecoinMoses @cryptorecruitr @LTCFoundation I mined a few solo blocks initially. Not that many though. There were a lot of people mining since the beginning, and pool mining was needed pretty early on.",SatoshiLite,124181,2019-10-02 03:44:04+00:00,Neutral
+25,"@Comeback_USA Technically, yes. You can create a list of ""known"" scammer addresses. But who decides who's a scammer? What if the government didn't like you and put you on this list and you can no longer use your money?
+
+This is something cryptocurrency is trying to solve. Censorship is bad.",SatoshiLite,124213,2019-09-26 18:10:24+00:00,Neutral
+26,"@crypto_king_win @TheBTCBatman @cryptobaba_ @mauneel @RyanSAdams Your memory has indeed failed you. I tweeted about partnerships and big news after I sold.
+
+https://t.co/LkLfrvAEvN
+
+And we have continued to work on these things the past 2 years.",SatoshiLite,124217,2019-09-26 08:07:30+00:00,Neutral
+27,"@marmavresearch @TheRealXinxi @barrysilbert I’ve explained why I sold thousands of times. If at this point you still think I’m not invested because I’m not confident in Litecoin, I’m not sure what else to tell you.",SatoshiLite,124249,2019-09-19 04:18:47+00:00,Positive
+28,"@Jimmyho07952701 @aapltalk @mrilirgashi @hongya81 @coindesk @LTCFoundation @wsfoxley I can’t help them. I was transparent of my sale. They could have sold immediately after at even a higher price than me. Litecoin price stayed high for a few days after. And if they got in after my sale, they knew what they were gettng into.",SatoshiLite,124335,2019-08-28 09:53:09+00:00,Neutral
+29,@crypto_king_win @Fortune_Hunting @mrilirgashi I accept people lost confidence that I sold irrespective of when I made the announcement. I think their lost of confidence is unmerited as I have shown that I have kept working hard and putting time and money into the project. That's all I can do.,SatoshiLite,124553,2019-07-16 14:43:03+00:00,Neutral
+30,"@crypto_king_win @Fortune_Hunting @mrilirgashi So I did that to protect the price. The price actually went up for some time after I sold. If anyone was upset at my decision, they could have easily sold their LTC after my announcement for a higher price than I got. I don't think I could have handled that better TBH.",SatoshiLite,124554,2019-07-16 14:33:16+00:00,Neutral
+31,"@crypto_king_win @Fortune_Hunting @mrilirgashi Ok, will explain again. I didn't have a ton of coins. My total sold was less than 1% of gdax daily volume. So I know I won't affect the price with the sale. If I preannounced, people will panic sell thinking that my sale will affect price. Hence why I didn't preannounce.",SatoshiLite,124555,2019-07-16 14:27:43+00:00,Neutral
+32,@crypto_king_win @Fortune_Hunting @mrilirgashi Didn't say I knew of a pullback. No one knew. Only warned of a possibility before I sold. That's all.,SatoshiLite,124562,2019-07-16 12:39:31+00:00,Neutral
+33,"I have bad news. We have not sold enough VIP tickets to Magical Crypto Conference and may have to accept Ripple's sponsorship. ☹️😂
+
+https://t.co/BRezCtwzFa
+#MCC2019 https://t.co/B2s3hBDBn7",SatoshiLite,124598,2019-05-05 07:22:51+00:00,Neutral
+34,@DJ_Erock23 Bigger blocks doesn't solve fungibility.,SatoshiLite,124680,2019-02-10 22:24:25+00:00,Neutral
+35,"We still have a lot of work ahead of us. Need to make sure the tech is solid and come up with a plan to test everything and safely upgrade the Litecoin network. When we have a solid plan, we will write up a Litecoin Improvement Proposal (LIP) for the community to critique.",SatoshiLite,124685,2019-02-10 21:57:46+00:00,Neutral
+36,"@cryptospa1 Not solved, but making huge progress with layer 2 solutions like LN. The debate is over as the parties split into their own coins.",SatoshiLite,124722,2019-01-28 18:40:44+00:00,Neutral
+37,@phamnuwen2 Solutions that are already live and running.,SatoshiLite,124725,2019-01-28 18:00:58+00:00,Neutral
+38,@PN_LTC @lopp @nws0und @sr_gi This happened due to a spam attack in 2011/2012. We've considered actually just marking all these UTXOs as unspendable and delete them from the UTXO set. This is not a huge problem and could easily be solved by a simple soft fork. We just haven't bothered with it.,SatoshiLite,124804,2018-10-06 01:38:59+00:00,Neutral
+39,"8/ FUD: Litecoin as Bitcoin's testnet is not worth $3B.
+
+TRUTH: Even if Litecoin's only use case is a testnet, you can't put an absolute value on it. Need to look at it relative to Bitcoin. Litecoin's marketcap is only 3% of Bitcoin's marketcap. That is not very large at all!",SatoshiLite,124819,2018-09-20 05:37:05+00:00,Neutral
+40,"7/ Litecoin will always be the cheapest and fastest on ramp to Lightning Network. And with solutions like submarine swaps, you can use on chain LTC to pay for a BTC lightning invoice!
+
+We will also have decentralized exchanges using atomic swaps. The possibilities are endless. ⚡",SatoshiLite,124820,2018-09-20 05:37:05+00:00,Neutral
+41,"@LitecoinFam @MyLegacyKit @litecoingg @LitecoinCash @DaddyCool1991 My stance is the same. Litecoin Cash is a scam because it's sole existence is based on confusing users. Change the name to Lcash, and I might change my mind.",SatoshiLite,124829,2018-09-18 04:42:49+00:00,Neutral
+42,"3/ re: conflict of interest, I sold my LTC holdings so I could focus on adoption and not price, as those 2 are not always correlated. Litecoin is my baby, so I don't need monetary incentive to want it to succeed.",SatoshiLite,124832,2018-09-18 04:27:32+00:00,Neutral
+43,@LN_Master_Hub That's pretty dumb. The market cap today is $3B. I've said many times that I had to mine and buy the LTC I owned just like anyone else. Didn't do an ICO or a crowd sale or anything like that. When I sold it was less than 1% of gdax volume. Didn't move the price at all. All FUD.,SatoshiLite,124835,2018-09-18 02:09:48+00:00,Neutral
+44,@CGoboom @akaryakar @CryptoAgent47 I think LTC is more oversold so has more upside than BTC right now.,SatoshiLite,124924,2018-07-20 18:11:15+00:00,Neutral
+45,"@akaryakar @CryptoAgent47 No, they were bought at the market value. It wasn't free. And at the time I bought most of my coins, it was a huge risk. Most people thought Litecoin would die. Just ask all the solidcoin supporters.",SatoshiLite,124932,2018-07-20 16:48:14+00:00,Neutral
+46,@CryptoAgent47 You're dumb. I sold the coins I bought and mined. Litecoin was not printed. Nothing was given to me for free.,SatoshiLite,124947,2018-07-20 04:15:58+00:00,Neutral
+47,@MaxBennett @JerryHudgens I do. Haven't sold.,SatoshiLite,124948,2018-07-20 04:15:17+00:00,Neutral
+48,@helios_de_sol @CryptoHodl30 @tradingroomapp Litecoin doesn't have founders coins. There was no ptemine or ico. I bought and mined coins just like everyone else. That's why I didn't have a lot of coins.,SatoshiLite,124975,2018-07-20 00:22:38+00:00,Neutral
+49,"@ruchit_sengupta @neilrc30 The point is, don't think of it as missing out. Owning other coins is much riskier. Owning BTC is more of a sure bet. So before you speculate, invest in something solid first.  
+
+And no, I'm not calling LTC a shitcoin.",SatoshiLite,125069,2018-07-17 09:52:50+00:00,Neutral
+50,"@ummjackson You sold it at ATL! 😂 Sorry. 😜
+
+Congrats though. Dogecoin is legit!",SatoshiLite,125083,2018-07-17 06:05:10+00:00,Negative
+51,@KParababas @jaredctate There are tradeoffs for more transactions. The trade-off is more centralization. You won't notice it until the blockchain is really used and by then it's too late. I'd rather add more scale via 2nd layer solutions like LN without sacrificing decentralization of base layer.,SatoshiLite,125134,2018-07-15 05:49:26+00:00,Neutral
+52,"@DigiByteJack @timlaneks @henry_popescu @robert_salter @WillemUrk @jaredctate @dgb_chilling @DigiByteCoin @RealistNews Not sure why the need to debate. Will see how the Twitter discussion goes first. And TBH, this debate benefits DGB a lot more than LTC. It's not worth my time to try to prove that Litecoin is more secure. The extraordinary claim that DigiByte is more secure needs solid proof.",SatoshiLite,125144,2018-07-15 03:31:23+00:00,Neutral
+53,"I'm excited to announce that @LTCFoundation and @TokenPay have entered into a strategic partnership to buy a stake in a German bank, WEG Bank AG. We plan to work on many exciting consumer-driven crypto solutions. Stay tuned! 🚀
+
+For more info: https://t.co/K58SpQKvEl https://t.co/6agmsa7wkb",SatoshiLite,125321,2018-07-10 16:34:54+00:00,Neutral
+54,"@EqualOutcome @XRPkhey @fluffypony LTC is more secure, has more liquidity, has genuine support and not scammy marketing, and it scales without losing decentralization via 2nd later solutions like Lightning.",SatoshiLite,125323,2018-07-10 12:35:24+00:00,Neutral
+55,"@CryptoStoner @JasonDBurton To answer your original question, I didn't know to sell at ATH. At the point I sold and announced, LTC was on its way up. It shot up higher than I sold. No one knew whether it would go much higher or drop from there. Hindsight is 20/20.",SatoshiLite,125343,2018-07-09 19:27:11+00:00,Neutral
+56,"@JasonDBurton @CryptoStoner People just like to make up shit, huh?
+
+I warned before I sold. And my brother doesn't own a mining business. I also don't hire analysts or consultants.
+
+You probably also think my brother is Bruce Lee, right?",SatoshiLite,125349,2018-07-09 18:39:23+00:00,Neutral
+57,@estebs @VinnyLingham Do you see a problem with people believing global warming is happening and then working on carbon neutral solutions and making some money from that? No? There you go.,SatoshiLite,125351,2018-07-09 18:16:09+00:00,Neutral
+58,"@BitconnRekt @VitalikButerin Owning coins is unrelated to working on a project. A lot for crypto leaders have a ton of coins but don't work on the project and have left. (Satoshi for ex) Some never bought their own coins. (Jackson Palmer) Most probably sold without telling anyone.
+
+I've already explained.",SatoshiLite,125424,2018-07-07 17:18:45+00:00,Neutral
+59,"@BitconnRekt @VitalikButerin I sold because holding LTC made it a situation where I may do something to pump the value short term. but is bad for the long term success of Litecoin. I didn't want that conflict. I've explained this many times. If all you still don't understand, I can't help you. Be gone.",SatoshiLite,125425,2018-07-07 17:13:01+00:00,Neutral
+60,"@F76_F76 @DedeAdil @EtherWorldNews Believe it or not, but I didn't know that the price would go down and not up. At the time I sold, the market was still very bullish. And it also would be irresponsible for me to tell everyone to sell as that would definitely cause a crash. The best thing to do was warn about it.",SatoshiLite,125472,2018-07-01 03:52:21+00:00,Positive
+61,"@JohnPicataggi 👍
+
+I realize it sucks to have held a coin dropping 70%+. That's why I made the tweet about being able to withstand a 90% drop and multi-year bear market if you invest in crypto. I made that tweet before I sold. Most people aren't able to withstand this as we see clearly now.",SatoshiLite,125532,2018-06-24 04:21:25+00:00,Neutral
+62,"@ArthurShillby @Beastlyorion @BluesCrypto @newAlexnew @Ar_Bitcoin @ZackShapiro @IcarusGlider Don't forget the part where I announced when I sold so people can take that as a signal if they want. Could have just sold quietly. Damned if I do, damned if I don't in crypto.",SatoshiLite,125552,2018-06-22 09:27:07+00:00,Neutral
+63,"@xTaySol No, I don't use Instagram.",SatoshiLite,125586,2018-06-21 06:35:23+00:00,Neutral
+64,"@BitcoinErrorLog @BashCo_ @WhalePanda @wences You are too one-sided. Things aren't all black and white, good and evil. Brian doesn't hate Core. He just believes that Moore's law helps solve scaling with blocksize increase. He doesn't care about controlling Bitcoin. He cared more about user adoption than censorship resistance",SatoshiLite,125654,2018-06-20 12:03:06+00:00,Neutral
+65,"To clarify, AOL buying TimeWarner at the height of the internet bubble was very smart for AOL. They used their bubble valuation to purchase something that had a solid business model. It was also new media buying up old media. That's the parallel I see. So not hating on Tron.",SatoshiLite,125687,2018-06-20 02:56:05+00:00,Neutral
+66,"@stickofcrypto @TrueCrypto28 @AltOne_Crypto I have publicly said that I will never buy back in. As in I won't have enough to really be invested in them. I have and do buy small amounts so that I can pay with Litecoin. If you trust that I was honest when I said I sold, you should trust that I'm telling the truth now.",SatoshiLite,125727,2018-06-19 23:33:27+00:00,Neutral
+67,"@JonJimbo2 @Bitcoin_Shill @LincolnMics If I knew the drop was imminent and that I would have sold at or near ATH, then of course the backlash was obvious. Hindsight is 20/20. Don't forget at the time of sale, LTC was shooting straight up. I didn't expect such a big turnaround. And no, I didn't cause the bear market.",SatoshiLite,125729,2018-06-19 23:28:52+00:00,Neutral
+68,@deusexcrypto @crypto_goat_ @Kramerwhale I wish LTC did not drop since I sold it. 😀,SatoshiLite,125733,2018-06-19 23:16:54+00:00,Neutral
+69,"@WillWhitez @louiseSatoshi No, didn't need the capital. My LTC holdings were about 10% of my net. I sold for the reason I stated, nothing else. Nothing has changed in terms of spending all my time on Litecoin. Price is down, but adoption is happening.",SatoshiLite,125758,2018-06-19 17:54:27+00:00,Neutral
+70,@awnlyne You sold at a higher price than me. Nice.,SatoshiLite,125760,2018-06-19 17:40:30+00:00,Neutral
+71,"@pnwmtnbiker @crypto_hodler @Monopoly__Money @mrtang86 @cz_binance @Elicrypto Market does what market does. It's correcting and consolidating. Could be quick, could be slow to recover.",SatoshiLite,125819,2018-06-14 07:30:32+00:00,Neutral
+72,@111OneMan @VRPorn @LTCFoundation The reason for that was because they hyped it up and people sold on the news.,SatoshiLite,125909,2018-05-31 22:17:44+00:00,Neutral
+73,"@SamouraiWallet @DustinDry1st @J_humphr3y @DanDarkPill @verretor @Blockstream @gotenna @vinarmani This is all sorts of 🤦‍♂️. Let's hope they guard that source code from prying eyes inside the company. If it's exploited, you can never figure out whole did it. In my mind, this non-custodial solution is worse than any custodial solutions. SMH",SatoshiLite,125971,2018-05-30 23:05:18+00:00,Neutral
+74,"@PopponayaShelly At the time when I sold and announced, no one knew it was going to be near ATH. So questioning it now after the fact makes no sense. And there's nothing I can do now to prove anything. It's done. I sold and I announced.",SatoshiLite,125995,2018-05-30 06:53:41+00:00,Neutral
+75,"@Luft_NF @Flexskywalker The point is that because XRP was ""premined"" and given out, Brad has a substantial amount of it. So if he sold, it would really crash the market. I have a relatively small amount because I had to mine and buy all of the coins I owned just like every other person. Think about that",SatoshiLite,126000,2018-05-30 04:55:50+00:00,Neutral
+76,"@Luft_NF @Flexskywalker The point is that XRP was printed, whereas I mined and bought the coins I sold. And he's worth at least 10x more than me. It's not even close.",SatoshiLite,126003,2018-05-30 04:41:11+00:00,Neutral
+77,"I remember one of the first Litecoin transaction that I did in December 2011.
+
+I got some acrylic Litecoin pieces from Mike Caldwell. (Casacius coin creator) I decided to do a giveaway but people only need to pay me for shipping cost of $0.44 or 70 LTC. I ""sold"" 12 of these. 😁 https://t.co/T4QjrGciOm",SatoshiLite,126165,2018-05-23 15:43:50+00:00,Neutral
+78,@FGEN88 I didn't talk about the big news until after I announced having sold.,SatoshiLite,126186,2018-05-22 23:34:49+00:00,Neutral
+79,"@MrHodl @byourseff @ecurrencyhodler I think I've had enough of this conversation.
+
+I've put $1MM on the line of my own personal money for the sole purpose of helping Bitcoin activate SegWit. I don't need to take shit from people about it.",SatoshiLite,126245,2018-05-20 18:11:24+00:00,Neutral
+80,"@saifedean When I sold my LTC last December, the LTC/BTC price was around 0.018, barely higher than today. Because it has underperformed BTC in the past 6 months and the past 5 years means that it's a scam? You are really something.",SatoshiLite,126260,2018-05-20 05:50:58+00:00,Neutral
+81,"@mariodian @udiWertheimer @MrHodl @ShortFiat21M @devilscompiler @giacomozucco @james_hilliard I didn't say BIP148 wasn't the catalyst. It was, but a reckless one. If people weren't able to find a good solution, the chain would have split. We got lucky IMO and just in the nick of time too.",SatoshiLite,126272,2018-05-19 09:01:31+00:00,Positive
+82,@MrHodl @udiWertheimer @ShortFiat21M @devilscompiler @giacomozucco @james_hilliard I think we can all agree that BIP91 was an ingenious solution.,SatoshiLite,126280,2018-05-19 01:14:41+00:00,Positive
+83,"@udiWertheimer @MrHodl @ShortFiat21M @devilscompiler @giacomozucco @james_hilliard No, it existed because people worked hard to try to find a solution that satisfied both parties. If it wasn't for the hard work of many (especially James Hilliard), it would have been pretty bad.",SatoshiLite,126286,2018-05-19 00:42:40+00:00,Neutral
+84,"@AdeldMeyer It's either Namecoin or Ixcoin. I know at one point I also held some Solidcoins. This was mid 2011. Altcoins became a thing in 2011. Then I decided that these coins all suck, so I created Litecoin. Lol #BlockchainChat",SatoshiLite,126329,2018-05-17 23:51:33+00:00,Neutral
+85,"One nice thing about being a crypto-celebrity at Consensus blockchain week is being able to get into sold-out parties by saying ""I'm Charlie Lee, let me and my posse in!""
+
+The flip side is that I sometimes even have to make conversation at the urinal. Talk about awkward! 😂",SatoshiLite,126377,2018-05-15 05:51:14+00:00,Neutral
+86,@officialwazzan You can't take shortcuts to scaling a decentralized world currency. A lot of smart people working on LN and other solutions.,SatoshiLite,126403,2018-05-13 16:16:20+00:00,Neutral
+87,"@riougly Who purchased $99M worth of LTC? If you are talking about that one transaction, it was just someone sending that much. And lastly if someone did buy $99M in one transaction, it also means another person sold $99M, so price won't change much.",SatoshiLite,126406,2018-05-13 05:32:49+00:00,Neutral
+88,"@CharlesMBlow Bitcoin is a digital currency that is decentralized. Because of its decentralize nature, nobody (company or government) can censor or reverse any transactions. Bitcoin also solves the double spend problem, which means that you can't create bitcoins out of thin air.",SatoshiLite,126421,2018-05-08 05:10:17+00:00,Neutral
+89,"@jbbasics @WolkPhoto For a decentralized currency, it shouldn't matter. But the fact is, some people actually do care whether or not I own. So that's why I made it very public when I sold. Those that care could have easily sold around the same time and even higher price than when I sold.",SatoshiLite,126527,2018-05-01 04:57:10+00:00,Neutral
+90,@FutureMoney4U Why? I sold at the then market price. And it's only 2 BCH.,SatoshiLite,126542,2018-05-01 04:11:16+00:00,Neutral
+91,@_Kevin_Pham @Litecoin_Turtle @LitecoinMonkey @CryptoSidekick @VitalikButerin You know what? I'm mortal but Litecoin is not. This will eventually resolve itself.,SatoshiLite,126657,2018-04-23 03:11:22+00:00,Neutral
+92,"@MojorisinUK @bensemchee There is none. I'm not sure what that's all about. I don't own any OMG and have absolutely no connection with that project. And Litecoin Foundation is not working with OMG either. If people have been following me, you know that I don't like ICOs.",SatoshiLite,126690,2018-04-22 15:28:43+00:00,Neutral
+93,@LitecoinBrother @joe77marshall @ltc_monkey @johnkim77 @officialmcafee Exactly. People who understand this will understand why I sold.,SatoshiLite,126693,2018-04-22 13:49:09+00:00,Neutral
+94,"@blimpzz If Litecoin dies because a centralized creator sold his coins, then it doesn't deserve to be a worldwide decentralized currency.",SatoshiLite,126728,2018-04-21 06:37:59+00:00,Neutral
+95,"@TedRust @BlackoutWaters @CryptoInLondon @Pornhub How recent? I sold it last year. It's one of the few currencies I like. I might be some more in the future, but I don't hold any right now. If I said I hold it now, I probably misunderstood the question. Please send me a link.",SatoshiLite,126779,2018-04-17 15:27:23+00:00,Neutral
+96,@keyatoms @ltcninja @Bitcoin Doing everything on chain comes with tradeoffs. On chain causes centralizations. People have different opinions on how bad it actually is. Most technical people that I know believe that scaling off chain like LN is a better long term solution and that's what people are building.,SatoshiLite,126902,2018-04-10 04:08:38+00:00,Neutral
+97,@shariqriazz @CriptoFin @TheEdgyVeggy @sm64177418 @Bitcoin Never used bcash. Only sold it.,SatoshiLite,126928,2018-04-09 17:02:35+00:00,Neutral
+98,"@CryptoInfinitum I believe the account was sold. For years, it was retweeting Bitcoin news. Recently it started attacking people. Their last tweet was a personal attack on me and Samson. I don't believe it's the same user behind it.",SatoshiLite,126940,2018-04-08 20:34:52+00:00,Neutral
+99,"@OmitronColtrain @PeterRizun Well, I wasn't privy to info that I used to sell my coins. I didn't know the market was going to tank. I also warned people that the market is volatile before I sold the coins. Lastly, people can boycott me if they want. It's a free world. :D",SatoshiLite,127033,2018-04-05 08:22:02+00:00,Neutral
+100,@OmitronColtrain @PeterRizun So every person that sold coins near the top is a fraud?,SatoshiLite,127038,2018-04-05 07:43:56+00:00,Neutral
+101,The job of blocks is trying to determine which transactions are real. Doing that outside of blocks is like trying to solve the byzantine general problem all over again. 🤦‍♂️Satoshi already solved that with the blockchain!,SatoshiLite,127203,2018-03-30 17:51:19+00:00,Neutral
+102,"@ArminVanBitcoin @dashman76 @fluffypony You are absolutely correct about no coins competing with Bitcoin. And here's the list of coins competing with Litecoin
+
+1. Bitcoin
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+😂",SatoshiLite,127221,2018-03-30 06:39:57+00:00,Neutral
+103,@MattoDobbo But they printed their own coins and gave themselves billions. I didn't do that. I only sold coins that I bought on the market and mined myself. I hope you can see the difference.,SatoshiLite,127227,2018-03-30 04:14:22+00:00,Neutral
+104,"@ConallOGribin @hugohanoi If I see another solution that is just as good, then I will amend and remove the ""only.""",SatoshiLite,127246,2018-03-30 02:55:05+00:00,Positive
+105,"@connolly_dan @Bitcoin @johnnyt74 Still applies. But remember, LN is a 2nd layer solution. The base layer is still the base protocol.",SatoshiLite,127268,2018-03-29 08:52:27+00:00,Negative
+106,"@RobPaulAstro Also, I sold my LTC before LitePay was even announced.",SatoshiLite,127301,2018-03-28 21:14:00+00:00,Neutral
+107,"@oparex Same as always. There's no guarantee there's a solution in the whole nonce space. When you run out of nonce, you change nTime and try again with different nonces.",SatoshiLite,127352,2018-03-28 09:09:17+00:00,Neutral
+108,@KitCloudKickur @ultimateviet @AliantPayment I don't think I ever sold it as the best. Go back and look at my tweets. I've named it as one of many merchant processors. The media and people hyped it up.,SatoshiLite,127371,2018-03-28 04:15:50+00:00,Positive
+109,@Fancynut1 @CryptoTatted I sold my coins at $600 and I'm 10 feet tall.,SatoshiLite,127384,2018-03-27 04:54:12+00:00,Neutral
+110,@BRASILIA_WC14 That's not why I sold my coins. But business is going well.,SatoshiLite,127413,2018-03-26 19:29:28+00:00,Neutral
+111,"@jeremylkramer LitePay was announced after I sold, so it had no effect on me selling whatsoever.",SatoshiLite,127415,2018-03-26 19:27:29+00:00,Neutral
+112,@Huminiecki How would I have known? And LitePay was announced after I sold.,SatoshiLite,127416,2018-03-26 19:26:27+00:00,Neutral
+113,"@taymorawd No, I haven't sold any Nano. You are wrong.",SatoshiLite,127442,2018-03-26 17:03:31+00:00,Negative
+114,@lagrimacanta You should buy more now so your average is not ATH. Just like I've sold before ATH.,SatoshiLite,127525,2018-03-16 13:25:11+00:00,Neutral
+115,"@brucefenton Very true, because they likely sold 1 BTC for $400 to buy the ticket. Definitely not worth the ROI.",SatoshiLite,127770,2018-03-04 19:36:54+00:00,Neutral
+116,@KyleCoughlin_ @officialmcafee The disclaimer is absolutely necessary to be transparent. IMO,SatoshiLite,127876,2018-03-02 19:50:37+00:00,Neutral
+117,This happens to every single one of my posts @jack. It's getting out of hand. Really makes Twitter hard to use for me when I have to filter through all this spam to read any useful replies. Also sucks for people falling for this scam. I hope you have a solution soon! https://t.co/sOoCXfSyVu,SatoshiLite,127882,2018-03-02 19:18:45+00:00,Neutral
+118,@HongfeiDong When did I say I sold because I didn't want to be distracted by the price?,SatoshiLite,128017,2018-02-25 20:43:21+00:00,Neutral
+119,@RealDelonteWest The price I sold was off the charts! About $100 above the ATH!,SatoshiLite,128042,2018-02-16 22:27:09+00:00,Neutral
+120,@r0bbot @botsquash @CryptosQueen I also sold all of your favorite shitcoin,SatoshiLite,128080,2018-02-16 01:19:12+00:00,Positive
+121,@Cryptonoamous @CryptoKitties @cryptoallstarz @LTCFoundation It does absolutely nothing! Haha,SatoshiLite,128130,2018-02-14 19:18:07+00:00,Neutral
+122,@wisewizzz @rogerkver Does a successful LTC make BCH obsolote? Does it not because we don't have Bitcoin in our name? SMH,SatoshiLite,128137,2018-02-14 09:39:51+00:00,Positive
+123,"LTC/BCH has just surpassed 0.02. This is higher than when I sold my litecoins. In other words, LTC has outperformed BTC since that time. Just saying!
+
+The market agrees that my efforts on Litecoin adoption is overcoming the negatives.
+
+Go Litecoin! 🐔🚀🌕
+#PayWithLitecoin",SatoshiLite,128158,2018-02-14 01:56:18+00:00,Neutral
+124,"I've been in cryptocurrency for 7 years. There's a FUD every year for why Bitcoin is dead:
+
+2011 MtGox hacked
+2012 Pirateat40 ponzi implodes
+2013 China bans Bitcoin
+2014 MtGox insolvent
+2015 Silkroad shuts down
+2016 Bitfinex hacked
+2017 Ethereum Flippening
+2018 Bcash is Bitcoin",SatoshiLite,128160,2018-02-14 01:38:32+00:00,Neutral
+125,@KAI_MURPHY_ LitePay is not a coin. It's a merchant processing solution.,SatoshiLite,128184,2018-02-13 14:19:25+00:00,Neutral
+126,"Boom! 💥
+
+Aliant adds Litecoin support to their merchant solutions. This is e-commerce and most importantly also point of sale with Poynt terminal integration!
+
+#PayWithLitecoin https://t.co/F7J5WbVwn4",SatoshiLite,128290,2018-02-06 13:49:46+00:00,Neutral
+127,@tob1asmax1mus I think it will take a few more months of consolidation before the next move up. This is a good price to get in IMO.,SatoshiLite,128321,2018-02-06 02:39:39+00:00,Neutral
+128,@fizz34679145 @DaveDeWire @Brn2wice @ultimateviet @TheRealXinxi @LTCFoundation And people could have sold at that time for over 300 also.,SatoshiLite,128402,2018-02-04 16:33:27+00:00,Neutral
+129,@bc_187 @LTCFoundation I've bought and sold coins just like any other person. I didn't premine. And I have donated a lot of coins to the Litecoin Foundation. And I work full time on it. What have you done to help Litecoin? What's wrong with me asking people to donate and help support Litecoin?!,SatoshiLite,128413,2018-02-04 16:15:58+00:00,Neutral
+130,"@F60_Coinz So, the truth comes out. Price is more important than insanely fast, low fees, solid team, and dev dedication. 😂",SatoshiLite,128475,2018-02-01 18:27:41+00:00,Neutral
+131,"@nondualnelly @JasperCanyon22 I can't because that would be manipulation. Tell people that I sold, crash the market, and buy it back. Unfortunately, I won't do that. I will only buy it back after it's past ATH and it has achieved mass adoption. Then I can actually use the LTC to buy everything.",SatoshiLite,128506,2018-02-01 05:25:17+00:00,Neutral
+132,@Calhoun2rob @nondualnelly @btc_joe Find the higher point. I sold at $100 higher than that.,SatoshiLite,128508,2018-02-01 05:14:59+00:00,Neutral
+133,"@renDreamsBig @AhmedDragon25 @DavidDvn7011 @localconnect612 @SwanTokyo @igormonteiro It was not good for me to sell TBH. I had to give over 1/3 to the US government. Even if I bought back in today, I would have less LTC.
+
+I honestly to think that LTC will be worth a lot more than I sold it for and I'm working every day to help make that happen.",SatoshiLite,128548,2018-01-30 21:39:24+00:00,Neutral
+134,"@AhmedDragon25 @DavidDvn7011 @renDreamsBig @localconnect612 @SwanTokyo @igormonteiro I have sold LTC over the years. So, no i didn't time the market. I did what I felt was right. And yes, history will judge me after many years. I don't expect everyone to understand or agree with me. So be it.",SatoshiLite,128554,2018-01-30 21:26:32+00:00,Neutral
+135,@DavidDvn7011 @renDreamsBig @localconnect612 @SwanTokyo @igormonteiro You are dumb if you think LTC would be $300 right now if I didn't sold. That would make LTC/BTC over 0.03. LTC fell with the market.,SatoshiLite,128558,2018-01-30 21:18:44+00:00,Neutral
+136,@renDreamsBig @localconnect612 @SwanTokyo @igormonteiro I've sold a ton of coins before it was listed on Coinbase. Much more coins than I hodled.,SatoshiLite,128566,2018-01-30 20:54:49+00:00,Neutral
+137,"@RossFM That's not how market caps work. For every coin purchased by USDT, there's a coin sold by someone who wants USDT.",SatoshiLite,128577,2018-01-30 20:01:48+00:00,Neutral
+138,@hardmoneynow Correct. that's not a solution.,SatoshiLite,128643,2018-01-30 02:34:08+00:00,Neutral
+139,"@RemyMFoster @Crypto_goat_ @VinnyLingham It's because his reasoning is that Litecoin is a copy when so is Bcash. If his reasoning is because I sold, then I won't have anything to say, because that's a valid reason FWIW.",SatoshiLite,128807,2018-01-26 08:38:24+00:00,Neutral
+140,"@whatsupmans @aggregeousregis @LexSam_ @justinsuntron @Brad2pointO The evidence seems pretty compelling. The guy who sold had an account named justinpets. I was passing judgement. I just asked Justin and he says that a large investor of Tron is also named Justin. Like I said, I don't have a reason to doubt him.",SatoshiLite,128950,2018-01-21 05:29:27+00:00,Neutral
+141,@jratcliff @solitude_dude2 @_Kevin_Pham @brian_armstrong @coinbase @AdamDraper @fredwilson @cdixon @AsiffHirji @rsg What was the original tweet? I can't see it.,SatoshiLite,128964,2018-01-19 22:19:55+00:00,Neutral
+142,@TimothyBrake I didn't think it was anyone's business. I also didn't expect the price to keep dropping making it seem like I sold at the ATH. Hindsight is 20/20,SatoshiLite,129005,2018-01-17 07:58:47+00:00,Neutral
+143,"To those that claim that I sold at the ATH, I actually did not. I sold on 3 separate times: 12/8 @ ~$96, 12/11 @ ~$155, and 12/18 @ ~$350. The average price that I got was $205.
+
+It's nobody's business at what price I sold my LTC at, but I got tired of all the ""sold at ATH"" hate.",SatoshiLite,129012,2018-01-17 07:45:42+00:00,Neutral
+144,@SercanOkay Why not claim I sold for $500? Don't blame me for your trading losses. Please!,SatoshiLite,129015,2018-01-16 20:58:31+00:00,Neutral
+145,"If you want to hear why I sold LTC, watch this show! https://t.co/i1b7XdBPt8
+
+Hopefully we can put all of this behind us. Onwards and upwards! 📈🚀",SatoshiLite,129033,2018-01-11 21:10:12+00:00,Neutral
+146,"@DaPerzer @Bitfinexed @CryptoDP @CryptosQueen That would have been irresponsible IMO. People didn't know how much I have to sell and the fear would have crashed the market. What I sold didn't move the market, so announcing it afterwards was the right thing to do.",SatoshiLite,129034,2018-01-11 20:24:50+00:00,Neutral
+147,"@Edward_Hodlden @DoctorHODL @SatoshiotomakaN It was a misunderstanding and I have corrected it when it comes up. I sold some and donated some. I should have said ""donated and sold"" or said ""sold my LTC and donated all"" if I meant donated all.
+
+In the end, it's my business what I do with my LTC. Right?",SatoshiLite,129039,2018-01-11 19:19:04+00:00,Neutral
+148,"@thebrowninvestr How so? I responded to all his points. The only thing I didn't address is why I sold, which I addressed initially. If people don't believe me, there's not much else I can say.
+
+And yes, the whole article was garbage.",SatoshiLite,129050,2018-01-11 18:28:46+00:00,Neutral
+149,"@DaPerzer @CryptosQueen Bitfinexed is trying hard to make me look bad. I did not buy/sell LTC with insider new, but accusations of insider trading is impossible to disapprove and that's one of the reasons why I sold all my LTC in the first place.",SatoshiLite,129093,2018-01-11 00:22:24+00:00,Neutral
+150,@TheCryptoTea @justinsuntron Which Justin? The creator of Tron or the investor that owns justinpets and sold billions of TRON? 😂,SatoshiLite,129105,2018-01-10 23:00:01+00:00,Neutral
+151,"@brkben @kyletorpey @CoinJournal You just said I shouldn't be proposing any solution. SMH
+Please unfollow if you have no interest in what I have to say or do. Thanks.",SatoshiLite,129178,2018-01-09 21:09:05+00:00,Neutral
+152,@fizz34679145 @b1eeed @finitemaz I did when I sold them all.,SatoshiLite,129217,2018-01-06 18:54:25+00:00,Neutral
+153,@jeffkatz_ You sold because I tweet DBZ gifs? Maybe you shouldn't be investing in crypto currencies. Just saying.,SatoshiLite,129219,2018-01-06 18:52:05+00:00,Neutral
+154,"@bett_on2436 Google also acquired Motorola for $12.5B and sold it for $3B 2 years later.
+
+That said, I'm not saying anything bad about Ripple the company, just that no one uses XRP the currency. Banks use the Ripple technology and not the currency AFAIK.",SatoshiLite,129277,2018-01-04 11:07:26+00:00,Neutral
+155,@SlickyRicky83 It was like this even before I sold. It comes with having so many followers.,SatoshiLite,129278,2018-01-04 10:56:38+00:00,Positive
+156,@JavierSolano80 what do you mean factor of 350?,SatoshiLite,129303,2018-01-04 07:46:00+00:00,Neutral
+157,"@11_fm_11 Whichever coin went up, I definitely sold LTC for that coin. Because I know the future. SMH 🤦",SatoshiLite,129384,2017-12-31 01:32:42+00:00,Neutral
+158,"Seeing how people lost trust because I sold makes me more convinced that it was the right move. Litecoin was too centralized and dependent on me. Eventually, for Litecoin to succeed, I need to step away. But I promise I won't do that until I've helped LTC climb back past the ATH.",SatoshiLite,129388,2017-12-31 01:03:50+00:00,Neutral
+159,"Thanks @NicolasDorier for adding Litecoin support to BTCPay! A payment solution with BTC, LTC, Lightning, and cross-chain atomic swaps will be amazing. ⚡️🚀
+
+https://t.co/mcGmKmcrhy",SatoshiLite,129396,2017-12-29 20:19:45+00:00,Neutral
+160,@soldbids @keithnesbit Hype,SatoshiLite,129402,2017-12-27 23:36:30+00:00,Neutral
+161,@soldbids @keithnesbit What kind of idiot would buy bcash? Let alone for $8000?! 🤦,SatoshiLite,129405,2017-12-27 21:44:37+00:00,Neutral
+162,"I'm blocking anyone that complains that I've quit Litecoin because I sold my LTC and that I no longer have any skin in the game. If you really believe that, you don't really need to see my tweets anymore. Cheers! 😀 https://t.co/IsjdM22e7i",SatoshiLite,129417,2017-12-27 03:46:28+00:00,Neutral
+163,@The3EyedCrypto @Justinryanlane @VitalikButerin @ybthebest That's dumb. I just sold LTC even though I think it will be worth more in the future. It's just that not having a conflict of interest is worth more to me today. You won't understand because you think everyone is motivated by greed.,SatoshiLite,129440,2017-12-26 03:21:02+00:00,Neutral
+164,"@__pcd__ @cryptogawddd @VinnyLingham @civickey @bradmillscan @RSKsmart If you believe me when I said I sold my coins, why not also believe my intentions? Why accept one but not the other?",SatoshiLite,129454,2017-12-25 10:16:26+00:00,Neutral
+165,@henry_young Easy solution for you. Go invest in a coin where the creator is financially invested.,SatoshiLite,129475,2017-12-24 03:53:33+00:00,Neutral
+166,@MattH668 @MarketWatch The article is about Coinbase potential insider trading. The tweet says I sold because of that. There's no other way to read the tweet other than accusing that I did insider trading and now had to sell all my LTC because of it. 😠,SatoshiLite,129527,2017-12-20 19:18:39+00:00,Neutral
+167,@jaime_guisasola 2 BCH is stuck on Coinbase until today.,SatoshiLite,129535,2017-12-20 12:32:24+00:00,Neutral
+168,"@Psyvax @callumadamson @litecoin No, I've sold almost all my other coins also.",SatoshiLite,129553,2017-12-20 11:03:57+00:00,Neutral
+169,"@DaPerzer @aantonop If Andreas sold, Bitcoin dies?",SatoshiLite,129554,2017-12-20 10:58:37+00:00,Neutral
+170,@loshan1212 @mikeodysseos That's is correct. Price went up after I sold.,SatoshiLite,129568,2017-12-20 10:22:28+00:00,Neutral
+171,@Jamesjimjimmy @lschnellmann @jaytez3 @coinbase Sold on GDAX,SatoshiLite,129606,2017-12-20 05:24:08+00:00,Neutral
+172,@SammyCryptoJr @mikeopoly @coinbase How else would I have sold the coins?,SatoshiLite,129607,2017-12-20 05:23:15+00:00,Neutral
+173,@daldeegs @Royal_Dew I sold on GDAX and showed the screenshot.,SatoshiLite,129616,2017-12-20 04:07:24+00:00,Neutral
+174,I sold my 2 BCH on GDAX before they halted trading. I can't believe people think I'm trying to manipulate people to buy bcash. Have you been following me on Twitter at all?! 🤦‍♂️ https://t.co/MN05G1u1XT,SatoshiLite,129621,2017-12-20 03:25:15+00:00,Neutral
+175,"To those saying I bought BCH with insider news, please stop. I had no info. I sold all the BCH I can the moment it was tradable on exchanges. And j just sold my 2 stuck BCH on Coinbase at $5000 each. Good riddance!",SatoshiLite,129627,2017-12-20 01:53:59+00:00,Positive
+176,"@USAObserver @GDAX When crypto goes up too fast, it overshoots its real value. So a bear market to consolidate is normal. How long and how large is anyone's guess.",SatoshiLite,129905,2017-12-11 23:24:20+00:00,Neutral
+177,"Every crypto bull run I've seen has been followed by a bear cycle. The market needs time to consolidate. That's just my experience from 7 years of watching this space.
+
+How low and how long it will be is TBD. People need to be aware of this possibility and invest responsibly. https://t.co/ozcR11N68o",SatoshiLite,129907,2017-12-11 23:07:15+00:00,Neutral
+178,@CTexplore @GDAX Every pump I've seen has been followed by a bear cycle. The market needs time to consolidate. That's just my experience from 6+ years of watching this space. How low and how long it will be is unclear. But people need to be aware of this possibility.,SatoshiLite,129908,2017-12-11 23:04:00+00:00,Neutral
+179,"Fiat is to gold as lightning network is to Bitcoin.
+
+Fiat was effectively a layer 2 solution to scaling gold. It was backed and settled to gold until that backing was removed. Unlike fiat though, LN's settlement to Bitcoin is cryptographically secured and cannot be removed!",SatoshiLite,129964,2017-12-10 20:19:31+00:00,Positive
+180,@CryptoKang @Talej @elonmusk @ThisIsSandeepG @coinbase Litecoin already has 4x the blocksize. It doesn't scale better but scales with Bitcoin via LN and other 2nd layer solutions.,SatoshiLite,130174,2017-11-28 07:30:26+00:00,Neutral
+181,"@RobLobasso @VinnyLingham @alansilbert @PeterRizun @spair @OneMorePeter @ProfFaustus 1) No. There's the transaction malleability bug in Bitcoin. SegWit solves this and many other issues including a scaling bump with a softfork.
+
+2) No. It was supposed to be safely increased with consensus. We don't have consensus today to increase it obviously.",SatoshiLite,130204,2017-11-28 04:57:24+00:00,Neutral
+182,@WallStPromo @CNBCFastMoney Solid no. Lol,SatoshiLite,130214,2017-11-28 02:55:39+00:00,Neutral
+183,@Raymond38100071 @dc77ae00b817435 It's the new classic console released by nintendo,SatoshiLite,130291,2017-11-24 21:03:45+00:00,Neutral
+184,"@VitalikButerin @bobbyclee @roasbeef I agree that based on current understandings, BTC block size will need to increase also. But I like to err on not doing a HF unless absolutely necessary.
+
+And yes, Litecoin is 4x the blocksize already.",SatoshiLite,130419,2017-11-17 00:18:45+00:00,Neutral
+185,"@lightning LN atomic swaps are much better than on-chain ones because it's instantaneous, low fees, and preserves privacy. 2nd layer off-chain solutions like LN are only practical with a transaction malleability fix like SegWit. So thanks to everyone's hardwork on getting SegWit activated! https://t.co/WcMzzZ1GcM",SatoshiLite,130426,2017-11-16 23:15:38+00:00,Neutral
+186,"I believe you guys have been waiting for this!
+
+Now that Segwit2x is canceled and SegWit haters have their own coin to play with, it's full steam ahead with scaling Bitcoin/Litecoin with LN and other 2nd layer scaling solutions! https://t.co/rOTC1ukprl",SatoshiLite,130430,2017-11-16 21:50:43+00:00,Neutral
+187,"@VitalikButerin @bobbyclee There are indeed some concerns with this attack vector of LN, but there are also a lot of potential solutions like timestops, pre-allocating block spaces, etc. See this message from @roasbeef: https://t.co/SFVCEK5vaD",SatoshiLite,130455,2017-11-16 15:28:53+00:00,Neutral
+188,"Fun fact: Every Bitcoin developer also works on Litecoin. Absolutely nothing they can do about that! 😀
+
+If you don't like that Litecoin piggybacks off of Bitcoin developers' hard work, it is because you care more about Bitcoin making you rich than crypto changing the world. 🤔 https://t.co/WSwss7aFWl",SatoshiLite,130586,2017-11-15 01:34:25+00:00,Neutral
+189,@junlaure I sold all my BCH soon after launch.,SatoshiLite,130668,2017-11-13 09:21:17+00:00,Neutral
+190,"@ryanxcharles @Rubicon_X @nomadiklyfe Sure, but understand that scaling onchain for every transaction is externalizing the cost to the network. Payment channels is a much better solution for you. Yes, it's more work, but it scales.",SatoshiLite,130818,2017-11-09 18:25:22+00:00,Positive
+191,"@Rubicon_X @ryanxcharles @nomadiklyfe Where's your proof? A lot of people, like me, have sold all our BCH.",SatoshiLite,130825,2017-11-09 18:10:38+00:00,Neutral
+192,"2/ Instead, they keep pushing for onchain scaling, which externalizes the cost to everyone else that's part of this decentralized network. I'm calling all of you out right now. Do the right thing. Implement SegWit and work on Lightning Network and other layer 2 solutions.",SatoshiLite,130859,2017-11-09 16:32:11+00:00,Neutral
+193,"@kochelli @petertoddbtc @Excellion Yeah, but in this case, the car was sold without a steering wheel. 😛",SatoshiLite,130899,2017-11-08 17:04:57+00:00,Neutral
+194,@th1nkhard_ All academic papers are written like this even if sole author.,SatoshiLite,130910,2017-11-08 05:49:41+00:00,Neutral
+195,"@CallMeGwei @MrJavo Agreed, but Solidity language is not very good for writing contracts that are free of bugs. Very poor actually.",SatoshiLite,130938,2017-11-07 21:02:30+00:00,Neutral
+196,"@Duduqa1 @Excellion @theonevortex @WhalePanda Yeah, I've sold most mine to Roger and on Bitfinex",SatoshiLite,130970,2017-11-07 04:06:29+00:00,Neutral
+197,@ichundes @TheRealXinxi @estebs @ProfFaustus @barrysilbert That's an off chain solutions where you have to trust a third party. You can't compare that to using a trustless solution like Litecoin.,SatoshiLite,130998,2017-11-06 10:10:41+00:00,Neutral
+198,@LukeDashjr @ichundes @Joe_wants_BTC @ProfFaustus @andzsy @Egon_01 @ColinAd33006332 Litecoin is one of Bitcoin's scaling solution. But your brain would never let you understand that. Oh well.,SatoshiLite,131022,2017-11-06 06:27:49+00:00,Neutral
+199,@solitude_dude2 I sure hope so! 😂,SatoshiLite,131301,2017-10-30 20:20:30+00:00,Positive
+200,@SHodyEsq @ergophobe @DavidSilvaSmith @alansilbert @rogerkver Please wait for LN and other layer 2 and off chain solutions. Rome is not built in a day. And not everyone needs to use onchain txns.,SatoshiLite,131388,2017-10-28 00:44:06+00:00,Neutral
+201,"@spm4313 @ergophobe @DavidSilvaSmith @alansilbert @rogerkver It didn't have to include a scaling bump, but it did. LN is ALSO a scaling solution.",SatoshiLite,131406,2017-10-27 23:02:32+00:00,Neutral
+202,@boinloinmcbutt @alansilbert @DavidSilvaSmith @rogerkver @haydentiff 2nd layer and offchain solutions if perfectly fine for most people.,SatoshiLite,131417,2017-10-27 22:14:31+00:00,Neutral
+203,@beijingbitcoins @GaravagliaJuan First statement is your hope. Second statement is wrong. Fix is in layer 2 solutions like LN.,SatoshiLite,131555,2017-10-17 09:02:21+00:00,Neutral
+204,"@RichMartel @mikerelentless @timoncc @SirGrantFleming Transaction malleability prevents layered transactions, needed by layer 2 solutions. So it's anything but small.",SatoshiLite,131598,2017-10-13 21:05:28+00:00,Neutral
+205,@ryanxcharles @exiledsurfer @theonevortex That is absolutely not true. Fees are similar. Just check this: https://t.co/bT8zSwMbsO,SatoshiLite,131739,2017-10-03 02:53:50+00:00,Neutral
+206,@Mat_Smith @rogerkver They are absolutely wrong. Time will tell I guess.,SatoshiLite,131787,2017-10-02 04:04:56+00:00,Negative
+207,@thetrippinchimp Hey your profile pic reminds me of a SolidCoin supporters from years back. Are you?,SatoshiLite,131795,2017-10-01 22:59:28+00:00,Neutral
+208,@Fuzzi_Logic @JanMichaelDavid SegWit is the agreed upon scaling solution and it's already working. Segwit2x is no good.,SatoshiLite,131904,2017-09-29 00:17:29+00:00,Positive
+209,4/ One more thing. 😀 Exchange ban is still absolutely true. Just not banning mining and the network. And not clear about OTC ban. /RealEnd,SatoshiLite,132180,2017-09-22 03:29:23+00:00,Neutral
+210,@jimmysong @solomonFanetti Why would it be inflationary? It doesn't change the economics of the coins. It's not a 1 for 1 swap.,SatoshiLite,132202,2017-09-21 16:43:50+00:00,Neutral
+211,One solution to centralized exchanges is decentralized ones. I hear the @decredproject team has something cooking that helps with that! 😁🚀,SatoshiLite,132280,2017-09-14 18:54:12+00:00,Neutral
+212,"@tedmrogers @VinnyLingham @haq4good @LarryBitcoin @estebs @darok @fogg49 PayPal is just an example. There are other equivalent ones like MPESA. The point is, there are good centralized solutions.",SatoshiLite,132379,2017-09-07 16:22:53+00:00,Positive
+213,@solomonFanetti thanks!,SatoshiLite,132461,2017-09-06 12:53:53+00:00,Neutral
+214,"@giannet4 @AriDavidPaul @rogerkver For large payments, yes. For small payments, BTC is not the best for it. This argument is that layer 2 solutions are better suited.",SatoshiLite,132481,2017-09-06 03:43:58+00:00,Neutral
+215,@blockchain_u Wait for 2nd layer solutions like lightning networks.,SatoshiLite,132560,2017-09-03 23:17:01+00:00,Neutral
+216,@Soleil_dusoir9 Sorry 😀,SatoshiLite,132665,2017-08-27 08:54:59+00:00,Negative
+217,"@shuhunikim I'm biased because I created Litecoin. That said, I sold all my BCH and bought LTC with it.",SatoshiLite,132667,2017-08-27 08:27:57+00:00,Neutral
+218,"@Soleil_dusoir9 How many is a few hours? From my calculation, if lucky it will take almost 24 hours before it starts adjusting. And that's optimal condition",SatoshiLite,132671,2017-08-27 08:15:28+00:00,Neutral
+219,@Soleil_dusoir9 You have no idea how EDA works. I'm not the one misinformed. I will stop responding to trolls now.,SatoshiLite,132675,2017-08-27 08:01:32+00:00,Neutral
+220,@Soleil_dusoir9 It will take longer than that. BCH miners have not even found 1 block yet.,SatoshiLite,132677,2017-08-27 07:47:58+00:00,Neutral
+221,"@Soleil_dusoir9 That would be a guess and I don't believe that. When people start to use SegWit, it will help. And now that all miners are back, fast blocks",SatoshiLite,132679,2017-08-27 07:39:28+00:00,Neutral
+222,@Soleil_dusoir9 Weird use of word disinformation. My post was just about BCH and that blocks will take hours. Nothing to do with BTC.,SatoshiLite,132680,2017-08-27 07:34:43+00:00,Negative
+223,@Soleil_dusoir9 It's not disinformation. It's true. No blocks in more than 3 hours now.,SatoshiLite,132681,2017-08-27 06:55:56+00:00,Neutral
+224,@paulee_paul Yes. Via layer 2/3 solutions like lightning network and others. Doing it on chain is a pipe dream. Some one has to pay the fees!,SatoshiLite,132685,2017-08-25 22:25:52+00:00,Neutral
+225,"@juanansolis If pools could game the chain and mine 2 weeks worth of blocks in 2 days, then there will be a lot do coins created. Increased inflation.",SatoshiLite,132721,2017-08-23 23:36:05+00:00,Neutral
+226,"@phil_exe IMO, not worth it. I have sold all my BCH.",SatoshiLite,132905,2017-08-18 23:26:19+00:00,Neutral
+227,"@iPayYouWallet @WhalePanda No, nobody said that about Bitcoin. Bitcoin is not competing with another larger coin for hashrate. And no, Bcash does not solve scalability",SatoshiLite,133150,2017-08-05 06:00:24+00:00,Neutral
+228,@erich_inuri @HanSoloBanane That was sarcastic if you couldn't tell,SatoshiLite,133156,2017-08-05 04:33:02+00:00,Neutral
+229,@HanSoloBanane That I'm sure. Crypto is never boring.,SatoshiLite,133157,2017-08-05 04:12:23+00:00,Positive
+230,@m4x_ch Noooooo! I haven't sold my BCH yet. 😀,SatoshiLite,133165,2017-08-04 22:28:19+00:00,Neutral
+231,"Lastly, not having RBF doesn't solve double spends issue. A coin w/ periodic long confirms isn't one that can be used for payments. Not cash",SatoshiLite,133169,2017-08-04 22:07:10+00:00,Neutral
+232,This comment by /u/supermari0 (on reddit) is absolutely spot on! And it's the reason why the core devs refuse to sacrifice decentralization. https://t.co/m0brdzG8iZ,SatoshiLite,133346,2017-07-27 09:04:50+00:00,Neutral
+233,@yosoyelmauricio @Excellion My point is that even Gavin can make an error with Solidity coding. So mere mortals will make more.,SatoshiLite,133465,2017-07-24 20:41:57+00:00,Negative
+234,@BobbyGriz Yes. Also fix Solidity to be more security conscious.,SatoshiLite,133517,2017-07-20 05:08:12+00:00,Neutral
+235,"In Solidity, the default scope of a function is public. So it's very easy for a coder to forget to set a scope and introduce a HUGE bug.",SatoshiLite,133539,2017-07-19 22:46:09+00:00,Neutral
+236,Gav is not the person that updated the original code. My main point is that writing smart contract with Solidity is error-prone. Be careful! https://t.co/wNatrX71nq,SatoshiLite,133540,2017-07-19 22:45:18+00:00,Neutral
+237,@bitstud ETC has the same problem. Hard to write secure smart contract code in Solidity.,SatoshiLite,133547,2017-07-19 22:21:45+00:00,Neutral
+238,"@vtbradle @Cryptology20 @SaleSanctuary @VitalikButerin From what I can tell, Solidity is a very bad programming language to write secure smart contract code in.",SatoshiLite,133549,2017-07-19 22:17:23+00:00,Neutral
+239,"@Cryptology20 @SaleSanctuary @VitalikButerin The fact that the creator cannot write a secure wallet code in Solidity, means that it's hopeless for us all.",SatoshiLite,133551,2017-07-19 22:11:34+00:00,Neutral
+240,"If the creator of Solidity, Gavin Wood, cannot write a secure multisig wallet in Solidity, pretty much confirms Ethereum is hacker paradise. https://t.co/WAR3eltfWl",SatoshiLite,133571,2017-07-19 21:11:20+00:00,Neutral
+241,@psyburr @Excellion @bobbyclee Bitcoin IS NOT defined solely by longest most work chain. The chain has to be valid.,SatoshiLite,133592,2017-07-19 03:23:06+00:00,Neutral
+242,"@DeepVektor @xchrisnoonanx Yes, but I didn't say keeping from being full forever. Still TBD what the optimal solution is for blocks fullness and fee market.",SatoshiLite,133742,2017-07-09 03:53:53+00:00,Neutral
+243,@xchrisnoonanx I didn't agree to that. Just agreed to work on a scaling solution when blocks are half full.,SatoshiLite,133760,2017-07-08 15:16:44+00:00,Neutral
+244,"@zentagonist Oh, so you still think SegWit is mainly a block size solution?",SatoshiLite,133793,2017-07-08 07:42:28+00:00,Neutral
+245,Firing the Bitcoin Core devs makes absolutely no sense. I question the motives of people that want to fire the devs. https://t.co/NzWSfGH5um,SatoshiLite,133839,2017-07-06 18:23:47+00:00,Neutral
+246,@WhalePanda @krnguyx012 @fluffypony I don't. I did own XMR but sold it recently. Might buy it back in the future.,SatoshiLite,133853,2017-07-04 13:26:48+00:00,Neutral
+247,"Congratulations to @cybourgeoisie for solving the puzzle and getting 230 LTC! 🎉
+Solution is based on a 16x16 bitmap: https://t.co/xvOhIEJDfr https://t.co/0K9AdJcr0K",SatoshiLite,134090,2017-05-24 15:50:41+00:00,Neutral
+248,"@andzsy Link is broken for me.
+
+SegWit on solves txn maleability for SegWit transactions. So use it if you need it.",SatoshiLite,134097,2017-05-20 16:37:58+00:00,Neutral
+249,"I cannot believe you are saying this, @rogerkver! SegWit doubles capacity, solves txn mallea, fixes quad hash, allows Schnorr compact sigs. https://t.co/5bSzyCHt4U",SatoshiLite,134113,2017-05-17 18:17:00+00:00,Neutral
+250,Solution: (This is not a brainwallet. Private key is the Bitcoin equivalent of the Litecoin private key in the hint.) https://t.co/qjXvr54hSq,SatoshiLite,134144,2017-05-15 05:44:41+00:00,Neutral
+251,Solution: 53e0af7626f7f51ce9f3b6cfc36508a5b1d2f6c4a75ac215dc079442692a4c0b (https://t.co/r9PGf6TQRM),SatoshiLite,134148,2017-05-15 04:54:31+00:00,Neutral
+252,Solution: YOU GET SEGWIT. AND YOU GET SEGWIT. EVERY COIN GETS SEGWIT! (https://t.co/xoQox0Dcrc),SatoshiLite,134150,2017-05-15 03:38:31+00:00,Neutral
+253,"Solution: The secret passphrase of the puzzle
+
+:p",SatoshiLite,134158,2017-05-15 02:53:47+00:00,Neutral
+254,"Solution: I, Charlie Lee, am the creator of Litecoin (The message I signed to prove I created Litecoin)",SatoshiLite,134159,2017-05-15 02:52:52+00:00,Neutral
+255,Solution: It's $4. It's always $4€ (Telegram bot response),SatoshiLite,134169,2017-05-15 01:34:17+00:00,Neutral
+256,"Solution: 40,338.34441635 LTC",SatoshiLite,134170,2017-05-15 01:24:35+00:00,Neutral
+257,.@SpellsofGenesis Solution: silver to bitcoin’s gold,SatoshiLite,134172,2017-05-15 01:13:28+00:00,Neutral
+258,Solution: let there be lite (Genesis 1:3),SatoshiLite,134173,2017-05-15 01:13:05+00:00,Neutral
+259,"Solution: NY Times 05/Oct/2011 Steve Jobs, Apple’s Visionary, Dies at 56 (Litecoin's genesis message)",SatoshiLite,134174,2017-05-15 01:12:41+00:00,Neutral
+260,Solution: Today's a good day because I got a new guinea pig! (My troll tweet when Litecoin launched on GDAX),SatoshiLite,134175,2017-05-15 01:12:25+00:00,Neutral
+261,Solution: LET THE CHIKUN GO (https://t.co/pMUyyiXJUW),SatoshiLite,134176,2017-05-15 01:11:48+00:00,Neutral
+262,"@BBoyesWines @Zd3N The solution is a private key to the prize address. If you have that, then just take the coins",SatoshiLite,134194,2017-05-13 20:35:05+00:00,Neutral
+263,@61IsmailYvz Your solution will be the private key that will let you take those coins. So just take the coins!,SatoshiLite,134203,2017-05-12 19:04:04+00:00,Neutral
+264,@VinnyLingham SegWit is not just a scaling solution though! It's great technology. We should adopt it even if we do something more for scaling.,SatoshiLite,134292,2017-05-04 17:44:36+00:00,Positive
+265,@Mansa_Godson PoS is not a great solution.,SatoshiLite,134349,2017-04-26 23:33:35+00:00,Positive
+266,Bitcoin and Litecoin's Achilles heel is miner hardware and pool centralization. This is a clear and present danger. No good solution. 😔 https://t.co/VeOhia7kGR,SatoshiLite,134350,2017-04-26 23:22:07+00:00,Neutral
+267,"Lightning Network solves both these problems for Bitcoin and SegWit solves a few more!
+
+i hope Litecoin can help Bitcoin get SegWit soon.",SatoshiLite,134514,2017-04-16 07:27:27+00:00,Neutral
+268,@DipierroAnthony Most would agree that a split chain loses a lot of the network effect. But sometimes that's the best way to resolve a civil war.,SatoshiLite,134559,2017-04-11 01:47:58+00:00,Neutral
+269,"@gochaita I went to MIT, so the math is solid!",SatoshiLite,134704,2017-04-04 03:12:44+00:00,Neutral
+270,"@rubicon59 Basically, risking the war to win a battle. Be patient, Lighting Network and other L2 solutions can compete with Visa eventually.",SatoshiLite,134778,2017-03-27 09:45:53+00:00,Positive
+271,"@ArNazeh Governance cannot be easily solved, unfortunately.",SatoshiLite,134782,2017-03-27 06:25:22+00:00,Neutral
+272,@BarrioFinito DCR solves governance and I'm sure Vinny knows about Litecoin.😂,SatoshiLite,134855,2017-03-17 20:02:05+00:00,Positive
+273,"@VinnyLingham Vinny, checked out Decred? One of the few coins I'm excited about with an innovative solution to decentralized governance.",SatoshiLite,134870,2017-03-16 03:14:32+00:00,Neutral
+274,10/ The only solution to this problem is for the BU team to release code that locks in a block after the fork has taken place.,SatoshiLite,135033,2017-03-09 03:08:20+00:00,Neutral
+275,9/ There is absolutely no way I would let GDAX make the reckless decision of supporting BU code as is.,SatoshiLite,135034,2017-03-09 03:08:13+00:00,Neutral
+276,@orphanblok @Bulldozer0 @rogerkver @AlpacaSW you still only see SegWit as a blocksize solution? Why would Litecoin need larger blocks? Think,SatoshiLite,135055,2017-03-08 19:45:23+00:00,Neutral
+277,@SatoshiLite Only do it if you will die otherwise. Doing It for an upgrade that is not absolutely required is dangerous and dumb.,SatoshiLite,135089,2017-03-07 18:56:03+00:00,Neutral
+278,A HF is like a heart transplant with a chance of ending up w/ a clone of yourself. #moralhazard Let's not do it unless absolutely necessary!,SatoshiLite,135090,2017-03-07 18:54:52+00:00,Neutral
+279,"@catsfive @rogerkver With SegWit, a lot of then become worth consolidating again. Maybe @rogerkver should support SegWit.",SatoshiLite,135099,2017-03-06 23:12:19+00:00,Neutral
+280,"Lots of fighting between SegWit and BU folks today on Twitter. Getting to a breaking point. I have a solution...
+
+Activate SegWit! 😉",SatoshiLite,135119,2017-03-04 01:13:47+00:00,Neutral
+281,Another great article by @AaronvanW! The key is that UASF is only a solution if the economic majority of the community is behind it. https://t.co/1mlKLsDZnT,SatoshiLite,135134,2017-03-03 17:12:03+00:00,Neutral
+282,@KingSolomonMine @theonevortex @derosetech @ToneVays @fluffyponyza For-profit startup. I wonder what the business model was. 🤔,SatoshiLite,135138,2017-03-03 16:55:31+00:00,Neutral
+283,@KingSolomonMine @theonevortex @derosetech @fluffyponyza @ToneVays That's a lie. They changed the difficulty calculation and screwed it up.,SatoshiLite,135141,2017-03-03 16:34:06+00:00,Neutral
+284,@LokiSullivan SegWit is a first step to solve a lot of scaling problems. It's also an optional feature. A lot of people want it.,SatoshiLite,135156,2017-03-02 05:23:47+00:00,Neutral
+285,@DenizOmer Bitcoin and Litecoin will work together with cross-chain Lightning Network to solve scalability. There's that...,SatoshiLite,135192,2017-03-01 07:59:53+00:00,Neutral
+286,"@wurstgelee but, but, but... these solutions are looking for a problem!",SatoshiLite,135211,2017-02-28 20:25:04+00:00,Neutral
+287,"@digitsu @jgarzik If I invested millions in mining hardware that become obsolete in 6 months, I wouldn't take risks on the 10% fees revenue.",SatoshiLite,135221,2017-02-28 10:05:16+00:00,Neutral
+288,No way miners care about long term fees 2 yrs later when current ASICs that they are using will be obsolete in 6 months.,SatoshiLite,135273,2017-02-28 00:10:58+00:00,Neutral
+289,"@KingSolomonMine unfortunately, the page is showing wrong stats. 🙁",SatoshiLite,135327,2017-02-17 16:30:21+00:00,Negative
+290,I chatted with the large solo Litecoin miner LYSjBteSBU (12.5% of network). He supports SegWit and will update his software to signal soon! https://t.co/Ma7fWQ6OHx,SatoshiLite,135402,2017-02-10 11:57:12+00:00,Neutral
+291,Switching a coin's PoW to another consensus solution is like a spinal transplant. Good luck @ethereumproject! 🙈😁,SatoshiLite,135426,2017-02-09 18:01:48+00:00,Positive
+292,That's like saying balancing the budget is a non-starter unless global warming is *permanently* solved. #BULogic https://t.co/41lXs7OdFN,SatoshiLite,135442,2017-02-09 16:11:35+00:00,Neutral
+293,@vakeraj @digitsu @21Satoshi21 That's like saying balancing budget is a non-starter unless global warming is *permanently* solved #BULogic,SatoshiLite,135443,2017-02-09 16:11:07+00:00,Neutral
+294,"@digitsu @paul_btc @Technom4ge @CharlieShrem @bendavenport @gavinandresen to me, it proved it to be absolutely true.",SatoshiLite,135517,2017-02-08 00:50:13+00:00,Neutral
+295,@TheBlueMatt @Satoshi_N_ @kyletorpey @gavinandresen we are trying to solve the Byzantine General's problem and hashrate is the best proxy.,SatoshiLite,135525,2017-02-07 22:37:15+00:00,Positive
+296,This is a puzzle with a nice $1000 reward to the solver. If only I had time for this! https://t.co/1AqIt1uNx3,SatoshiLite,135614,2017-02-04 01:45:06+00:00,Positive
+297,3/ (A) A lot of coins are solutions looking for a problem or just don’t bring enough innovation.,SatoshiLite,135674,2017-02-02 21:52:52+00:00,Neutral
+298,@SooMartindale @lopp BU complexity solves 1 tiny issue with blocksize. Segwit complexity solves 10+ issues &amp; opens up lots of possibilities.,SatoshiLite,135708,2017-01-30 22:42:14+00:00,Neutral
+299,@andzsy @lopp did you think SegWit is a scaling solution? You've been misled. It's a txn maleability fix with a small increase in blocksize.,SatoshiLite,135751,2017-01-28 04:39:31+00:00,Neutral
+300,This article explains clearly why Bitcoin Unlimited's Emergent Consensus is seriously broken and one of the worst proposal to solve scaling. https://t.co/1cz4ZIubLk,SatoshiLite,135792,2017-01-27 19:17:37+00:00,Neutral
+301,Watching this box create litecoins out of thin air seems like magic. The sole purpose of this machine is to dig out buried LTC (and DOGE!) 😉 https://t.co/pXd3bNqIVY,SatoshiLite,135879,2017-01-19 19:33:37+00:00,Neutral
+302,"@fluffyponyza @Excellion and maybe newly mined coins can stay public. But once it goes CT, it becomes private. Might be a simple solution.",SatoshiLite,135890,2017-01-15 03:47:55+00:00,Neutral
+303,@customminer You do not want SegWit because it's not the scaling solution you want? You are missing the point of my post.,SatoshiLite,135996,2017-01-06 10:55:53+00:00,Neutral
+304,"@dgenr818 Were you not responding to my ""think of SegWit as not a scaling solution"" post? Could you still not separate the two?",SatoshiLite,136004,2017-01-06 10:23:58+00:00,Neutral
+305,"If SegWit didn't include a scaling bump and isn't a scaling solution at all, there will be less opposition. Sad because it's all political.",SatoshiLite,136011,2017-01-06 09:45:26+00:00,Neutral
+306,"@digitsu @_drgo If I was advocating separate solutions for BTC/LTC, then you have a point. But I'm not. I'm pushing for SegWit on both coins",SatoshiLite,136023,2017-01-06 09:05:29+00:00,Neutral
+307,@BlockInTheChain @mdotbit The right way is a hardfork? There's absolutely no consensus as we can see. Do you want another ETC disaster?,SatoshiLite,136081,2017-01-06 01:11:33+00:00,Neutral
+308,"Let's activate SegWit! Maybe not the full scaling solution you want, but it does a ton of good stuff today and enables lightning networks.",SatoshiLite,136090,2017-01-06 00:21:41+00:00,Positive
+309,Ledger Nano S are sold out everywhere except at the Litecoin Association Store. It's only 13 LTC or $57: https://t.co/f2yW71Mp0a @LedgerHQ,SatoshiLite,136118,2017-01-05 16:46:44+00:00,Neutral
+310,"@kristovatlas Quite a lot of funds are in MV. Unfortunately not enough, as even this simple solution is too hard for most people to use.",SatoshiLite,136157,2016-12-06 21:58:31+00:00,Neutral
+311,"@kristovatlas You are mistaken, for multisig vaults, users have total and sole control of their coins. Hacking Coinbase cannot steal them.",SatoshiLite,136158,2016-12-06 21:57:25+00:00,Neutral
+312,@Norcal1916 It will be available for sale real soon. It will be sold from the @LitecoinAssoc site.,SatoshiLite,136192,2016-09-23 07:34:15+00:00,Neutral
+313,@juscamarena @GDAX We denominate in the base currency because that's how much of that currency was bought/sold. It's an easy conversion.,SatoshiLite,136222,2016-08-30 21:08:47+00:00,Neutral
+314,This is a stepping stone to true freedom of money. Solving the chicken &amp; egg problem one chicken (or egg) at a time. https://t.co/kU0gXgHmtq,SatoshiLite,136351,2015-11-20 17:30:05+00:00,Neutral
+315,@adam3us #litecoin not obsoleted by side chains. Litecoin = alternate secured blockchain. Solves SPoF of Bitcoin.,SatoshiLite,136493,2014-04-13 16:59:50+00:00,Neutral

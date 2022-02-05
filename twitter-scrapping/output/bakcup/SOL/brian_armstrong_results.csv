@@ -1,0 +1,30 @@
+,user,date,tweet,polarity,valueDelta,volume,volumeDelta
+0,brian_armstrong,2021-04-23,"The article doesn't cover energy usage - but have seen some other good comments about the abundant amount of solar energy that hits earth each day.
+
+Seems like it would take us very far, even without advances like fusion.",Positive,-1.9207616700000045,1612232268.31,-26390702.53999996
+1,brian_armstrong,2021-10-06,"4/ Of course, every company deserves to have scrutiny and should take an honest look at what it's doing well and not well, but the market solves a lot of this for us. People vote with their wallet, choosing what to buy.",Positive,-10.497449479900013,3259712886.76,718625467.5600004
+2,brian_armstrong,2022-01-01,"Square published this great paper on Bitcoin energy usage.
+https://t.co/02Ka8gGpZw
+In short:
+1. Wind and solar are already cheaper than fossil fuels, making them attractive for Bitcoin miners",Positive,8.207102038399995,1084780602.67,-483138216.8299999
+3,brian_armstrong,2021-01-04,"I forgot to mention Oculus Quest 2, M1 chip from Apple, 5G rollout, self driving, synthetic meat, improvements in batteries/solar, longevity, etc etc.",Neutral,0.32268529999999984,59955404.84149402,-55073422.17629275
+4,brian_armstrong,2021-04-23,"2. The main drawback for most energy consumers is wind/solar are intermittent, but Bitcoin miners don't care about this since they can run any time
+
+Essentially, Bitcoin mining creates a floor on the price of renewables, making them more attractive investments.",Neutral,-1.9207616700000045,1612232268.31,-1638622970.85
+5,brian_armstrong,2021-06-09,"The latest iteration of our culture doc is now live @coinbase https://t.co/IdMwhOg4dI
+
+Previously we had separate values and a culture doc. We've consolidated it into one, and made it more concise. Important to get hiring and promos right as we keep growing quickly!",Neutral,0.7519848299999978,1218831040.77,-1786996802.01
+6,brian_armstrong,2021-07-15,"1/ All depends on your perspective...if you believe the government should be the solution to people's problems, then the fiat system with its ""controls"" has a lot to offer. https://t.co/JCwhQW9nLT",Neutral,-2.908599259999999,329918375.91,-331866434.17
+7,brian_armstrong,2021-07-15,"2/ If you believe government solutions are often inefficient, overpromise/underdeliver, and come with unintended consequences, and that personal responsibility mixed with free markets will create better outcomes for everyone, then crypto is a much needed breath of fresh air.",Neutral,-2.908599259999999,329918375.91,-331866434.17
+8,brian_armstrong,2021-07-15,"7/ Crypto is not going to solve wealth inequality - it's not trying to create the same outcome for everyone. But it does create wealth mobility and more equality of opportunity for everyone. It levels the playing field, at least to some degree.",Neutral,-2.908599259999999,329918375.91,-331866434.17
+9,brian_armstrong,2021-08-10,"2/ Senator @RonWyden has been a stalwart in advancing sound tech policy, and he deserves enormous thanks and praise from the American people for his leadership and resolve in pushing for sensible crypto provisions in the infrastructure bill.",Neutral,1.9609874399999967,452480699.44,-377034585.33
+10,brian_armstrong,2021-08-18,"Meanwhile China is making great progress on their CBDC. The U.S. government should rely on the private industry to produce the solutions here, while it sets the regulatory frameworks. The U.S. already has a number of private industry solutions, just needs to embrace them.",Neutral,8.374960709999996,4507409621.92,-4043742154.18
+11,brian_armstrong,2021-09-10,"The US is absolutely the best place to build crypto innovation if we can get it right.
+And American citizens (and voters!) overwhelmingly want it. https://t.co/PMNstouJGo",Neutral,-7.747573100000011,7087524572.21,-12676272744.01
+12,brian_armstrong,2021-09-29,"The other option is sensible/thoughtful regulation, hopefully we help propose some solutions here https://t.co/kfw59KNdoo",Neutral,3.0129272657999877,2428105039.64,-2422542860.99
+13,brian_armstrong,2021-09-30,"We've now met with 30+ crypto firms, 25+ members of congress and/or staff, 4 major law firms, and 3 trade groups about our regulatory proposal for crypto. Our policy team is doing great work and we're trying to be part of the solution. https://t.co/kfw59KNdoo",Neutral,5.65614904169999,2244376110.09,-2428105039.64
+14,brian_armstrong,2021-10-14,Hopefully this proposal is constructive and is a part of the solution. Here’s an overview of the proposal from our Chief Policy Officer @faryarshirzad https://t.co/NZwLfK5kaf,Neutral,1.7395401785000217,1948101207.59,-2105226551.13
+15,brian_armstrong,2022-01-08,"1. For NFTs, some keep their data in IPFS (decentralized file storage) or in the smart contract itself for procedurally generated images. We (as a community) should probably move more to solutions like this over time, since it is indeed more decentralized to build them that way.",Neutral,6.113294910199983,2730000333.42,-2926269671.99
+16,brian_armstrong,2022-01-08,"his version stores all the data for the art on chain which is great (more decentralized), solving one of the issues he highlights in his post
+
+i would expect this to be widely copied and iterated on (could go lots of places from here)",Neutral,6.113294910199983,2730000333.42,-2926269671.99

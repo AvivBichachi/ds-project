@@ -1,0 +1,235 @@
+,user,date,tweet,polarity,valueDelta,volume,volumeDelta
+0,elonmusk,2020-08-01,"@FutureJurvetson @CFS_energy @CUP_Plasma @MIT It’s cool &amp; for sure can &amp; should be done, but I suspect its best case will be more costly than wind &amp; solar (aka big fusion reactor in sky)",Positive,-0.006149277200000025,4589882.24595131,-232164.0209819004
+1,elonmusk,2020-10-01,@TonyChoMrMagic @TeslaEnergy One of the best Tesla Solar Roof installations,Positive,-0.03713414000000004,10825966.25721191,3058264.1479193904
+2,elonmusk,2021-01-09,"@Erdayastronaut @josh_bickett @ajtourville @SpaceX That said, the ship landing burn has a clear solution. My greatest concern is achieving good payload to orbit with rapid &amp; full reusability, without which we shall forever be confined to Earth.",Positive,0.16184124000000022,91906875.463772,-114505278.7809869
+3,elonmusk,2021-02-05,Tesla AI/Autopilot engineering is awesome! Making excellent progress solving real-world AI.,Positive,0.2463505399999999,92892157.08,-15357324.430000007
+4,elonmusk,2021-04-14,"@weddleandsons @Tesla Working with Weddle and Sons Roofing has been a great collaboration for accelerating Tesla Solar Roof installation! 
+
+This is a lot of work, as tens of millions of homes need solar roofs! If you are a roofing company, please consider adding Solar Roof to your offerings.",Positive,-0.9248943500000024,342565805.3,84381893.04000002
+5,elonmusk,2021-07-07,@stevenmarkryan Convincing the best AI talent to join Tesla is the sole goal,Positive,2.358562599999999,519252659.09,153916619.01999998
+6,elonmusk,2021-07-29,"@PPathole Booster has 2 pins for lifting &amp; catching, although maybe it’s better to modify grid fins to take more load. 
+
+Something will need to flip out from leeward side of top of ship to do same there. Maybe it’s part of fwd flaps, but prob not.
+
+Diff solutions for diff load paths.",Positive,3.4031635199999997,448009570.77,132326944.65999997
+7,elonmusk,2021-08-30,"@Tenjin37151 @Space_Station @SpaceX @Commercial_Crew @NASA @esa @JAXA_en @astro_kimbrough @Astro_Megan @Thom_astro @Aki_Hoshide As described in The Moon is a Harsh Mistress (great book), a linear accelerator would be great for the moon. 
+
+Earth’s gravity is too high &amp; atmosphere too dense for accelerators to be a good solution vs reusable boosters imo.",Positive,16.199936779999987,5274104165.4,3443760074.2999997
+8,elonmusk,2021-11-10,"The sun is absurdly, overwhelmingly the source of energy in our solar system",Positive,-5.354226696600023,3873202097.64,1053892605.4099998
+9,elonmusk,2021-12-01,All known rocket anomalies resolved. Will spend another day rechecking to be sure. Launch attempt tmrw eve w Wed as backup.,Positive,21.4060719167,3532771294.16,644383637.0899997
+10,elonmusk,2021-12-19,Solar array deployment successful,Positive,-2.7528551289999825,1678714066.28,-11683909.339999914
+11,elonmusk,2020-04-30,Why forced isolation is bad https://t.co/c2XCcRSx1C,Negative,-0.05614911609999995,5016891.64140768,-8801144.47969972
+12,elonmusk,2021-01-07,"@engineers_feed Not to get to orbit, unfortunately. In space, photon emission powered by matter-antimatter annihilation would rock, but that’s more of a long-term solution.",Negative,0.43615914999999994,159870278.0790676,-50263975.12932488
+13,elonmusk,2021-06-09,"@leastImAlive @PPathole Yeah, sold my houses, except for 1 in Bay Area that’s rented out for events. 
+
+Working on sustainable energy for Earth with Tesla &amp; protecting future of consciousness by making life multiplanetary with SpaceX. Also, AI risk mitigation with Neuralink &amp; fixing traffic with Boring.",Negative,0.7519848299999978,1218831040.77,-1786996802.01
+14,elonmusk,2020-04-16,@RationalEtienne @PPathole @fat__tire @Kristennetten @Robotbeat @ghotiing @CruizVinicius @josh119872 @SweetINXS @voteLabonte @Erdayastronaut @Tesla Does seem that early use is wise. Solving late stage C19 probably requires two or three mechanisms of action.,Neutral,0.05993705930000004,21346031.3456645,-13075275.285934
+15,elonmusk,2020-04-22,@thirdrowtesla @MFrunker Thanks! We are taking some key steps to reduce satellite brightness btw. Should be much less noticeable during orbit raise by changing solar panel angle &amp; all sats get sunshades starting with launch 9.,Neutral,0.1104348261,18828399.5228331,-9711507.44842345
+16,elonmusk,2020-04-22,@Erdayastronaut @flcnhvy @anime_virus @thirdrowtesla @MFrunker Solar panel angle during orbit raise / park. We’re fixing it now.,Neutral,0.1104348261,18828399.5228331,-9711507.44842345
+17,elonmusk,2020-04-24,@VenciKudev @Tesla Absolutely,Neutral,0.010221048700000068,9064190.2668448,-13485271.0516431
+18,elonmusk,2020-04-25,@cleantechnica Many talented engineers are working on FSD at Tesla. What matters is solving vision at high frame rate in our compute space with low latency between camera frame &amp; actuation.,Neutral,0.012801243299999987,7311904.72226874,-9064190.2668448
+19,elonmusk,2020-05-01,@_coffee4closers @jon_stocks92 Exactly. How cheaply freedom is sold.,Neutral,0.03774854839999997,4164272.07175221,-5016891.64140768
+20,elonmusk,2020-05-07,"@Erdayastronaut @YoavOffek Flare stack flamed out. In a few weeks we’ll be recondensing methane using solar power, so no flare stack.",Neutral,-0.009605641599999992,3355830.23580211,-2677562.97435084
+21,elonmusk,2020-05-09,"@EverydayElon @SjvTesla @GerberKawasaki @thirdrowtesla Absolutely, please do! You should be allowed to recoup damages from the county.",Neutral,0.000485890799999944,2128502.76121917,-2488194.57299153
+22,elonmusk,2020-05-09,@vincent13031925 @GerberKawasaki @thirdrowtesla Absolutely,Neutral,0.000485890799999944,2128502.76121917,-2488194.57299153
+23,elonmusk,2020-05-10,"@TeslaTested @LegendaryEnergy Absolutely. Moreover, they don’t even need to be tested for covid, just need “covid-like symptoms”, which is a long list, including “feeling weakness”. Hard to die *without* feeling weakness!",Neutral,-0.06742681839999998,2327580.79632425,-2128502.76121917
+24,elonmusk,2020-05-11,@PPathole @LorenaSGonzalez @Tesla Absolutely,Neutral,-0.02098222120000004,2098480.82876321,-2327580.79632425
+25,elonmusk,2020-05-15,@flcnhvy Absolutely. Tesla already went through this in China with 7000 employees. Zero fatalities or serious illnesses.,Neutral,-0.009441332700000027,1850070.45437919,-2047896.7931676
+26,elonmusk,2020-05-15,"@jk_rowling Pretty much, although massive currency issuance by govt central banks is making Bitcoin Internet 👻 money look solid by comparison",Neutral,-0.009441332700000027,1850070.45437919,-2047896.7931676
+27,elonmusk,2020-06-08,"@JimBridenstine @Commercial_Crew @NASA Outcome-based contracting with multiple competitors is vastly better than cost-plus (especially if sole-sourced), as the former rewards results &amp; latter rewards waste. Outcome contracting should be applied broadly within government. The difference in results will be incredible.",Neutral,0.05323510570000001,1440233.8242528,-716785.469365787
+28,elonmusk,2020-06-08,@Erdayastronaut Absolutely,Neutral,0.05323510570000001,1440233.8242528,-716785.469365787
+29,elonmusk,2020-06-10,"Moreover, energy produced by Tesla solar deployments far exceeds energy used in our factories https://t.co/IDqf5gWeFt",Neutral,-0.013171658000000086,1096203.32551522,-988327.438893434
+30,elonmusk,2020-06-15,@flcnhvy Absolutely,Neutral,-0.0177338157000001,942666.189719777,-873415.751115423
+31,elonmusk,2020-06-21,"@cleantechnica The was not to outcompete other companies, but rather to maximize usefulness &amp; rate of progress in the absolute",Neutral,0.0270146899,2238347.1863849,-1714405.29578048
+32,elonmusk,2020-06-21,"@WhatsupFranks @flcnhvy @MKBHD Will do. I play PC, so missed some of console exclusives.",Neutral,0.0270146899,2238347.1863849,-1714405.29578048
+33,elonmusk,2020-06-26,@flcnhvy @Teslarati Absolutely!,Neutral,0.028613067999999964,1664662.318395,-1751581.2295456
+34,elonmusk,2020-06-27,"@GerberKawasaki @barronsonline Physics favors electric transport, batteries for stationary storage &amp; solar/wind for energy generation",Neutral,-0.02604882630000005,1681428.02669551,-1664662.318395
+35,elonmusk,2020-07-01,"Tesla Impact Report (repost). We do everything humanly possible to source materials &amp; produce sustainable energy cars, batteries &amp; solar ethically. Suggestions for improvement are always appreciated.
+
+https://t.co/WCemMJ44um",Neutral,-0.030722393700000072,1772559.84133893,-3887548.37229807
+36,elonmusk,2020-07-02,"@SamTalksTesla @tlowdon @daniellevitt22 In principle, I think synthetic RNA (and DNA) has amazing potential. This basically makes the solution to many diseases a software problem.",Neutral,-0.05189694890000007,1749581.47684417,-1772559.84133893
+37,elonmusk,2020-07-04,"@bigwheelastro @ChainsawMelee @EvaFoxU @PPathole @leighalexander @TalulahRiley Yeah, but why? I’m working on sustainable energy cars &amp; solar that help Earth and making life multiplanetary, to ensure its continuance, with SpaceX.",Neutral,0.012430728999999974,1644301.45065498,-1144958.29683634
+38,elonmusk,2020-07-10,"@kenyanwalstreet Not actually a payout, just a vesting of stock options. It may never pay out, as the stock can’t be sold for 5 years after exercise. The stock must be bought &amp; income taxes paid, then hold value for 5 years.",Neutral,0.06025586890000001,1856094.87383758,-2668723.50625663
+39,elonmusk,2020-07-10,@flcnhvy @PPathole @IheartTesla Absolutely,Neutral,0.06025586890000001,1856094.87383758,-2668723.50625663
+40,elonmusk,2020-07-18,"If you’ve solved hard problems with phones / wearables (sealing, signal processing, inductive charging, power mgmt, etc), please consider working at engineering@neuralink.com",Neutral,-0.010931952500000008,2923007.17734355,-8973774.36468872
+41,elonmusk,2020-07-18,"Solving high-volume, high-reliability, low-cost production problems is especially valued",Neutral,-0.010931952500000008,2923007.17734355,-8973774.36468872
+42,elonmusk,2020-07-19,This would solve a lot of brain/spine injuries &amp; is ultimately essential for AI symbiosis,Neutral,-0.04765460160000001,2206671.01567458,-2923007.17734355
+43,elonmusk,2020-07-23,@tomosman @Tesla Absolutely,Neutral,0.003688569599999969,2970423.1250175,-5295001.98436419
+44,elonmusk,2020-07-24,"Tesla solar panels are $1.49/Watt 
+https://t.co/5LpLhqgAzw",Neutral,-0.05449807569999998,1991763.30860784,-2970423.1250175
+45,elonmusk,2020-08-01,@cybrtrck Absolutely. Long-lasting art is incredibly difficult.,Neutral,-0.006149277200000025,4589882.24595131,-4822046.26693321
+46,elonmusk,2020-08-15,"@GiulioCoraggio Absolutely, but it doesn’t seem that govt can move fast enough",Neutral,-0.22876024279999996,13155762.3719706,-18427949.9772839
+47,elonmusk,2020-08-19,@EvaFoxU @cnunezimages @SpaceIntellige3 Absolutely 😃 🏝,Neutral,-0.4296553520999997,14838388.9157821,-30350144.9435501
+48,elonmusk,2020-08-19,@DanielleFong @ajtourville @comma_ai @Tesmanian_com Absolutely needs liquid cooling. We’re applying our experience cooling half megawatt drive unit power electronics in cars to computers.,Neutral,-0.4296553520999997,14838388.9157821,-30350144.9435501
+49,elonmusk,2020-08-25,@dauqhx @universal_sci There’s a lot of frozen CO2 &amp; H2O on Mars. Heating the planet will densify the atmosphere. It’s solvable.,Neutral,-0.0848139253000002,13444308.062981,-15785207.7166973
+50,elonmusk,2020-08-30,"@SamTalksTesla @Teslarati If some company has solved a useful thing that we can just buy, that would be great! It’s so much work to create our own tech. We develop new tech, because we have to, not because we want to.",Neutral,0.46581161579999986,22220238.7965161,-14585964.4266973
+51,elonmusk,2020-09-15,"@ValaAfshar Tunnels are the solution to traffic. You can have as many levels as you want. Usable tunnel depth far exceeds tallest buildings, so would work even for New York or Beijing.",Neutral,-0.3300125329000001,11992537.7843944,-21301450.1011828
+52,elonmusk,2020-10-05,@teslaownersSV FSD will solve these issues,Neutral,0.1385091100000002,8105684.0286038,-7075729.47763526
+53,elonmusk,2020-10-07,"@PPathole @klod_ua @Erdayastronaut @TrevorMahlmann @johnkrausphotos @Mike_Seeley 7 bar absolute, which is fine for flight. This was a proof test, rather than a burst test. We’ll hopefully fix the leak today &amp; retest.",Neutral,0.11598693000000004,11759752.04495923,-9739070.719841
+54,elonmusk,2020-10-08,"@TashaARK Waymo is impressive, but a highly specialized solution. The Tesla approach is a general solution. The latest build is capable of zero intervention drives. Will release limited beta in a few weeks.",Neutral,0.06523864999999995,14931921.70481354,-11759752.04495923
+55,elonmusk,2020-10-09,@SDG2030 @anandmahindra @MetniGeorges @ErikSolheim @berniehollywood Norway leads the world,Neutral,0.17211653000000027,12002959.23561284,-14931921.70481354
+56,elonmusk,2020-10-10,@flcnhvy @Neopork85 @Caspar_Stanley @ErcXspace @MarcusHouseGame @FelixSchlang @C_Bass3d @nickhenning3d @SpaceX It might be used in some areas. ITAR laws prevent us from being too specific about solutions.,Neutral,-0.13084324999999986,8842883.98002147,-12002959.23561284
+57,elonmusk,2020-10-12,"@electricfuture5 We face a tough dichotomy of applying resources to the old architecture or applying them to the new. It’s not a question of money. If there was a “great engineer” factory, we would place a large order! Unfortunately, great engineers are very rare. This is solved in the FSD build.",Neutral,0.1609579499999998,12289968.79120837,-7170646.66388414
+58,elonmusk,2020-10-16,"@bamtheteslaman1 @cleantechnica Doesn’t seem to be any life in this solar system. Maybe under the ice of Europa or extremophile bacteria below the surface of Mars. Worth reading:
+https://t.co/ym0d53HgyS",Neutral,-0.11581420999999992,13637728.05365193,-8332482.58866874
+59,elonmusk,2020-10-27,@flcnhvy And there were actually zero employees in the factory after GM/Toyota left. They took all good equipment &amp; sold most of rest for scrap. It looked apocalyptic inside.,Neutral,0.024766150000000042,14384427.42623876,-13396735.95349503
+60,elonmusk,2020-11-06,"When sending your resume, please describe a few of the hardest problems you solved &amp; exactly how you solved them",Neutral,0.50852195,22547497.1265051,-8924131.52401733
+61,elonmusk,2020-11-06,@PPathole Just looking for problem-solvers who get things done with a high sense of urgency. Don’t care if or where they went to school.,Neutral,0.50852195,22547497.1265051,-8924131.52401733
+62,elonmusk,2020-11-17,"@DJSnM @Erdayastronaut @CharlesNOtrumps @rweb11742 Absolutely. Production/testing of rocket engines is over 90% of the problem. This is true in general. For cars, production is over 99% of the problem. That 1% inspiration is very important, but it’s less than 1% of the pain.",Neutral,-0.07889880999999965,17074174.95712231,-22156135.17364347
+63,elonmusk,2020-12-16,"@cleantechnica I absolutely support trans, but all these pronouns are an esthetic nightmare",Neutral,0.023505679999999973,18277631.04446976,-19470079.53119814
+64,elonmusk,2020-12-20,@padgeuk Absolutely. We will release FSD subscription early next year.,Neutral,-0.10713828999999997,9093229.49751807,-9095045.00474692
+65,elonmusk,2020-12-28,@PPathole @WSJ Absolutely,Neutral,0.2116916299999998,12668149.81727901,-12286531.39847335
+66,elonmusk,2020-12-28,@richierichhhhh_ Absolutely,Neutral,0.2116916299999998,12668149.81727901,-12286531.39847335
+67,elonmusk,2020-12-29,"@jayson32292601 Absolutely. Will be text &amp; visualization, but could add voice too.",Neutral,0.15888316999999996,26355258.83179235,-12668149.81727901
+68,elonmusk,2020-12-30,@Erdayastronaut @flcnhvy @ErcXspace SN9 will press CH4 header tank with helium. Long-term solution is under debate. Not clear what is lightest/simplest.,Neutral,-0.1342369699999999,12663615.73809283,-26355258.83179235
+69,elonmusk,2021-01-09,"@PPathole @engineers_feed Yes, that would be the best way to do it. A large solar field or reactor is needed for power, and then some ice mining droids or long maneuvering drills are needed for the H2O. These are probably the trickier bits.",Neutral,0.16184124000000022,91906875.463772,-206412154.2447589
+70,elonmusk,2021-01-13,@lexfridman Absolutely,Neutral,-0.11460113999999999,57994892.73472413,-73484689.24275579
+71,elonmusk,2021-01-18,"@FrancisSuarez @CityofMiami Cars &amp; trucks stuck in traffic generate megatons of toxic gases &amp; particulate, but @boringcompany road tunnels under Miami would solve traffic &amp; be an example to the world. 
+
+Spoke with @RonDeSantisFL about tunnels last week. If Governor &amp; Mayor want this done, we will do it.",Neutral,-0.02661617000000005,70601712.76708774,-85407766.18917261
+72,elonmusk,2021-01-20,@TesLatino @Tesla Absolutely! They rock. 🖤,Neutral,0.08800288000000034,46698656.44529995,-44547767.96672326
+73,elonmusk,2021-01-22,"@Erdayastronaut It’s a good path for fully renewable rocket energy, so solves part of problem, but longer chain hydrocarbons than CH4 are needed to be solid at room temp",Neutral,0.3563085899999998,63361382.17557853,-43834764.53989141
+74,elonmusk,2021-01-22,"@GerberKawasaki They are part of the solution, but require lots of fresh water &amp; land. We may need something that’s ultra-large- scale industrial in 10 to 20 years. For now, by far the top priority is accelerating the transition to a sustainable energy economy.",Neutral,0.3563085899999998,63361382.17557853,-43834764.53989141
+75,elonmusk,2021-01-28,@AOC @RobinhoodApp Absolutely,Neutral,0.1357019399999997,31410526.72,-35195110.46414343
+76,elonmusk,2021-01-31,"Please consider working at Neuralink!
+
+Short-term: solve brain/spine injuries
+Long-term: human/AI symbiosis 
+
+Latter will be species-level important 
+
+Work at either at our Bay Area or Austin locations https://t.co/LPzDrWO8h3",Neutral,0.026830190000000087,78376266.82,-53378197.61
+77,elonmusk,2021-02-15,@itsALLrisky Absolutely,Neutral,0.13747298000000008,109854634.59,-93500422.71
+78,elonmusk,2021-02-20,"@WholeMarsBlog Most people have no idea, even though there are so many FSD progress videos posted. Munro understood right away. 
+
+There will be a gap before the next release, but then it will be a step change better.
+
+Tesla is solving a major real-world AI problem.",Neutral,-1.4754230699999997,140264809.98,-261175710.73
+79,elonmusk,2021-02-22,"@AustinTeslaClub The Tesla Solar Roof is slightly hydrophobic, so water, snow or ice slide off easily",Neutral,3.3817489,574136240.77,-137742366.13
+80,elonmusk,2021-02-24,"@Erdayastronaut @ErcXspace Short-term, CH4 delivered &amp; O2 produced. Propellant is ~78% O2. Long-term, Sabatier reaction to convert CO2 + H2O -&gt; CH4 + O2 using wind &amp; solar power.",Neutral,2.0888649899999976,375439706.61,-485252846.29
+81,elonmusk,2021-02-24,"@teslaownersSV @cleantechnica We’re upgrading all NNs to surround video, using subnets on focal areas (vs equal compute on all uncropped pixels) &amp; many other things, so more time needed to write &amp; validate software. Maybe something next week.
+
+This is evolving into solving a big part of physical world AI.",Neutral,2.0888649899999976,375439706.61,-485252846.29
+82,elonmusk,2021-02-25,@harsimranbansal @skorusARK Absolutely,Neutral,-3.4141692399999997,364505275.74,-375439706.61
+83,elonmusk,2021-03-03,@billhuang688 @F9Block5 @PPathole FSD beta build V8.1 normally drives me around with no interventions. Next version is a big step change beyond that. Tesla is solving a major part of real-world AI. This is not widely known.,Neutral,0.15205069999999843,153830742.14,-178549851.5
+84,elonmusk,2021-03-12,@pflodin @DoctorKarl Absolutely,Neutral,-1.4687768699999992,185287456.96,-229272515.6
+85,elonmusk,2021-03-14,"@WholeMarsBlog What has become absolutely clear is that the plethora of self-driving corner cases can only be solved with real-world optical intelligence. This is how humans designed the road system to work. 
+
+Once you have that in silicon form, everything else is just icing on the cake.",Neutral,-0.7933151899999995,90232803.5,-145102757.4
+86,elonmusk,2021-03-26,@cleantechnica Solar has come a long way. Now just needs lots of long-life batteries!,Neutral,1.7598934499999999,149987319.22,-116277942.87
+87,elonmusk,2021-03-30,@SpaceX A high production rate solves many ills,Neutral,0.34252236000000025,264028426.63,-216748600.52
+88,elonmusk,2021-03-30,"@OwenSparks_ Agreed! We’re not super far, as Magic Valley Utility can give us almost all wind-power, which will be used for LOX (78% of propellant mass)/N2/argon distillation. We’re also aiming to increase solar power from 1MW to 10MW, paired with Tesla Megapacks, for continuous power.",Neutral,0.34252236000000025,264028426.63,-216748600.52
+89,elonmusk,2021-04-09,"@IheartTesla Absolutely doable. Possibly as soon as Neuralink device version 2, highly likely by version 3.",Neutral,0.7924704499999997,282477938.07,-377988327.49
+90,elonmusk,2021-04-09,@w00ki33 @SpaceX @SuperclusterHQ Simulation is improving rendering resolution  …,Neutral,0.7924704499999997,282477938.07,-377988327.49
+91,elonmusk,2021-04-14,@Erdayastronaut @Tesla Absolutely,Neutral,-0.9248943500000024,342565805.3,-258183912.26
+92,elonmusk,2021-04-14,"@AstroJordy @PPathole @SpaceX @Tesla That version of Falcon 1 never flew, so must be ~2004. The CAD looks so simple! I think we were still using SolidWorks back then.",Neutral,-0.9248943500000024,342565805.3,-258183912.26
+93,elonmusk,2021-04-15,"@RationalEtienne @F9Block5 While perhaps obvious in hindsight, it turns out that the only way to solve self-driving is to solve a big part of real-world AI. That is what Tesla is doing, both in hardware &amp; software.
+
+Unless a company is good at AI with tight compute, it’s hopeless. This is insanely hard.",Neutral,1.3814705699999976,221346738.91,-342565805.3
+94,elonmusk,2021-04-22,"Starting next week, Tesla Solar Panels &amp; Solar Roof will only be sold as an integrated product *with* Tesla Powerwall battery",Neutral,6.196328550000004,1638622970.85,-729130140.56
+95,elonmusk,2021-04-22,"Solar power will feed exclusively to Powerwall. Powerwall will interface only between utility meter &amp; house main breaker panel, enabling super simple install &amp; seamless whole house backup during utility dropouts.",Neutral,6.196328550000004,1638622970.85,-729130140.56
+96,elonmusk,2021-04-22,Tesla Solar + Powerwall battery enables consumers to be their own utility,Neutral,6.196328550000004,1638622970.85,-729130140.56
+97,elonmusk,2021-04-22,"@AstroJordy I’m staying at a friend’s place in Florida that is 85% powered by Tesla Solar Roof + Powerwall. 
+
+When grid power goes down, air-conditioning automatically turns off in some of the house. Computers &amp; lights don’t even flicker. Owner says he doesn’t notice.",Neutral,6.196328550000004,1638622970.85,-729130140.56
+98,elonmusk,2021-04-23,@OwenSparks_ @PPathole Absolutely!,Neutral,-1.9207616700000045,1612232268.31,-1638622970.85
+99,elonmusk,2021-04-26,"@Orangetilt Yeah, roughly 200MW/km^2 using currently available solar panels. 
+
+What’s really amazing is that you can store all energy needed to power a continent overnight with 1 square kilometer of stacked Tesla Megapacks!",Neutral,-3.5653396599999994,1357487872.14,-1583800799.69
+100,elonmusk,2021-04-26,"@stoolpresidente No, you do not. I have not sold any of my Bitcoin. Tesla sold 10% of its holdings essentially to prove liquidity of Bitcoin as an alternative to holding cash on balance sheet.",Neutral,-3.5653396599999994,1357487872.14,-1583800799.69
+101,elonmusk,2021-04-29,"A major part of real-world AI has to be solved to make unsupervised, generalized full self-driving work, as the entire road system is designed for biological neural nets with optical imagers",Neutral,-2.3894097000000016,772259306.98,-1021154320.38
+102,elonmusk,2021-05-10,@EvaFoxU @mayemusk Absolutely,Neutral,-1.4324587700000038,499528075.74,-510603311.56
+103,elonmusk,2021-05-17,"@BTC_Archive To clarify speculation, Tesla has not sold any Bitcoin",Neutral,-0.0348168999999956,1951921365.76,-1990976771.49
+104,elonmusk,2021-05-20,"@wintonARK I agree that this *can* be done over time, but recent extreme energy usage growth could not possibly have been done so fast with renewables.
+
+This question is easily resolved if the top 10 hashing orgs just post audited numbers of renewable energy vs not.",Neutral,9.699701529999999,2487748626.09,-2772224998.89
+105,elonmusk,2021-06-06,@teslaownersSV The operating costs of a Tesla are also much lower than a gasoline cruiser!,Neutral,2.5592533200000034,794387364.26,-1112426663.75
+106,elonmusk,2021-06-09,"@MattWallace888 My primary home is literally a ~$50k house in Boca Chica / Starbase that I rent from SpaceX. It’s kinda awesome though.
+
+Only house I own is the events house in the Bay Area. If I sold it, the house would see less use, unless bought by a big family, which might happen some day.",Neutral,0.7519848299999978,1218831040.77,-1786996802.01
+107,elonmusk,2021-06-13,"@Cointelegraph This is inaccurate. Tesla only sold ~10% of holdings to confirm BTC could be liquidated easily without moving market.
+
+When there’s confirmation of reasonable (~50%) clean energy usage by miners with positive future trend, Tesla will resume allowing Bitcoin transactions.",Neutral,2.255727710000002,452988674.4,-549070417.12
+108,elonmusk,2021-06-25,@jack The comments in this thread are solid gold,Neutral,-2.46966819,632052177.4,-641150364.16
+109,elonmusk,2021-06-30,@PPathole @Tesla @SpaceX Basic MRI is easier than it sounds good tbh. High resolution MRI in short time with weak magnetic field is hard.,Neutral,1.5934336400000007,570984167.9,-471854279.1
+110,elonmusk,2021-07-01,"@torybruno Your company said the exact opposite in 2014 when it got a sole-source, uncompeted $11B DoD launch contract. https://t.co/Abd5sWhZDt
+
+In any event, expendable rockets are as relevant to the future as expendable aircraft. Rapidly reusable rockets are all that matter.",Neutral,-2.1016198199999963,474665320.76,-570984167.9
+111,elonmusk,2021-07-03,"@BLKMDL3 Haha, FSD 9 beta is shipping soon, I swear!
+
+Generalized self-driving is a hard problem, as it requires solving a large part of real-world AI. Didn’t expect it to be so hard, but the difficulty is obvious in retrospect.
+
+Nothing has more degrees of freedom than reality.",Neutral,0.4632406499999959,327019963.78,-440298779.57
+112,elonmusk,2021-07-06,"@heyitsyashu Caused by switching frequency of light source. Surround video (multiple cameras, across several frames), improving fps &amp; exposure setting tweaks solves this. All in FSD build.",Neutral,1.3388331399999984,365336040.07,-313839322.49
+113,elonmusk,2021-07-07,@PPathole @SpaceX Absolutely! Staggeringly insane amount of work between now and then.,Neutral,2.358562599999999,519252659.09,-365336040.07
+114,elonmusk,2021-07-07,"@ChrisG_NSF @DJSnM Yeah, that would be cool. Also, using ship itself as structure for new giant telescope that’s &gt;10X Hubble resolution. Was talking to Saul Perlmutter (who’s awesome) &amp; he suggested wanting to do that.",Neutral,2.358562599999999,519252659.09,-365336040.07
+115,elonmusk,2021-07-09,"Tesla Solar Roof + Powerwall in major new housing development in Austin
+https://t.co/u7NJAswFW2",Neutral,0.13031738999999476,327170629.42,-498201256.92
+116,elonmusk,2021-07-09,Solar + Powerwall battery ensures that your home never loses power,Neutral,0.13031738999999476,327170629.42,-498201256.92
+117,elonmusk,2021-07-09,@astro_g_dogg @SpaceX Absolutely,Neutral,0.13031738999999476,327170629.42,-498201256.92
+118,elonmusk,2021-07-16,@AustinTeslaClub @SpaceX @austinbarnard45 @PPathole @TeslaOwnersEBay @bluemoondance74 @teslaownersSV @JohnnaCrider1 @TeslaNY Absolutely!,Neutral,-2.1790573799999997,374718328.01,-329918375.91
+119,elonmusk,2021-07-16,@Teslarati Improving permit approval speed &amp; lowering permit costs for solar would make a big difference,Neutral,-2.1790573799999997,374718328.01,-329918375.91
+120,elonmusk,2021-07-17,"@ErcXspace @NASASpaceflight @SpaceX Some of these design trades are still open, but will be resolved soon",Neutral,0.46754432999999906,289689475.47,-374718328.01
+121,elonmusk,2021-07-24,"@Teslarati Large pouch cells undergo significant volumetric changes at high state of charge.
+
+Even so, fire risk is probably less than gasoline cars. There are over 200,000 combustion engine car fires every year in US alone. It’s literally in the name.
+
+https://t.co/uJPlB3IbzQ",Neutral,0.18471943000000124,353750758.31,-407955236.65
+122,elonmusk,2021-07-26,"@Gfilche Ships are probably fine with iron cells, but aircraft need very high energy density for good range. 
+
+I’m not saying Tesla will do aircraft – we have our hands full with cars &amp; solar/battery power generation – just that max energy density is needed for aircraft.",Neutral,0.07961582000000078,743673802.34,-309208018.29
+123,elonmusk,2021-07-30,"@WholeMarsBlog This should be clear to anyone who has experienced the FSD beta evolution. 
+
+Self-driving requires solving a major part of real-world AI, so it’s an insanely hard problem, but Tesla is getting it done. 
+
+AI Day will be great.",Neutral,1.1185269699999978,617830199.25,-448009570.77
+124,elonmusk,2021-07-31,"@doge_southern @markgurman @tim_cook Yeah, Liftoff is solid",Neutral,4.474026549999998,587168180.52,-617830199.25
+125,elonmusk,2021-07-31,"@WholeMarsBlog There is always a lot of cleanup after a major code release. Beta 9.2 will be tight. 
+
+Still some fundamentals to solve for Beta 10, but now that we’re pure vision, progress is much faster. Radar was holding us back.",Neutral,4.474026549999998,587168180.52,-617830199.25
+126,elonmusk,2021-08-02,@stem_feed That’s about right. Civilization can be powered with a very small % of Earth having solar panels.,Neutral,-0.9681430999999989,407399691.38,-490639931.31
+127,elonmusk,2021-08-06,@jrosinski97 @SpaceX Absolutely,Neutral,2.090744139999998,589190671.39,-595137193.11
+128,elonmusk,2021-08-14,@slashdot Solar/wind + batteries + electric cars is obviously the future,Neutral,-0.7385747400000042,363834257.49,-541894525.01
+129,elonmusk,2021-09-19,@RenataKonkoly @rhensing @johnkrausphotos Absolutely,Neutral,-16.70963422630001,3350530307.68,-5415012910.47
+130,elonmusk,2021-09-21,@28delayslater @KounisTou 10.1 should solve that last cone issue,Neutral,-8.81192139320001,5243953819.45,-5623667249.62
+131,elonmusk,2021-09-25,@SawyerMerritt @Tesla Absolutely! Tesla team rocks 💕,Neutral,-3.1176321565999956,2037106948.63,-3852350632.01
+132,elonmusk,2021-10-11,"@WholeMarsBlog Vision became so good that radar actually reduced SNR, so radar was turned off. 
+
+Humans drive with eyes &amp; biological neural nets, so makes sense that cameras &amp; silicon neural nets are only way to achieve generalized solution to self-driving.",Neutral,-2.942307410500007,1851795187.08,-1556965340.96
+133,elonmusk,2021-10-21,@Liv_Boeree Absolutely,Neutral,13.552882995299996,6865815461.45,-3315306825.49
+134,elonmusk,2021-10-24,"@TeslaGong @mishaboar @DogecoinFdn Not recently. What matters imo is lowering fees, decreasing block time &amp; increasing block size. A single layer network with exchanges as de facto layer 2 seems like the simplest solution for a medium of exchange.",Neutral,4.388870057199995,3413057377.52,-3253670285.69
+135,elonmusk,2021-10-25,"@SawyerMerritt Prototypes are trivial compared to scaling production &amp; supply chain. If those are solved, achieving positive gross margin is the next nightmare. 
+
+Starting a second new vehicle line before first is working will divide resources &amp; amplify probability of failure.",Neutral,7.787804113600004,4837376169.15,-3413057377.52
+136,elonmusk,2021-10-25,@Teslarati @KlenderJoey I’d like to express appreciation to Tesla Autopilot engineering &amp; QA for working round the clock all weekend to resolve the problem,Neutral,7.787804113600004,4837376169.15,-3413057377.52
+137,elonmusk,2021-10-26,"@GerberKawasaki To be clear, cars sold to Hertz have no discount. Same price as to consumers.",Neutral,-9.72438703169999,3194205751.56,-4837376169.15
+138,elonmusk,2021-10-31,"@DrEliDavid If WFP can describe on this Twitter thread exactly how $6B will solve world hunger, I will sell Tesla stock right now and do it.",Neutral,6.647247340600018,2577364485.82,-1732207667.31
+139,elonmusk,2021-11-01,@PPathole @SpaceX Absolutely,Neutral,0.9158727633000012,3157612663.38,-2577364485.82
+140,elonmusk,2021-11-17,"@Teslarati @13ericralph31 Limiting factor for first launch is regulatory approval. Thereafter, fundamental issue is solving engine production.
+
+Prototypes are easy, production is hard.",Neutral,-0.5803930495000031,2982505238.8,-3557977024.44
+141,elonmusk,2021-11-19,"@PPathole There were no EV incentives (nor did we expect them) &amp; gasoline was super cheap, so tough to make the case for electric cars. 
+
+My guess was that we had &lt;10% chance of success &amp; most people thought 0%. The history car startups is just one big graveyard.",Neutral,20.21373760580002,3431624914.2,-3911214657.72
+142,elonmusk,2021-11-22,It gives me solace,Neutral,-15.252357022500007,3254258844.49,-2636480460.22
+143,elonmusk,2021-11-25,@GailAlfarATX @SpaceX @RGVaerialphotos @cnunezimages @kanyewest @SciGuySpace @Erdayastronaut @dogecoin @BillyM2k @austinbarnard45 @NASA Absolutely!,Neutral,0.3668288281999992,2586718626.87,-2293934141.62
+144,elonmusk,2021-11-30,"@micsolana The overarching problem is that we need better mental firewalls for the information constantly coming at us. 
+
+Critical &amp; first principles thinking should be a required course in middle school.
+
+Who wrote the software running in your head? Are you sure you actually want it there?",Neutral,4.438042894000006,2888387657.07,-2110532146.88
+145,elonmusk,2021-12-01,"@YounieTyler @Rainmaker1973 No, but you could get pretty far with rings of separately orbiting objects, like our solar system’s asteroid belt",Neutral,21.4060719167,3532771294.16,-2888387657.07
+146,elonmusk,2021-12-06,"As always, Tesla is looking for hardcore AI engineers who care about solving problems that directly affect people’s lives in a major way.
+https://t.co/0B5toOOHcj",Neutral,-2.3482559837999872,3693853028.05,-3402591974.54
+147,elonmusk,2021-12-07,"@teslafsdbeta Replacing faulty/missing neurons with circuits is the right way to think about it. Many problems can be solved just bridging signals between existing neurons.
+
+Progress will accelerate when we have devices in humans (hard to have nuanced conversations with monkeys) next year.",Neutral,-3.679685587199998,2556849838.98,-3693853028.05
+148,elonmusk,2021-12-10,"@jackfarrington @SawyerMerritt Manufacturers have to ship cars with side mirrors by law, but owners are allowed to modify their cars.
+
+The wiper is what troubles me most. No easy solution. Deployable wiper that stows in front trunk would be ideal, but complex.",Neutral,-13.512737489199992,2118266395.93,-1968182103.95
+149,elonmusk,2021-12-11,@PPathole Absolutely,Neutral,4.032870144699984,1877844188.77,-2118266395.93
+150,elonmusk,2021-12-19,@staciet8 Absolutely,Neutral,-2.7528551289999825,1678714066.28,-1690397975.62
+151,elonmusk,2021-12-21,@PPathole @SpaceX Absolutely,Neutral,6.398154931199997,1821107817.59,-1982986557.56
+152,elonmusk,2021-12-27,"@engineers_feed The resolution of the universe is not smaller than Planck length
+https://t.co/hoyZR4d0pP",Neutral,-2.45391096740002,1800094698.19,-1971114647.24
+153,elonmusk,2022-01-03,@wintonARK Absolutely. This is just bad math.,Neutral,-6.088558838799997,1345778058.3,-995389409.2
